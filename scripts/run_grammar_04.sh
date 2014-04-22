@@ -20,3 +20,5 @@ fsmcompose ./result2/0001.fst $GRAMMAR_BIN_FILE > ./result3/0001a.fst
 fsmcompose ./result2/0001.fst $GRAMMAR_FSA_FILE > ./result3/0001b.fst
 fsmdraw -i $LEX_FILE -o $GRAMMAR_LEX_FILE ./result3/0001a.fst | dot -Teps > ./pic_grammar/0001a.ps
 fsmdraw -i $LEX_FILE -o $GRAMMAR_LEX_FILE ./result3/0001b.fst | dot -Teps > ./pic_grammar/0001b.ps
+
+grmcfapproximate -i lex3.txt -s E -o lex3_new.txt cfg3.bin > input3_new.txt
