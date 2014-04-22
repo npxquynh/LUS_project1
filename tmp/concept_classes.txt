@@ -1,0 +1,67 @@
+day_name ==> yes
+month_name ==> yes
+day_number ==> yes, first second, may be overlap with flight_mod (the first flight)
+airport_code ==> yes
+city_name ==> yes
+airport_name => yes
+state_code ==> maybe, DC, CA
+state_name ==> yes
+period_of_day ==> maybe
+flight_stop ==> nonstop | nonstops
+date_relative ==> not sure, the next day (day is classified as date_relative), the next wednesday (next is classified as date_relative)
+flight_days ==> not sure, daily
+flight_mod ==> maybe: first, earliest flight...
+time_relative ==> maybe: around, before, after
+class_type ==> maybe (first-class, economy-class)
+today_relative ==> maybe: tomorrow, yesterday
+flight_time ==> departure-times
+cost_relative ==> yes
+round_trip ==> one-way....
+
+airline_code
+
+
+fare_amount
+
+
+period_mod
+connect
+year
+meal_code ==> unclear
+null
+
+meal_description ==> ????
+
+
+airline_name
+flight_number
+country_name ==> yes
+
+days_code ==> ?????
+economy
+aircraft_code
+return
+
+fare_basis_code
+
+mod
+restriction_code
+or
+transport_type
+time
+start_time ==> we can classify it as time, then we'll be more detailed in specifying whether it's start_time or end_time, and whether it's depart_time.start_time or depart_time.endtime
+end_time
+
+
+meal
+
+
+=========
+afternoon
+noon
+
+afternoon   arrive_time.period_of_day
+flights null
+
+before  depart_time.time_relative
+noon    depart_time.time
