@@ -1,0 +1,2000 @@
+show me the flights from dallas to san-francisco 
+show state_code the flights from city_name to city_name 
+i want to fly from boston at <unk> and arrive in denver at <unk> in the morning 
+i want to fly from city_name at <unk> airport_code arrive state_code city_name at <unk> state_code the period_of_day 
+what flights are available from pittsburgh to baltimore on thursday morning 
+what flights airport_code available from city_name to city_name on day_name period_of_day 
+what is the arrival-time in san-francisco for the <unk> flight leaving washington 
+what is the flight-time state_code city_name for the <unk> flight leaving state_name 
+cheapest airfare from tacoma to orlando 
+cost_relative airfare from city_name to airport_name 
+round-trip fares from pittsburgh to philadelphia under <unk> 
+round_trip fares from city_name to city_name under <unk> 
+i need a flight tomorrow from columbus to minneapolis 
+i need a flight today_relative from city_name to city_name 
+what kind of aircraft is used on a flight from cleveland to dallas 
+what kind of aircraft is used on a flight from city_name to city_name 
+show me the flights from pittsburgh to los-angeles on thursday 
+show state_code the flights from city_name to city_name on day_name 
+all flights from boston to washington 
+all flights from city_name to state_name 
+what kind of ground transportation is available in denver 
+what kind of ground transportation is available state_code city_name 
+show me the flights from dallas to san-francisco 
+show state_code the flights from city_name to city_name 
+show me the flights from san-diego to newark by way of houston 
+show state_code the flights from city_name to city_name by way of city_name 
+what's the airport at orlando 
+what's the airport_name at airport_name 
+what is the cheapest flight from boston to bwi 
+what is the cost_relative flight from city_name to airport_code 
+all flights to baltimore after <unk> 
+all flights to city_name time_relative <unk> 
+show me the first-class fares from boston to denver 
+show state_code the class_type fares from city_name to city_name 
+show me the ground transportation in denver 
+show state_code the ground transportation state_code city_name 
+all flights from denver to pittsburgh leaving after <unk> and before <unk> 
+all flights from city_name to city_name leaving time_relative <unk> airport_code time_relative <unk> 
+i need information on flights for tuesday leaving baltimore for dallas dallas to boston and boston to baltimore 
+i need information on flights for day_name leaving city_name for city_name city_name to city_name airport_code city_name to city_name 
+please give me the flights from boston to pittsburgh on thursday of next week 
+please give state_code the flights from city_name to city_name on day_name of next week 
+i would like to fly from denver to pittsburgh on united-airlines 
+i would like to fly from city_name to city_name on united-airlines 
+show me the flights from san-diego to newark 
+show state_code the flights from city_name to city_name 
+please list all first-class flights on united from denver to baltimore 
+please list all class_type flights on united from city_name to city_name 
+what kinds of planes are used by american-airlines 
+what kinds of planes airport_code used by american-airlines 
+i'd like to have some information on a ticket from denver to pittsburgh and atlanta 
+i'd like to have some information on a ticket from city_name to city_name airport_code city_name 
+i'd like to book a flight from atlanta to denver 
+i'd like to book a flight from city_name to city_name 
+which airline serves denver pittsburgh and atlanta 
+which airline serves city_name city_name airport_code city_name 
+show me all flights from boston to pittsburgh on wednesday of next week which leave boston after <unk> 
+show state_code all flights from city_name to city_name on day_name of next week which leave city_name time_relative <unk> 
+atlanta ground transportation 
+city_name ground transportation 
+i also need service from dallas to boston arriving by noon 
+i also need service from city_name to city_name arriving by period_of_day 
+show me the cheapest round-trip fare from baltimore to dallas 
+show state_code the cost_relative round_trip fare from city_name to city_name 
+show me all flights from new-york to milwaukee on northwest-airlines departing at <unk> 
+show state_code all flights from state_name to city_name on northwest-airlines departing at <unk> 
+flights from new-york to miami 
+flights from state_name to city_name 
+please find a flight on delta from philadelphia to san-francisco and give me the flight numbers 
+please find a flight on city_name from city_name to city_name airport_code give state_code the flight numbers 
+i need a flight from dallas to san-francisco 
+i need a flight from city_name to city_name 
+fares and flights from pittsburgh to philadelphia 
+fares airport_code flights from city_name to city_name 
+show me the airlines with first-class flights 
+show state_code the airlines with class_type flights 
+what are the flights from st.-louis to burbank sunday evening 
+what airport_code the flights from city_name to city_name day_name period_of_day 
+i'd like to arrange a flight from pittsburgh to atlanta 
+i'd like to arrange a flight from city_name to city_name 
+show flights from baltimore to san-francisco between <unk> and <unk> on friday 
+show flights from city_name to city_name between <unk> airport_code <unk> on day_name 
+how far is it from orlando-airport to orlando 
+how airport_code is it from orlando-airport to airport_name 
+i would like a list of round-trip flights between indianapolis and orlando florida for the twenty-seventh and the twenty-eighth of december 
+i would like a list of round_trip flights between city_name airport_code airport_name airport_name for the day_number airport_code the day_number of month_name 
+which airline has the most arrivals in atlanta 
+which airline has the most arrivals state_code city_name 
+what airlines fly from new-york to milwaukee to los-angeles 
+what airlines fly from state_name to city_name to city_name 
+pittsburgh to denver 
+city_name to city_name 
+which airlines serve atlanta 
+which airlines serve city_name 
+show me information on ground transportation for dallas 
+show state_code information on ground transportation for city_name 
+what is fare code h 
+what is fare code h 
+show me all flights from boston to dallas-fort-worth both direct and connecting that arrive before noon 
+show state_code all flights from city_name to city_name both direct airport_code connecting that arrive time_relative period_of_day 
+i need a flight from charlotte to newark leaving today evening 
+i need a flight from city_name to city_name leaving today period_of_day 
+what are the times that you have planes leaving from san-francisco going to pittsburgh on july seventh 
+what airport_code the times that you have planes leaving from city_name going to city_name on month_name day_number 
+flights from newark to cleveland 
+flights from city_name to city_name 
+what flights go from boston to pittsburgh after <unk> next tuesday 
+what flights go from city_name to city_name time_relative <unk> next day_name 
+how much does the limousine service cost within pittsburgh 
+how much does the limousine service cost within city_name 
+does us-air have any flights out of atlanta to denver 
+does us-air have any flights out of city_name to city_name 
+what is booking class c 
+what is booking class c 
+i'd like to know the shortest trip between boston and san-francisco 
+i'd like to know the shortest trip between city_name airport_code city_name 
+i would like to see information for flights from san-francisco leaving after <unk> to pittsburgh on monday 
+i would like to see information for flights from city_name leaving time_relative <unk> to city_name on day_name 
+what is the least-expensive flight from denver to atlanta 
+what is the cost_relative flight from city_name to city_name 
+i need to know information for flights leaving dallas on tuesday evening and returning to atlanta 
+i need to know information for flights leaving city_name on day_name period_of_day airport_code returning to city_name 
+what flight goes from denver to baltimore first-class on united-airlines arriving on may seventh 
+what flight goes from city_name to city_name class_type on united-airlines arriving on month_name day_number 
+could you please tell me the airlines that fly from toronto to san-diego 
+could you please tell state_code the airlines that fly from city_name to city_name 
+what flights do you have from burbank to tacoma washington 
+what flights do you have from city_name to city_name state_name 
+what is the ground transportation from philadelphia-airport to the city proper 
+what is the ground transportation from philadelphia-airport to the city proper 
+which airlines have first-class flights today 
+which airlines have class_type flights today 
+find the latest flight from san-francisco to atlanta that serves a meal 
+find the latest flight from city_name to city_name that serves a meal 
+i would like to make a reservation for a flight to denver from philadelphia on this coming sunday 
+i would like to make a reservation for a flight to city_name from city_name on this coming day_name 
+give me a list of airports in baltimore 
+give state_code a list of airports state_code city_name 
+show me flights from boston to denver on wednesday 
+show state_code flights from city_name to city_name on day_name 
+show me the flights from boston to baltimore 
+show state_code the flights from city_name to city_name 
+what does fare code q mean 
+what does fare code q mean 
+please give me the flights from san-francisco to washington dc 
+please give state_code the flights from city_name to state_name state_code 
+i need information from denver to pittsburgh 
+i need information from city_name to city_name 
+from seattle to salt-lake-city 
+from city_name to city_name 
+what is the earliest flight from boston to bwi that serves a snack 
+what is the flight_mod flight from city_name to airport_code that serves a snack 
+what types of aircraft does delta fly 
+what types of aircraft does city_name fly 
+what is the cost of a round-trip flight from pittsburgh to atlanta beginning on april twenty-fifth and returning on may sixth 
+what is the cost of a round_trip flight from city_name to city_name beginning on month_name day_number airport_code returning on month_name day_number 
+give me the flights leaving denver august ninth coming back to boston 
+give state_code the flights leaving city_name month_name day_number coming back to city_name 
+list all the flights that fly into general-mitchell-international 
+list all the flights that fly into general-mitchell-international 
+what flights fly from denver to san-francisco on monday tuesday wednesday thursday and friday 
+what flights fly from city_name to city_name on day_name day_name day_name day_name airport_code day_name 
+list all flights from indianapolis to seattle 
+list all flights from city_name to city_name 
+in flight meal oakland to philadelphia saturday 
+state_code flight meal city_name to city_name day_name 
+show me the flights on twa from atlanta in the morning 
+show state_code the flights on airport_code from city_name state_code the period_of_day 
+i want to find the first flight from baltimore to boston that serves a meal 
+i want to find the first flight from city_name to city_name that serves a meal 
+of all airlines which airline has the most arrivals in atlanta 
+of all airlines which airline has the most arrivals state_code city_name 
+display all flights from baltimore to boston on july twenty-ninth 
+display all flights from city_name to city_name on month_name day_number 
+i want to travel from atlanta to baltimore early in the morning first flight 
+i want to travel from city_name to city_name early state_code the period_of_day first flight 
+i now need a flight from san-jose to houston leaving on sunday the fourth 
+i airport_code need a flight from airport_name to city_name leaving on day_name the day_number 
+what are the flights available after <unk> between san-francisco and boston 
+what airport_code the flights available time_relative <unk> between city_name airport_code city_name 
+what flights depart baltimore on friday and arrive in san-francisco by <unk> 
+what flights depart city_name on day_name airport_code arrive state_code city_name by <unk> 
+show me flights from boston to san-francisco 
+show state_code flights from city_name to city_name 
+list the delta-airlines flights from boston to philadelphia 
+list the delta-airlines flights from city_name to city_name 
+show me the fares from dallas to san-francisco 
+show state_code the fares from city_name to city_name 
+what nonstop flights between boston and washington arrive after <unk> 
+what flight_stop flights between city_name airport_code state_name arrive time_relative <unk> 
+what is the distance from los-angeles-international-airport to los-angeles 
+what is the distance from los-angeles-international-airport to city_name 
+ground transportation in san-jose 
+ground transportation state_code airport_name 
+please tell me how many nonstop flights there are from boston to atlanta 
+please tell state_code how many flight_stop flights there airport_code from city_name to city_name 
+on the earliest flight from san-francisco to atlanta on delta is a meal being served 
+on the flight_mod flight from city_name to city_name on city_name is a meal being served 
+where does canadian-airlines-international fly 
+where does canadian-airlines-international fly 
+what flights from denver to pittsburgh arrive before 8 in the morning 
+what flights from city_name to city_name arrive time_relative 8 state_code the period_of_day 
+find me the earliest flight from boston to atlanta 
+find state_code the flight_mod flight from city_name to city_name 
+list nonstop flights from houston to dallas which arrive before midnight 
+list flight_stop flights from city_name to city_name which arrive time_relative midnight 
+show me the flights from boston to san-francisco that stop in atlanta 
+show state_code the flights from city_name to city_name that stop state_code city_name 
+show me flights to san-francisco from philadelphia stopping in dallas 
+show state_code flights to city_name from city_name stopping state_code city_name 
+what city is the airport mco in 
+what city is the airport_name airport_code state_code 
+how much does it cost to rent a car in tacoma 
+how much does it cost to rent a car state_code city_name 
+show me flights from baltimore to dallas 
+show state_code flights from city_name to city_name 
+show me a list of ground transportation at denver 
+show state_code a list of ground transportation at city_name 
+i'd like a flight from columbus to phoenix stopping in cincinnati and serving dinner what's available 
+i'd like a flight from city_name to city_name stopping state_code city_name airport_code serving dinner what's available 
+also show me flights from san-francisco to pittsburgh on tuesday 
+also show state_code flights from city_name to city_name on day_name 
+show flights from dallas to oakland 
+show flights from city_name to city_name 
+give me the cheapest flight from charlotte to long-beach 
+give state_code the cost_relative flight from city_name to airport_name 
+show me all flights from san-francisco to pittsburgh 
+show state_code all flights from city_name to city_name 
+find me a flight on united from boston to san-francisco with a stopover in denver 
+find state_code a flight on united from city_name to city_name with a stopover state_code city_name 
+show me the last flight from love-field 
+show state_code the last flight from love-field 
+what flights go from newark to boston after <unk> 
+what flights go from city_name to city_name time_relative <unk> 
+what are all the flights from boston to dallas 
+what airport_code all the flights from city_name to city_name 
+what is the earliest flight departing san-francisco and arriving in boston on november ninth 
+what is the flight_mod flight departing city_name airport_code arriving state_code city_name on month_name day_number 
+what is the earliest flight flying from pittsburgh to atlanta on july fifth 
+what is the flight_mod flight flying from city_name to city_name on month_name day_number 
+please list available flights for next saturday from philadelphia to dallas 
+please list available flights for next day_name from city_name to city_name 
+what flights leave pittsburgh and arrive in los-angeles after <unk> on thursday 
+what flights leave city_name airport_code arrive state_code city_name time_relative <unk> on day_name 
+what is the transportation time from the airport to boston 
+what is the transportation time from the airport_name to city_name 
+which airline has the smallest plane leaving pittsburgh and arriving in baltimore on july fourth 
+which airline has the smallest plane leaving city_name airport_code arriving state_code city_name on month_name day_number 
+what are the nonstop flights on america-west or southwest air from kansas-city to burbank on saturday may twenty-two 
+what airport_code the flight_stop flights on america-west state_code southwest air from city_name to city_name on day_name month_name day_number 
+what are the classes of service for american-airlines 
+what airport_code the classes of service for american-airlines 
+i would like to find out what flights there are on friday june eleventh from st.-petersburg to milwaukee and then from milwaukee to tacoma thank you 
+i would like to find out what flights there airport_code on day_name month_name day_number from city_name to city_name airport_code then from city_name to city_name thank you 
+all flights from boston to washington dc on november tenth 
+all flights from city_name to state_name state_code on month_name day_number 
+what are the flights from denver to san-francisco 
+what airport_code the flights from city_name to city_name 
+on the <unk> flight from san-francisco to atlanta what type of aircraft is used 
+on the <unk> flight from city_name to city_name what type of aircraft is used 
+which flight is a one-way fare at <unk> from denver to pittsburgh 
+which flight is a round_trip fare at <unk> from city_name to city_name 
+what flights leave baltimore for boston after <unk> on friday 
+what flights leave city_name for city_name time_relative <unk> on day_name 
+okay i need to get a flight from houston to seattle 
+okay i need to get a flight from city_name to city_name 
+please list flights between denver and boston 
+please list flights between city_name airport_code city_name 
+find me the flights that are nonstop between boston and dallas that leave between <unk> and 2 in the afternoon 
+find state_code the flights that airport_code flight_stop between city_name airport_code city_name that leave between <unk> airport_code 2 state_code the period_of_day 
+i would like some information on flights leaving boston to atlanta 
+i would like some information on flights leaving city_name to city_name 
+show me the latest nonstop flight from denver to washington dc 
+show state_code the latest flight_stop flight from city_name to state_name state_code 
+what are the flights from dallas to baltimore 
+what airport_code the flights from city_name to city_name 
+i would like a nonstop flight from new-york to las-vegas on march second 
+i would like a flight_stop flight from state_name to city_name on month_name second 
+no i want to go from denver to oakland 
+no i want to go from city_name to city_name 
+show me all the night fares between philadelphia and san-francisco 
+show state_code all the period_of_day fares between city_name airport_code city_name 
+what kinds of ground transportation is available in dallas-fort-worth 
+what kinds of ground transportation is available state_code city_name 
+can you show me economy-class one-way fares for flights from oakland to dallas on december sixteenth 
+can you show state_code class_type round_trip fares for flights from city_name to city_name on month_name day_number 
+what is fare code qw 
+what is fare code qw 
+i'd like a flight on july ninth from orlando to kansas-city in the afternoon 
+i'd like a flight on month_name day_number from airport_name to city_name state_code the period_of_day 
+what are the coach fares from charlotte to la wednesday night 
+what airport_code the coach fares from city_name to state_code day_name period_of_day 
+is there ground transportation available in denver 
+is there ground transportation available state_code city_name 
+show me flights from philadelphia to oakland on friday 
+show state_code flights from city_name to city_name on day_name 
+i would like to know the flights available from boston to denver arriving in denver by <unk> wednesday morning 
+i would like to know the flights available from city_name to city_name arriving state_code city_name by <unk> day_name period_of_day 
+i would like to fly the cheapest rate available from pittsburgh to atlanta on wednesday morning 
+i would like to fly the cost_relative rate available from city_name to city_name on day_name period_of_day 
+list the flight from philadelphia to san-francisco on american-airlines 
+list the flight from city_name to city_name on american-airlines 
+flights from memphis to las-vegas on sunday 
+flights from city_name to city_name on day_name 
+what is the first flight from atlanta to boston on thursday september fifth that leaves after <unk> 
+what is the first flight from city_name to city_name on day_name month_name day_number that leaves time_relative <unk> 
+what is the first-class fare on united flight <unk> from denver to boston 
+what is the class_type fare on united flight <unk> from city_name to city_name 
+flight from philadelphia to dallas arriving before <unk> on saturday 
+flight from city_name to city_name arriving time_relative <unk> on day_name 
+list flights tomorrow from san-diego to phoenix 
+list flights today_relative from city_name to city_name 
+show me all flights from san-francisco to washington dc area 
+show state_code all flights from city_name to state_name state_code area 
+sure i want to go from philadelphia to dallas 
+sure i want to go from city_name to city_name 
+show me all the united-airlines flights leaving dallas 
+show state_code all the united-airlines flights leaving city_name 
+can you list all the flights between phoenix and las-vegas 
+can you list all the flights between city_name airport_code city_name 
+list all flights from baltimore to philadelphia 
+list all flights from city_name to city_name 
+round-trip flights from minneapolis to san-diego coach economy fare 
+round_trip flights from city_name to city_name coach class_type fare 
+i want to fly from boston to denver and i don't want any stopovers and i'd like to fly only during the afternoon 
+i want to fly from city_name to city_name airport_code i don't want any stopovers airport_code i'd like to fly only during the period_of_day 
+flights from denver to baltimore between <unk> and <unk> 
+flights from city_name to city_name between <unk> airport_code <unk> 
+show me the flights from denver to atlanta 
+show state_code the flights from city_name to city_name 
+what flights are there on delta from boston to dallas 
+what flights airport_code there on city_name from city_name to city_name 
+what kind of ground transportation can you offer me in seattle 
+what kind of ground transportation can you offer state_code state_code city_name 
+leaving washington going to san-francisco the latest flight 
+leaving state_name going to city_name the latest flight 
+show me the flights available from atlanta to baltimore leaving atlanta in the morning 
+show state_code the flights available from city_name to city_name leaving city_name state_code the period_of_day 
+round-trip fares new-york to san-jose 
+round_trip fares state_name to airport_name 
+which flights are serviced by american-airlines 
+which flights airport_code serviced by american-airlines 
+how do i get from pittsburgh-airport to downtown pittsburgh 
+how do i get from pittsburgh-airport to airport_name city_name 
+does midwest express serve charlotte 
+does midwest express serve city_name 
+what flights from houston to milwaukee on friday in the evening on american-airlines 
+what flights from city_name to city_name on day_name state_code the period_of_day on american-airlines 
+what is the earliest flight going from san-francisco to dallas on monday august nineteenth 
+what is the flight_mod flight going from city_name to city_name on day_name month_name day_number 
+what flights from atlanta to st.-louis on tuesday arriving around <unk> 
+what flights from city_name to city_name on day_name arriving around <unk> 
+i need a flight from kansas-city to chicago that leaves wednesday and arrives in chicago around <unk> 
+i need a flight from city_name to city_name that leaves day_name airport_code arrives state_code city_name around <unk> 
+i would like information on any flights from pittsburgh to san-francisco leaving thursday evening 
+i would like information on any flights from city_name to city_name leaving day_name period_of_day 
+i need a cheap flight from baltimore to san-francisco 
+i need a cost_relative flight from city_name to city_name 
+what is the cost of a first-class ticket from baltimore to dallas 
+what is the cost of a class_type ticket from city_name to city_name 
+what is the economy thrift fare from boston to washington 
+what is the class_type thrift fare from city_name to state_name 
+list the nonstop flights early tuesday morning from dallas to atlanta 
+list the flight_stop flights early day_name period_of_day from city_name to city_name 
+what is the earliest flight you have that leaves philadelphia to dallas 
+what is the flight_mod flight you have that leaves city_name to city_name 
+are there any flights from dallas-fort-worth to boston leaving before <unk> 
+airport_code there any flights from city_name to city_name leaving time_relative <unk> 
+show me all the flights to baltimore after <unk> 
+show state_code all the flights to city_name time_relative <unk> 
+i need a return flight from philadelphia to boston 
+i need a round_trip flight from city_name to city_name 
+united-airlines flights stopping in denver before noon 
+united-airlines flights stopping state_code city_name time_relative period_of_day 
+show me the car-rentals in baltimore 
+show state_code the car-rentals state_code city_name 
+what flights go from newark to boston after <unk> in the morning 
+what flights go from city_name to city_name time_relative <unk> state_code the period_of_day 
+shortest evening flight from tampa to cincinnati 
+shortest period_of_day flight from city_name to city_name 
+how much time does it take to go between the airport and downtown by ground transportation in dallas 
+how much time does it take to go between the airport_name airport_code airport_name by ground transportation state_code city_name 
+flights from boston to pittsburgh 
+flights from city_name to city_name 
+i'd like to fly continental-airlines between boston and philadelphia 
+i'd like to fly continental-airlines between city_name airport_code city_name 
+i would like to book a flight on continental-airlines from chicago to seattle on june first 
+i would like to book a flight on continental-airlines from city_name to city_name on month_name first 
+all flights from pittsburgh to dallas round-trip after <unk> less than <unk> 
+all flights from city_name to city_name round_trip time_relative <unk> less than <unk> 
+show me flights on sunday going from san-francisco to boston nonstop first-class leaving after <unk> 
+show state_code flights on day_name going from city_name to city_name flight_stop class_type leaving time_relative <unk> 
+from las-vegas to phoenix 
+from city_name to city_name 
+show me flights from pittsburgh to atlanta on monday afternoon 
+show state_code flights from city_name to city_name on day_name period_of_day 
+show me the flight with the smallest seating capacity which leaves pittsburgh and arrives in baltimore on june fourteenth 
+show state_code the flight with the smallest seating capacity which leaves city_name airport_code arrives state_code city_name on month_name day_number 
+show all flights from boston to denver on july thirty-first 
+show all flights from city_name to city_name on month_name day_number 
+are there any flights before <unk> on june fifteenth from long-beach to columbus 
+airport_code there any flights time_relative <unk> on month_name day_number from airport_name to city_name 
+list daily flights from boston to atlanta 
+list flight_days flights from city_name to city_name 
+on a flight from san-francisco to atlanta that leaves before <unk> is there such a flight 
+on a flight from city_name to city_name that leaves time_relative <unk> is there such a flight 
+on united-airlines give me the flight-times from boston to dallas 
+on united-airlines give state_code the flight-times from city_name to city_name 
+ground transportation minneapolis 
+ground transportation city_name 
+show me airline abbreviations 
+show state_code airline abbreviations 
+how many flights does delta have with a class of service code f 
+how many flights does city_name have with a class of service code f 
+please list all the arriving and departing flights from general-mitchell-international 
+please list all the arriving airport_code departing flights from general-mitchell-international 
+i would like to see the flights from denver to philadelphia please 
+i would like to see the flights from city_name to city_name please 
+does eastern-airlines fly early in the morning between logan and bwi 
+does eastern-airlines fly early state_code the period_of_day between city_name airport_code airport_code 
+what flights leave phoenix on american-airlines 
+what flights leave city_name on american-airlines 
+can you list all the airlines that have flights from boston to san-francisco 
+can you list all the airlines that have flights from city_name to city_name 
+flights from nashville to orlando daily 
+flights from city_name to airport_name flight_days 
+show me first-class flights from pittsburgh to san-francisco on friday 
+show state_code class_type flights from city_name to city_name on day_name 
+i need the earliest flight from denver to boston that serves dinner 
+i need the flight_mod flight from city_name to city_name that serves dinner 
+from toronto to atlanta in the afternoon 
+from city_name to city_name state_code the period_of_day 
+please list the friday afternoon flights from san-jose to dallas on american-airlines 
+please list the day_name period_of_day flights from airport_name to city_name on american-airlines 
+is there ground transportation in boston from the airport 
+is there ground transportation state_code city_name from the airport_name 
+show first flight from pittsburgh to atlanta on wednesday 
+show first flight from city_name to city_name on day_name 
+i'm sorry i wanted to fly twa is there a flight between oakland and boston with a stopover in dallas-fort-worth on twa 
+i'm sorry i wanted to fly airport_code is there a flight between city_name airport_code city_name with a stopover state_code city_name on airport_code 
+show me all flights from san-francisco to la-guardia nonstop 
+show state_code all flights from city_name to airport_name flight_stop 
+what flights are there from pittsburgh to los-angeles 
+what flights airport_code there from city_name to city_name 
+what kind of ground transportation is there in washington dc 
+what kind of ground transportation is there state_code state_name state_code 
+what is the least-expensive flight available from dallas-fort-worth to san-francisco 
+what is the cost_relative flight available from city_name to city_name 
+what does the fare code f mean 
+what does the fare code f mean 
+what's the most-expensive way i can fly to washington 
+what's the most-expensive way i can fly to state_name 
+what flights from houston to milwaukee on friday on american-airlines 
+what flights from city_name to city_name on day_name on american-airlines 
+what is the schedule of ground transportation from the airport in philadelphia into downtown 
+what is the schedule of ground transportation from the airport_name state_code city_name into airport_name 
+show me a list of flights from san-francisco to boston for august thirtieth 
+show state_code a list of flights from city_name to city_name for month_name day_number 
+show me the least-expensive flight from miami to cleveland on sunday after noon 
+show state_code the cost_relative flight from city_name to city_name on day_name time_relative period_of_day 
+how much does it cost to go from downtown to logan-airport 
+how much does it cost to go from airport_name to logan-airport 
+what flights are there from newark to tampa 
+what flights airport_code there from city_name to city_name 
+i want a flight from philadelphia to dallas that at least has one-stop 
+i want a flight from city_name to city_name that at least has one-stop 
+show flights from denver to oakland arriving between <unk> and <unk> 
+show flights from city_name to city_name arriving between <unk> airport_code <unk> 
+what is the fare from san-francisco to dallas-fort-worth on delta flight <unk> 
+what is the fare from city_name to city_name on city_name flight <unk> 
+flights from newark new-jersey to cleveland ohio 
+flights from city_name state_name to city_name state_name 
+give me flights from denver to baltimore 
+give state_code flights from city_name to city_name 
+show the flights from denver to san-francisco 
+show the flights from city_name to city_name 
+show me flights denver to washington dc on thursday 
+show state_code flights city_name to state_name state_code on day_name 
+please list the thursday morning flights from st.-louis to st.-paul 
+please list the day_name period_of_day flights from city_name to city_name 
+what flight do you have from pittsburgh to san-francisco on the morning of august twenty-seventh 
+what flight do you have from city_name to city_name on the period_of_day of month_name day_number 
+what are the flights from boston to atlanta 
+what airport_code the flights from city_name to city_name 
+what flights from baltimore to san-francisco arrive before <unk> in san-francisco 
+what flights from city_name to city_name arrive time_relative <unk> state_code city_name 
+show me the flights from pittsburgh to san-francisco for thursday night or friday 
+show state_code the flights from city_name to city_name for day_name period_of_day state_code day_name 
+get me a first-class flight on american to san-francisco on tuesday next week 
+get state_code a class_type flight on american to city_name on day_name next week 
+ground transportation in westchester-county 
+ground transportation state_code westchester-county 
+what flights are there from atlanta to baltimore 
+what flights airport_code there from city_name to city_name 
+i'd like to fly from dallas to san-francisco at approximately <unk> 
+i'd like to fly from city_name to city_name at approximately <unk> 
+list the fares of us-air flights from boston to philadelphia 
+list the fares of us-air flights from city_name to city_name 
+list flights from phoenix to detroit on thursday june twenty-fourth 
+list flights from city_name to city_name on day_name month_name day_number 
+what flights from miami to indianapolis on sunday 
+what flights from city_name to city_name on day_name 
+now show me the flights from memphis to cleveland 
+airport_code show state_code the flights from city_name to city_name 
+can you give me information on all the flights from san-francisco no from pittsburgh to san-francisco on monday 
+can you give state_code information on all the flights from city_name no from city_name to city_name on day_name 
+could you find me a flight from boston to san-francisco that stops in denver 
+could you find state_code a flight from city_name to city_name that stops state_code city_name 
+flights from cleveland to miami 
+flights from city_name to city_name 
+give me the flights from pittsburgh to los-angeles thursday evening 
+give state_code the flights from city_name to city_name day_name period_of_day 
+please list all of the flights leaving atlanta heading to baltimore after <unk> wednesday and before <unk> thursday 
+please list all of the flights leaving city_name heading to city_name time_relative <unk> day_name airport_code time_relative <unk> day_name 
+show me flights from seattle to san-francisco that leave after <unk> 
+show state_code flights from city_name to city_name that leave time_relative <unk> 
+show me the flights that go from tacoma to miami 
+show state_code the flights that go from city_name to city_name 
+which airline can fly me from atlanta to denver to san-francisco 
+which airline can fly state_code from city_name to city_name to city_name 
+are there any flights from denver to pittsburgh with stops in atlanta 
+airport_code there any flights from city_name to city_name with stops state_code city_name 
+list all the flights that arrive at general-mitchell-international 
+list all the flights that arrive at general-mitchell-international 
+what is fare code h 
+what is fare code h 
+what flights from salt-lake-city to new-york-city arrive next saturday before <unk> 
+what flights from city_name to new-york-city arrive next day_name time_relative <unk> 
+flights from nashville to seattle 
+flights from city_name to city_name 
+show me fares from seattle to minneapolis 
+show state_code fares from city_name to city_name 
+i need a flight from boston to san-francisco via dallas-fort-worth 
+i need a flight from city_name to city_name via city_name 
+i'd like an afternoon flight from atlanta to san-francisco with a stopover in denver arriving i'd say about mealtime 
+i'd like an period_of_day flight from city_name to city_name with a stopover state_code city_name arriving i'd say about mealtime 
+show me the most-expensive one-way flight from detroit to westchester-county 
+show state_code the most-expensive round_trip flight from city_name to westchester-county 
+show me the flights from baltimore to philadelphia 
+show state_code the flights from city_name to city_name 
+from denver to washington dc on monday november eleventh <unk> 
+from city_name to state_name state_code on day_name month_name day_number <unk> 
+please list all the flights from boston to denver which serve meals 
+please list all the flights from city_name to city_name which serve meals 
+list aircraft types that fly between boston and san-francisco 
+list aircraft types that fly between city_name airport_code city_name 
+what does fare code qw mean 
+what does fare code qw mean 
+i'm interested in a flight on american-airlines from dallas to washington 
+i'm interested state_code a flight on american-airlines from city_name to state_name 
+give me flights from pittsburgh to baltimore 
+give state_code flights from city_name to city_name 
+how much is a round-trip fare from indianapolis to seattle 
+how much is a round_trip fare from city_name to city_name 
+what is the cheapest flight from long-beach to memphis 
+what is the cost_relative flight from airport_name to city_name 
+which airline provides business-class flights 
+which airline provides class_type flights 
+pittsburgh to denver 
+city_name to city_name 
+which airlines fly between boston and pittsburgh 
+which airlines fly between city_name airport_code city_name 
+list the flights arriving in atlanta from baltimore before noon on august fourth 
+list the flights arriving state_code city_name from city_name time_relative period_of_day on month_name day_number 
+give me the flights for american-airline from philadelphia to dallas 
+give state_code the flights for american-airline from city_name to city_name 
+i need a flight this sunday from miami to las-vegas and i would prefer a morning flight 
+i need a flight this day_name from city_name to city_name airport_code i would prefer a period_of_day flight 
+flights from boston to pittsburgh 
+flights from city_name to city_name 
+which flights go from pittsburgh to atlanta in the evening 
+which flights go from city_name to city_name state_code the period_of_day 
+show me the fares from dallas to san-francisco 
+show state_code the fares from city_name to city_name 
+give me american-airlines flights from milwaukee to phoenix on saturday and on sunday 
+give state_code american-airlines flights from city_name to city_name on day_name airport_code on day_name 
+list all flights that leave from baltimore or denver or pittsburgh and arrive in philadelphia 
+list all flights that leave from city_name state_code city_name state_code city_name airport_code arrive state_code city_name 
+show me the flights from baltimore to oakland 
+show state_code the flights from city_name to city_name 
+show me the earliest flight from denver to las-vegas 
+show state_code the flight_mod flight from city_name to city_name 
+show me flights from milwaukee to orlando on wednesday night 
+show state_code flights from city_name to airport_name on day_name period_of_day 
+may i have a listing of flights from milwaukee to tacoma washington departing in the evening 
+month_name i have a listing of flights from city_name to city_name state_name departing state_code the period_of_day 
+what morning flights do you have between oakland and denver 
+what period_of_day flights do you have between city_name airport_code city_name 
+i'd like a flight from washington that stops in denver and goes on to san-francisco 
+i'd like a flight from state_name that stops state_code city_name airport_code goes on to city_name 
+show me all flights from pittsburgh to baltimore tomorrow 
+show state_code all flights from city_name to city_name today_relative 
+all one-way flights between boston and philadelphia 
+all round_trip flights between city_name airport_code city_name 
+what flights go to san-francisco from boston 
+what flights go to city_name from city_name 
+what flights are there from san-francisco to philadelphia daily with economy-class 
+what flights airport_code there from city_name to city_name flight_days with class_type 
+first flights from pittsburgh to atlanta on a thursday 
+first flights from city_name to city_name on a day_name 
+show me the flights from baltimore to atlanta 
+show state_code the flights from city_name to city_name 
+tell me about flights from toronto to salt-lake-city leaving after <unk> 
+tell state_code about flights from city_name to city_name leaving time_relative <unk> 
+show me the flights from indianapolis to orlando with round-trip fares less than <unk> 
+show state_code the flights from city_name to airport_name with round_trip fares less than <unk> 
+i need a flight from boston to pittsburgh that leaves early in the morning 
+i need a flight from city_name to city_name that leaves early state_code the period_of_day 
+what is the first flight from atlanta to baltimore that serves lunch 
+what is the first flight from city_name to city_name that serves lunch 
+show me the flights from pittsburgh to baltimore 
+show state_code the flights from city_name to city_name 
+all flights from denver to philadelphia 
+all flights from city_name to city_name 
+oakland to philadelphia saturday 
+city_name to city_name day_name 
+give me the earliest flight tomorrow on united-airlines from st.-petersburg to milwaukee 
+give state_code the flight_mod flight today_relative on united-airlines from city_name to city_name 
+show me flights on monday from philadelphia to boston after <unk> 
+show state_code flights on day_name from city_name to city_name time_relative <unk> 
+show me all the flights leaving baltimore 
+show state_code all the flights leaving city_name 
+show me the flights from philadelphia to boston 
+show state_code the flights from city_name to city_name 
+is there a plane from boston to washington 
+is there a plane from city_name to state_name 
+i need to go from boston to atlanta and back in the same day find me the earliest flight from boston 
+i need to go from city_name to city_name airport_code back state_code the same airport_code find state_code the flight_mod flight from city_name 
+what are flights between boston and pittsburgh on august tenth 
+what airport_code flights between city_name airport_code city_name on month_name day_number 
+what are the schedule of flights from boston to san-francisco for august first 
+what airport_code the schedule of flights from city_name to city_name for month_name first 
+show me one-way flights from milwaukee to orlando wednesday 
+show state_code round_trip flights from city_name to airport_name day_name 
+show me all flights from pittsburgh to baltimore tomorrow which serve a meal 
+show state_code all flights from city_name to city_name today_relative which serve a meal 
+give me flights on american-airlines from milwaukee to phoenix 
+give state_code flights on american-airlines from city_name to city_name 
+show all flights from pittsburgh to san-francisco 
+show all flights from city_name to city_name 
+i wish to fly from boston to washington please find an airline for me 
+i wish to fly from city_name to state_name please find an airline for state_code 
+please list the flights from dallas-fort-worth to dc baltimore on july twenty-third 
+please list the flights from city_name to state_code city_name on month_name day_number 
+which flights from memphis to tacoma also stop in los-angeles 
+which flights from city_name to city_name also stop state_code city_name 
+show me the flights on tuesday morning from charlotte to baltimore 
+show state_code the flights on day_name period_of_day from city_name to city_name 
+i need 2 first-class tickets from dallas-fort-worth to san-francisco 
+i need 2 class_type tickets from city_name to city_name 
+are there any flights from philadelphia to dallas which stop in atlanta 
+airport_code there any flights from city_name to city_name which stop state_code city_name 
+flights to baltimore 
+flights to city_name 
+what does mco stand for 
+what does airport_code stand for 
+what is the least-expensive way to fly from philadelphia to san-francisco 
+what is the cost_relative way to fly from city_name to city_name 
+list all nonstop flights from los-angeles to pittsburgh before <unk> on tuesday 
+list all flight_stop flights from city_name to city_name time_relative <unk> on day_name 
+how many booking classes are there 
+how many booking classes airport_code there 
+flight numbers from columbus to minneapolis tomorrow 
+flight numbers from city_name to city_name today_relative 
+give me the continental flights from chicago to seattle on friday 
+give state_code the continental flights from city_name to city_name on day_name 
+what are the united-airlines flights between baltimore and denver on august twelfth 
+what airport_code the united-airlines flights between city_name airport_code city_name on month_name day_number 
+show me the flights next tuesday between philadelphia and san-francisco 
+show state_code the flights next day_name between city_name airport_code city_name 
+find a flight on american-airlines from boston to san-francisco that makes a stopover in denver 
+find a flight on american-airlines from city_name to city_name that makes a stopover state_code city_name 
+show me the fares on all flights round-trip from pittsburgh to oakland 
+show state_code the fares on all flights round_trip from city_name to city_name 
+what's the difference between fare code q and fare code f 
+what's the difference between fare code q airport_code fare code f 
+flights from cincinnati to salt-lake-city 
+flights from city_name to city_name 
+ground transportation denver 
+ground transportation city_name 
+show me flights from denver to washington dc on wednesdays 
+show state_code flights from city_name to state_name state_code on day_name 
+find a flight between denver and oakland the flight should be in the afternoon and arrive close to <unk> the flight should be nonstop 
+find a flight between city_name airport_code city_name the flight should be state_code the period_of_day airport_code arrive close to <unk> the flight should be flight_stop 
+show me all flights from atlanta to washington with prices 
+show state_code all flights from city_name to state_name with prices 
+flights between new-york and miami 
+flights between state_name airport_code city_name 
+please list the monday morning flights from kansas-city to atlanta 
+please list the day_name period_of_day flights from city_name to city_name 
+list all american-airlines flights from phoenix to milwaukee which arrive on wednesday after <unk> 
+list all american-airlines flights from city_name to city_name which arrive on day_name time_relative <unk> 
+what round-trip tickets are there from cleveland to miami on us-air that arrive before <unk> 
+what round_trip tickets airport_code there from city_name to city_name on us-air that arrive time_relative <unk> 
+i'd like to go from boston to denver at <unk> saturday night 
+i'd like to go from city_name to city_name at <unk> day_name period_of_day 
+show me the northwest flights from detroit to st.-petersburg 
+show state_code the northwest flights from city_name to city_name 
+what is the available ground transportation between the airport in denver and downtown 
+what is the available ground transportation between the airport_name state_code city_name airport_code airport_name 
+on may four atlanta to denver delta flight <unk> 
+on month_name four city_name to city_name city_name flight <unk> 
+show me all flights from indianapolis 
+show state_code all flights from city_name 
+which airlines have flights between philadelphia and pittsburgh 
+which airlines have flights between city_name airport_code city_name 
+which are the flights from denver to baltimore or washington dc 
+which airport_code the flights from city_name to city_name state_code state_name state_code 
+list the number of flights leaving boston for dallas-fort-worth before <unk> in the morning 
+list the number of flights leaving city_name for city_name time_relative <unk> state_code the period_of_day 
+are there delta flights leaving atlanta 
+airport_code there city_name flights leaving city_name 
+can you list all round-trip flights from orlando to kansas-city and then to minneapolis 
+can you list all round_trip flights from airport_name to city_name airport_code then to city_name 
+i would like to find a flight from kansas-city to salt-lake-city on delta and arriving at about <unk> in the evening could you please tell me the aircraft and the flight number thank you 
+i would like to find a flight from city_name to city_name on city_name airport_code arriving at about <unk> state_code the period_of_day could you please tell state_code the aircraft airport_code the flight number thank you 
+i would like a flight from washington to boston leaving at <unk> on august twentieth 
+i would like a flight from state_name to city_name leaving at <unk> on month_name day_number 
+how much is a flight from washington to boston 
+how much is a flight from state_name to city_name 
+show me all flights from orlando to san-diego on a boeing <unk> 
+show state_code all flights from airport_name to city_name on a boeing <unk> 
+what flights are there on sunday from seattle to minneapolis 
+what flights airport_code there on day_name from city_name to city_name 
+where is mco 
+where is airport_code 
+show me all flights from pittsburgh to atlanta 
+show state_code all flights from city_name to city_name 
+which united-airlines flight flies across this continent and leaves from boston goes to dallas and makes a stopover in philadelphia 
+which united-airlines flight flies across this continent airport_code leaves from city_name goes to city_name airport_code makes a stopover state_code city_name 
+list daily flights of united-airline from denver to baltimore with first-class service 
+list flight_days flights of united-airline from city_name to city_name with class_type service 
+show me flights from pittsburgh to atlanta on monday morning 
+show state_code flights from city_name to city_name on day_name period_of_day 
+all flights phoenix to sfo 
+all flights city_name to airport_code 
+i want to travel from washington dc to philadelphia on tuesday morning 
+i want to travel from state_name state_code to city_name on day_name period_of_day 
+what is the fare going from atlanta to boston one-way on november seventh 
+what is the fare going from city_name to city_name round_trip on month_name day_number 
+is there a flight on american-airlines from boston to denver 
+is there a flight on american-airlines from city_name to city_name 
+what flights are available from san-francisco to pittsburgh on thursday evening 
+what flights airport_code available from city_name to city_name on day_name period_of_day 
+do you have an afternoon flight leaving in the afternoon going from boston to san-francisco with a stopover in dallas 
+do you have an period_of_day flight leaving state_code the period_of_day going from city_name to city_name with a stopover state_code city_name 
+show the flights from pittsburgh to san-francisco again on monday 
+show the flights from city_name to city_name again on day_name 
+show me a list of flights on american-airlines from boston to dc on july twenty-second 
+show state_code a list of flights on american-airlines from city_name to state_code on month_name day_number 
+now i'd like flights from philadelphia to pittsburgh leaving between <unk> and <unk> 
+airport_code i'd like flights from city_name to city_name leaving between <unk> airport_code <unk> 
+what economy flights are available from dallas to baltimore on december seventeenth 
+what class_type flights airport_code available from city_name to city_name on month_name day_number 
+please show me flights from san-francisco to dallas 
+please show state_code flights from city_name to city_name 
+please show me all the flights from indianapolis to san-diego tomorrow 
+please show state_code all the flights from city_name to city_name today_relative 
+what does flight code us mean 
+what does flight code us mean 
+i would like a flight from denver to pittsburgh 
+i would like a flight from city_name to city_name 
+what is the flight-schedule of the f28 from pittsburgh to baltimore 
+what is the flight-schedule of the f28 from city_name to city_name 
+looking for a flight from dc to minnesota 
+looking for a flight from state_code to state_name 
+how many us-air flights leave from washington 
+how many us-air flights leave from state_name 
+show me times for flights from san-francisco to atlanta 
+show state_code times for flights from city_name to city_name 
+what flights are there on wednesday evening or thursday morning from denver to sfo 
+what flights airport_code there on day_name period_of_day state_code day_name period_of_day from city_name to airport_code 
+how many flights go from dallas to baltimore on july nineteenth 
+how many flights go from city_name to city_name on month_name day_number 
+could you show me all the flights from oakland to salt-lake-city 
+could you show state_code all the flights from city_name to city_name 
+find me a flight from boston to san-francisco with layover in denver on united 
+find state_code a flight from city_name to city_name with layover state_code city_name on united 
+what flights are available between boston and washington arriving in washington at <unk> 
+what flights airport_code available between city_name airport_code state_name arriving state_code state_name at <unk> 
+show me the airlines between toronto and denver 
+show state_code the airlines between city_name airport_code city_name 
+what flights do you have between pittsburgh and atlanta 
+what flights do you have between city_name airport_code city_name 
+show me the flights from denver to westchester-county 
+show state_code the flights from city_name to westchester-county 
+i need information for a flight from denver to atlanta 
+i need information for a flight from city_name to city_name 
+what is the cheapest flight from boston to atlanta 
+what is the cost_relative flight from city_name to city_name 
+what is the cheapest flight from atlanta to pittsburgh one-way 
+what is the cost_relative flight from city_name to city_name round_trip 
+show me all overnight flights from washington dc to san-francisco and list their fares 
+show state_code all overnight flights from state_name state_code to city_name airport_code list their fares 
+round-trip flights between new-york and miami 
+round_trip flights between state_name airport_code city_name 
+show me the one-way flight from detroit to westchester-county with the highest fare 
+show state_code the round_trip flight from city_name to westchester-county with the highest fare 
+what flights are there from newark to chicago on continental 
+what flights airport_code there from city_name to city_name on continental 
+i'm trying to make a connection between denver and san-francisco does delta-airline fly between those two 
+i'm trying to make a connection between city_name airport_code city_name does delta-airline fly between those two 
+what is the latest us-air flight leaving philadelphia and returning to boston 
+what is the latest us-air flight leaving city_name airport_code returning to city_name 
+what flights does us-air have from san-francisco to pittsburgh on tuesday 
+what flights does us-air have from city_name to city_name on day_name 
+can i fly from boston to baltimore washington 
+can i fly from city_name to city_name state_name 
+what is mco 
+what is airport_code 
+flights from las-vegas to phoenix 
+flights from city_name to city_name 
+i would like to leave around <unk> in the morning 
+i would like to leave around <unk> state_code the period_of_day 
+show me fares from baltimore to philadelphia 
+show state_code fares from city_name to city_name 
+flights from memphis to seattle 
+flights from city_name to city_name 
+please show me flights from pittsburgh to atlanta on wednesday morning serving breakfast 
+please show state_code flights from city_name to city_name on day_name period_of_day serving breakfast 
+flights from atlanta august second 
+flights from city_name month_name second 
+does american-airlines fly from atlanta to philadelphia 
+does american-airlines fly from city_name to city_name 
+yes i'd like a flight from long-beach to st.-louis by way of dallas 
+yes i'd like a flight from airport_name to city_name by way of city_name 
+i'd like to know if you have any flights from denver to philadelphia 
+i'd like to know if you have any flights from city_name to city_name 
+what are the cheapest one-way flights from atlanta to denver 
+what airport_code the cost_relative round_trip flights from city_name to city_name 
+what is the first flight after <unk> from washington for denver 
+what is the first flight time_relative <unk> from state_name for city_name 
+how many delta flights leave from washington 
+how many city_name flights leave from state_name 
+now list for me only the united flights that flight from oakland to boston 
+airport_code list for state_code only the united flights that flight from city_name to city_name 
+from philadelphia to toronto 
+from city_name to city_name 
+i am interested in a flight on american-airlines from dallas to washington 
+i am interested state_code a flight on american-airlines from city_name to state_name 
+what airplane types fly from pittsburgh to baltimore 
+what airplane types fly from city_name to city_name 
+what is the yn code 
+what is the yn code 
+i would like the earliest morning flight from atlanta to philadelphia on wednesday morning 
+i would like the flight_mod period_of_day flight from city_name to city_name on day_name period_of_day 
+how many seats in a <unk> 
+how many seats state_code a <unk> 
+may i have a listing of flights from long-beach to columbus ohio on tuesday 
+month_name i have a listing of flights from airport_name to city_name state_name on day_name 
+what flights leave from phoenix to nashville on american-airlines 
+what flights leave from city_name to city_name on american-airlines 
+show me all round-trips from new-york to miami leaving on tuesday 
+show state_code all round-trips from state_name to city_name leaving on day_name 
+list all nonstop flights on sunday from tampa to charlotte 
+list all flight_stop flights on day_name from city_name to city_name 
+list all flights from burbank to denver 
+list all flights from city_name to city_name 
+what are the round-trip fares for flights from denver to philadelphia arriving after <unk> on continental 
+what airport_code the round_trip fares for flights from city_name to city_name arriving time_relative <unk> on continental 
+i'd like to see flights from baltimore to atlanta 
+i'd like to see flights from city_name to city_name 
+please show me the flights from las-vegas to detroit on the twenty-eighth 
+please show state_code the flights from city_name to city_name on the day_number 
+what is ord 
+what is airport_code 
+what type of ground transportation is available between the airport and downtown san-francisco 
+what type of ground transportation is available between the airport_name airport_code airport_name city_name 
+is the american flight <unk> from boston to oakland a nonstop flight 
+is the american flight <unk> from city_name to city_name a flight_stop flight 
+give me the flights from washington dc to philadelphia for december second 
+give state_code the flights from state_name state_code to city_name for month_name second 
+show all connecting flights from pittsburgh to oakland 
+show all connecting flights from city_name to city_name 
+list daily flights from boston to oakland using twa 
+list flight_days flights from city_name to city_name using airport_code 
+i would like the least-expensive airfare flight on sunday to pittsburgh from san-francisco 
+i would like the cost_relative airfare flight on day_name to city_name from city_name 
+i need a flight from san-diego to indianapolis leaving in the afternoon on tuesday 
+i need a flight from city_name to city_name leaving state_code the period_of_day on day_name 
+can you give me the evening flight on wednesday from washington to atlanta again 
+can you give state_code the period_of_day flight on day_name from state_name to city_name again 
+i would like to book a flight from los-angeles to pittsburgh on june first 
+i would like to book a flight from city_name to city_name on month_name first 
+what flights from atlanta to washington 
+what flights from city_name to state_name 
+show me all flights direct only from boston to san-francisco or oakland that arrive before <unk> local time 
+show state_code all flights direct only from city_name to city_name state_code city_name that arrive time_relative <unk> local time 
+first-class round-trip airfare from indianapolis to memphis 
+class_type round_trip airfare from city_name to city_name 
+flights from cincinnati to denver on american-airlines 
+flights from city_name to city_name on american-airlines 
+list all flights on continental leaving denver on sunday after <unk> 
+list all flights on continental leaving city_name on day_name time_relative <unk> 
+show me all flights from charlotte 
+show state_code all flights from city_name 
+show me all nationair flights from toronto 
+show state_code all nationair flights from city_name 
+what are the fares from newark to la monday and wednesday 
+what airport_code the fares from city_name to state_code day_name airport_code day_name 
+show me flights from denver to atlanta on june sixteenth 
+show state_code flights from city_name to city_name on month_name day_number 
+please show me round-trip tickets from denver to oakland 
+please show state_code round_trip tickets from city_name to city_name 
+list all flights on united from san-francisco to boston with fare code qx 
+list all flights on united from city_name to city_name with fare code qx 
+how many flights does twa have in business-class 
+how many flights does airport_code have state_code class_type 
+list all flights going from boston to atlanta after <unk> on wednesday and before <unk> on thursday 
+list all flights going from city_name to city_name time_relative <unk> on day_name airport_code time_relative <unk> on day_name 
+show me the flights to love-field 
+show state_code the flights to love-field 
+show me flights from pittsburgh to philadelphia 
+show state_code flights from city_name to city_name 
+show me the flights from philadelphia to atlanta 
+show state_code the flights from city_name to city_name 
+philadelphia to dallas arriving before 1 in the afternoon 
+city_name to city_name arriving time_relative 1 state_code the period_of_day 
+i need a flight from tampa to montreal 
+i need a flight from city_name to city_name 
+please give me flights leaving san-francisco and going to pittsburgh 
+please give state_code flights leaving city_name airport_code going to city_name 
+what do you have from philadelphia to dallas on saturday morning 
+what do you have from city_name to city_name on day_name period_of_day 
+flight leaving from oakland to salt-lake-city 
+flight leaving from city_name to city_name 
+tell me about flights on american-airlines from dallas-fort-worth to philadelphia on june twenty-ninth 
+tell state_code about flights on american-airlines from city_name to city_name on month_name day_number 
+list all flights from boston to san-francisco with the maximum-number-of-stops 
+list all flights from city_name to city_name with the maximum-number-of-stops 
+are there any flights from atlanta to denver 
+airport_code there any flights from city_name to city_name 
+what are the flights dallas to boston on monday morning 
+what airport_code the flights city_name to city_name on day_name period_of_day 
+show me flights leaving from denver colorado to pittsburgh pennsylvania on wednesdays after <unk> 
+show state_code flights leaving from city_name state_name to city_name state_name on day_name time_relative <unk> 
+i need flight information between atlanta and boston 
+i need flight information between city_name airport_code city_name 
+what are my choices of flights from las-vegas to new-york 
+what airport_code my choices of flights from city_name to state_name 
+what is the cheapest flight from boston to san-francisco 
+what is the cost_relative flight from city_name to city_name 
+on continental-airlines any class service from san-francisco to pittsburgh 
+on continental-airlines any class service from city_name to city_name 
+find the cheapest flight from denver to atlanta with a stopover in pittsburgh 
+find the cost_relative flight from city_name to city_name with a stopover state_code city_name 
+what are the lowest one-way fares from atlanta to denver 
+what airport_code the lowest round_trip fares from city_name to city_name 
+are there any flights from boston to san-francisco stopping in denver 
+airport_code there any flights from city_name to city_name stopping state_code city_name 
+flights from kansas-city to cleveland on wednesday 
+flights from city_name to city_name on day_name 
+how much is a round-trip fare from memphis to seattle 
+how much is a round_trip fare from city_name to city_name 
+show me the flights into love-field 
+show state_code the flights into love-field 
+i'd like to fly from philadelphia to dallas through atlanta 
+i'd like to fly from city_name to city_name through city_name 
+information on flights from pittsburgh to philadelphia 
+information on flights from city_name to city_name 
+what flights does american-airlines fly from philadelphia to dallas 
+what flights does american-airlines fly from city_name to city_name 
+i want to travel from kansas-city to chicago round-trip leaving wednesday june sixteenth arriving in chicago at around <unk> in the evening and returning the next day arriving in kansas-city at around <unk> in the evening which airlines fly that route 
+i want to travel from city_name to city_name round_trip leaving day_name month_name day_number arriving state_code city_name at around <unk> state_code the period_of_day airport_code returning the next airport_code arriving state_code city_name at around <unk> state_code the period_of_day which airlines fly that route 
+i would like the time of all flights from san-francisco to pittsburgh on sunday 
+i would like the time of all flights from city_name to city_name on day_name 
+show me ground transportation in dallas please 
+show state_code ground transportation state_code city_name please 
+are there any nonstop flights leaving from denver arriving in baltimore on july seventh 
+airport_code there any flight_stop flights leaving from city_name arriving state_code city_name on month_name day_number 
+how much does dl <unk> cost 
+how much does dl <unk> cost 
+what is the earliest flight from boston to san-francisco on american-airlines 
+what is the flight_mod flight from city_name to city_name on american-airlines 
+please list ground transport in san-francisco 
+please list ground transport state_code city_name 
+i need a flight from ontario to los-angeles on a thursday 
+i need a flight from city_name to city_name on a day_name 
+show me flights from all airports to love-field 
+show state_code flights from all airports to love-field 
+list the flights from pittsburgh to san-francisco on thursday 
+list the flights from city_name to city_name on day_name 
+what flights are available from denver to baltimore first-class on united-airlines arriving may seventh before noon 
+what flights airport_code available from city_name to city_name class_type on united-airlines arriving month_name day_number time_relative period_of_day 
+which airlines are represented in the database 
+which airlines airport_code represented state_code the database 
+which flight between pittsburgh and baltimore on july nineteenth has the smallest seating capacity 
+which flight between city_name airport_code city_name on month_name day_number has the smallest seating capacity 
+list all trans-world-airline flights from indianapolis to houston that arrive in houston between <unk> and <unk> 
+list all trans-world-airline flights from city_name to city_name that arrive state_code city_name between <unk> airport_code <unk> 
+what flights are there from new-york-city to las-vegas 
+what flights airport_code there from new-york-city to city_name 
+is there ground transportation from san-diego-airport to the downtown area 
+is there ground transportation from san-diego-airport to the airport_name area 
+shortest morning flights from cincinnati to tampa 
+shortest period_of_day flights from city_name to city_name 
+what's the last flight from houston to dallas 
+what's the last flight from city_name to city_name 
+is there a flight from charlotte to newark on tuesday evening 
+is there a flight from city_name to city_name on day_name period_of_day 
+what is airline us 
+what is airline us 
+what's the lowest round-trip fare from dallas to atlanta 
+what's the lowest round_trip fare from city_name to city_name 
+find me the earliest flight from boston to atlanta on any-day of the week 
+find state_code the flight_mod flight from city_name to city_name on any-day of the week 
+display all flights from boston to baltimore on july thirty-first 
+display all flights from city_name to city_name on month_name day_number 
+economy fares new-york to miami round-trip 
+class_type fares state_name to city_name round_trip 
+i need to fly from boston to denver on to san-francisco and back 
+i need to fly from city_name to city_name on to city_name airport_code back 
+i wish to book a flight from pittsburgh to atlanta coach discount fare 
+i wish to book a flight from city_name to city_name coach discount fare 
+show me flights to dallas from san-francisco and atlanta and pittsburgh 
+show state_code flights to city_name from city_name airport_code city_name airport_code city_name 
+tell me distance from orlando-airport to the city 
+tell state_code distance from orlando-airport to the city 
+hi i need to get a flight from memphis to salt-lake-city departing before <unk> 
+state_code i need to get a flight from city_name to city_name departing time_relative <unk> 
+what is the cheapest fare i can get from dallas to denver 
+what is the cost_relative fare i can get from city_name to city_name 
+i would like a flight from philadelphia to dallas arrive dallas about <unk> 
+i would like a flight from city_name to city_name arrive city_name about <unk> 
+us-air next wednesday from cleveland to miami 
+us-air next day_name from city_name to city_name 
+could you please find me the cheapest one-way fare from boston to philadelphia 
+could you please find state_code the cost_relative round_trip fare from city_name to city_name 
+i'd like a flight from detroit to st.-petersburg for tuesday 
+i'd like a flight from city_name to city_name for day_name 
+return from miami to new-york on tower-air on saturdays 
+round_trip from city_name to state_name on tower-air on day_name 
+show me ground transportation in san-francisco 
+show state_code ground transportation state_code city_name 
+please give me the earliest flight tomorrow from st.-petersburg to milwaukee 
+please give state_code the flight_mod flight today_relative from city_name to city_name 
+i need ground transportation in dallas please show me what's available 
+i need ground transportation state_code city_name please show state_code what's available 
+what's fare code yn 
+what's fare code yn 
+the cheapest flights from atlanta to philadelphia that arrive after <unk> on a tuesday 
+the cost_relative flights from city_name to city_name that arrive time_relative <unk> on a day_name 
+is there an early-morning delta-airlines flight between boston and washington 
+is there an early-morning delta-airlines flight between city_name airport_code state_name 
+what flights from orlando to tacoma on saturday 
+what flights from airport_name to city_name on day_name 
+show me all flights both direct and connecting from dallas-fort-worth to either san-francisco or oakland that depart after <unk> 
+show state_code all flights both direct airport_code connecting from city_name to either city_name state_code city_name that depart time_relative <unk> 
+give me flights from chicago to seattle on saturday morning 
+give state_code flights from city_name to city_name on day_name period_of_day 
+okay tell me what the earliest flight is that leaves between atlanta and denver 
+okay tell state_code what the flight_mod flight is that leaves between city_name airport_code city_name 
+i want a flight from toronto to montreal that leaves early friday morning 
+i want a flight from city_name to city_name that leaves early day_name period_of_day 
+what first-class flights are available from denver to baltimore on july twenty-fifth <unk> 
+what class_type flights airport_code available from city_name to city_name on month_name day_number <unk> 
+show me the airlines from love-field 
+show state_code the airlines from love-field 
+what's the cheapest one-way ticket from baltimore to atlanta 
+what's the cost_relative round_trip ticket from city_name to city_name 
+a first-class flight on american to san-francisco on tuesday in the next week 
+a class_type flight on american to city_name on day_name state_code the next week 
+what airlines fly between boston and san-francisco and stop in denver 
+what airlines fly between city_name airport_code city_name airport_code stop state_code city_name 
+what're the flights from new-york-city to las-vegas that arrive on a sunday 
+what're the flights from new-york-city to city_name that arrive on a day_name 
+flights on friday from newark to tampa 
+flights on day_name from city_name to city_name 
+flights from san-francisco august one 
+flights from city_name month_name one 
+how many stops on continental <unk> from boston to san-francisco 
+how many stops on continental <unk> from city_name to city_name 
+on flight us-air <unk> from san-francisco to baltimore what time and what city does the plane stop in between 
+on flight us-air <unk> from city_name to city_name what time airport_code what city does the plane stop state_code between 
+i need a flight from st.-petersburg to charlotte which will get me into charlotte by <unk> or as-soon-thereafter-as-possible 
+i need a flight from city_name to city_name which will get state_code into city_name by <unk> state_code as-soon-thereafter-as-possible 
+i want a one-way ticket from dallas to baltimore 
+i want a round_trip ticket from city_name to city_name 
+find me the latest flight leaving atlanta august seventh and arriving in denver 
+find state_code the latest flight leaving city_name month_name day_number airport_code arriving state_code city_name 
+what's the lowest one-way fare from pittsburgh to denver 
+what's the lowest round_trip fare from city_name to city_name 
+show me flights from los-angeles to pittsburgh on monday evening 
+show state_code flights from city_name to city_name on day_name period_of_day 
+show me the flights from san-francisco to washington dc 
+show state_code the flights from city_name to state_name state_code 
+show me flights from pittsburgh to philadelphia 
+show state_code flights from city_name to city_name 
+show me the shortest flight from boston to denver which arrives in denver wednesday before noon 
+show state_code the shortest flight from city_name to city_name which arrives state_code city_name day_name time_relative period_of_day 
+what are the flights from orlando to kansas-city 
+what airport_code the flights from airport_name to city_name 
+show me flights from san-francisco to boston on thursday 
+show state_code flights from city_name to city_name on day_name 
+sunday flights from new-york-city to las-vegas 
+day_name flights from new-york-city to city_name 
+i need a flight from pittsburgh to new-york leaving at <unk> 
+i need a flight from city_name to state_name leaving at <unk> 
+what's the smallest plane that flies from pittsburgh to baltimore on eight sixteen 
+what's the smallest plane that flies from city_name to city_name on day_number day_number 
+give me the flights on december twenty-seventh with the fares from indianapolis to orlando 
+give state_code the flights on month_name day_number with the fares from city_name to airport_name 
+show me all the us-air flights leaving pittsburgh between <unk> and 4 in the afternoon 
+show state_code all the us-air flights leaving city_name between <unk> airport_code 4 state_code the period_of_day 
+i want a cheap from denver to atlanta 
+i want a cost_relative from city_name to city_name 
+show all flights from miami to jfk 
+show all flights from city_name to airport_code 
+show me all flights from san-francisco to pittsburgh on a monday 
+show state_code all flights from city_name to city_name on a day_name 
+show me the earliest flight from boston to denver 
+show state_code the flight_mod flight from city_name to city_name 
+i need a united-airlines flight from denver to baltimore on saturday 
+i need a united-airlines flight from city_name to city_name on day_name 
+what are the cheapest one-way flights from denver to atlanta 
+what airport_code the cost_relative round_trip flights from city_name to city_name 
+all flights from boston to washington dc after <unk> on november eleventh economy-class 
+all flights from city_name to state_name state_code time_relative <unk> on month_name day_number class_type 
+is there ground transportation in oakland 
+is there ground transportation state_code city_name 
+list united flights from denver to san-francisco on wednesdays 
+list united flights from city_name to city_name on day_name 
+what is the cheapest way to fly from denver to oakland 
+what is the cost_relative way to fly from city_name to city_name 
+philadelphia to san-francisco with one-stop in dallas please 
+city_name to city_name with one-stop state_code city_name please 
+i would like to fly us-air from orlando to cleveland in the late evening what do you have available 
+i would like to fly us-air from airport_name to city_name state_code the late period_of_day what do you have available 
+what does restriction ap-57 mean 
+what does restriction ap-57 mean 
+what are the latest flights that i can take from baltimore to boston 
+what airport_code the latest flights that i can take from city_name to city_name 
+list flights from philadelphia to san-francisco via dallas 
+list flights from city_name to city_name via city_name 
+how much does the american-airlines flight <unk> from dallas to san-francisco cost 
+how much does the american-airlines flight <unk> from city_name to city_name cost 
+all flights from boston to philadelphia which show up on tuesday afternoon 
+all flights from city_name to city_name which show up on day_name period_of_day 
+show me flights from new-york to miami on a tuesday with a round-trip fare less than <unk> 
+show state_code flights from state_name to city_name on a day_name with a round_trip fare less than <unk> 
+nonstop flights from seattle to denver 
+flight_stop flights from city_name to city_name 
+give me the flights and fares on december twenty-seventh from indianapolis to orlando 
+give state_code the flights airport_code fares on month_name day_number from city_name to airport_name 
+what flights are available wednesday afternoon from denver to san-francisco 
+what flights airport_code available day_name period_of_day from city_name to city_name 
+what are the flights from tacoma to san-jose also on tuesday the eighteenth of may 
+what airport_code the flights from city_name to airport_name also on day_name the eighteenth of month_name 
+what's the ground transportation like at pittsburgh 
+what's the ground transportation like at city_name 
+list daily flights from boston to oakland using united-airlines 
+list flight_days flights from city_name to city_name using united-airlines 
+in the next two days i want to fly from nashville to san-jose or to tacoma 
+state_code the next two days i want to fly from city_name to airport_name state_code to city_name 
+how many flights does each airline have with business-class service 
+how many flights does each airline have with class_type service 
+what flights from st.-paul to kansas-city on friday with supper served 
+what flights from city_name to city_name on day_name with supper served 
+show flights from san-francisco to denver on either wednesday the twenty-third or thursday the twenty-fourth 
+show flights from city_name to city_name on either day_name the day_number state_code day_name the day_number 
+what are the flights available between <unk> and <unk> between pittsburgh and fort-worth 
+what airport_code the flights available between <unk> airport_code <unk> between city_name airport_code city_name 
+list all flights from memphis to seattle 
+list all flights from city_name to city_name 
+airline code as 
+airline code state_code 
+show me the flights from san-francisco to boston 
+show state_code the flights from city_name to city_name 
+show me all flights from san-diego to phoenix on a boeing <unk> 
+show state_code all flights from city_name to city_name on a boeing <unk> 
+may i have a list of flights going from boston to denver on the twenty-ninth of july 
+month_name i have a list of flights going from city_name to city_name on the day_number of month_name 
+could you tell me the cheapest fare from atlanta to boston on thirty-first of august 
+could you tell state_code the cost_relative fare from city_name to city_name on day_number of month_name 
+which united-airlines flight flies from boston to san-francisco and makes a stopover in philadelphia 
+which united-airlines flight flies from city_name to city_name airport_code makes a stopover state_code city_name 
+what are the latest flights from boston to dallas on the evening of july seventh 
+what airport_code the latest flights from city_name to city_name on the period_of_day of month_name day_number 
+can you tell me how to get from the airport in philadelphia to downtown 
+can you tell state_code how to get from the airport_name state_code city_name to airport_name 
+what is bna 
+what is airport_code 
+now show me the flights from denver to atlanta 
+airport_code show state_code the flights from city_name to city_name 
+what is the cost of flight dl <unk> from philadelphia to boston 
+what is the cost of flight dl <unk> from city_name to city_name 
+what stops does dl <unk> make from san-francisco to atlanta 
+what stops does dl <unk> make from city_name to city_name 
+what are the cheapest round-trip flights from denver to atlanta 
+what airport_code the cost_relative round_trip flights from city_name to city_name 
+what are the flights from atlanta to dallas 
+what airport_code the flights from city_name to city_name 
+delta flights to san-francisco please 
+city_name flights to city_name please 
+i would like to know the latest flight on wednesday you have leaving from oakland to salt-lake-city which offers a meal 
+i would like to know the latest flight on day_name you have leaving from city_name to city_name which offers a meal 
+what are the costs of car-rental in dallas 
+what airport_code the costs of car-rental state_code city_name 
+what airlines fly from boston to pittsburgh 
+what airlines fly from city_name to city_name 
+can you tell me which flights go from memphis to tacoma and make a stop in los-angeles 
+can you tell state_code which flights go from city_name to city_name airport_code make a stop state_code city_name 
+what is the cheapest round-trip fare between boston and san-francisco 
+what is the cost_relative round_trip fare between city_name airport_code city_name 
+show me ground transportation information for pittsburgh 
+show state_code ground transportation information for city_name 
+all flights and fares from atlanta to dallas round-trip after <unk> less than <unk> 
+all flights airport_code fares from city_name to city_name round_trip time_relative <unk> less than <unk> 
+what is the fare from boston to oakland on united-airlines 
+what is the fare from city_name to city_name on united-airlines 
+show me the latest flight from salt-lake-city to phoenix 
+show state_code the latest flight from city_name to city_name 
+show me all the eastern-airlines flights leaving pittsburgh between <unk> and 4 in the afternoon 
+show state_code all the eastern-airlines flights leaving city_name between <unk> airport_code 4 state_code the period_of_day 
+show me flights from denver to philadelphia 
+show state_code flights from city_name to city_name 
+flights from newark to boston 
+flights from city_name to city_name 
+what is the first flight from atlanta to boston leaving on thursday september fifth 
+what is the first flight from city_name to city_name leaving on day_name month_name day_number 
+all united-airlines flights with stopovers in denver 
+all united-airlines flights with stopovers state_code city_name 
+show flights from boston to denver on wednesday morning 
+show flights from city_name to city_name on day_name period_of_day 
+show me all the twa flights from indianapolis to houston that arrive around <unk> 
+show state_code all the airport_code flights from city_name to city_name that arrive around <unk> 
+show me the direct flights from san-francisco to boston 
+show state_code the direct flights from city_name to city_name 
+i'd like to find the cheapest flight from boston to san-francisco 
+i'd like to find the cost_relative flight from city_name to city_name 
+show me round-trip fares from denver to philadelphia 
+show state_code round_trip fares from city_name to city_name 
+i want to go from denver to atlanta round-trip and make a stop at pittsburgh is this possible 
+i want to go from city_name to city_name round_trip airport_code make a stop at city_name is this possible 
+please tell me which airline has the most departures from atlanta 
+please tell state_code which airline has the most departures from city_name 
+what are the flights from atlanta to baltimore 
+what airport_code the flights from city_name to city_name 
+show me round-trip fares from san-jose to salt-lake-city 
+show state_code round_trip fares from airport_name to city_name 
+explain the restriction ap-80 
+explain the restriction ap-80 
+show me the flights from salt-lake-city to milwaukee 
+show state_code the flights from city_name to city_name 
+show me us-air fares for next sunday from miami to cleveland 
+show state_code us-air fares for next day_name from city_name to city_name 
+list a round-trip fare from kansas-city to minneapolis flights 
+list a round_trip fare from city_name to city_name flights 
+show me flights from pittsburgh to san-francisco 
+show state_code flights from city_name to city_name 
+show me all flights from baltimore to dallas 
+show state_code all flights from city_name to city_name 
+can you show me the cheapest round-trip flights between denver and pittsburgh 
+can you show state_code the cost_relative round_trip flights between city_name airport_code city_name 
+how many passengers fit on a d9s 
+how many passengers fit on a d9s 
+i would like a flight from denver to pittsburgh 
+i would like a flight from city_name to city_name 
+show me the flights from boston to atlanta 
+show state_code the flights from city_name to city_name 
+i need a flight from san-francisco to boston that leaves after <unk> 
+i need a flight from city_name to city_name that leaves time_relative <unk> 
+what flights from boston arrive in dallas-fort-worth before <unk> 
+what flights from city_name arrive state_code city_name time_relative <unk> 
+please show me ground transportation in denver 
+please show state_code ground transportation state_code city_name 
+find travel arrangements for a round-trip flight from boston to pittsburgh 
+find travel arrangements for a round_trip flight from city_name to city_name 
+what is the coach fare between boston and atlanta on delta 
+what is the coach fare between city_name airport_code city_name on city_name 
+list flights from pittsburgh to atlanta on the evening of august sixth 
+list flights from city_name to city_name on the period_of_day of month_name day_number 
+i would like your rates between atlanta and boston on september third 
+i would like your rates between city_name airport_code city_name on month_name third 
+i would like to fly from boston to denver early in the morning 
+i would like to fly from city_name to city_name early state_code the period_of_day 
+looking for a flight from denver to salt-lake-city 
+looking for a flight from city_name to city_name 
+show me all the flights from columbus to baltimore 
+show state_code all the flights from city_name to city_name 
+and flight from oakland to boston leaving after midnight 
+airport_code flight from city_name to city_name leaving time_relative midnight 
+what does the abbreviation dl mean 
+what does the abbreviation dl mean 
+could i have a list of flights in first-class on monday from san-francisco to pittsburgh starting at noon and afterwards 
+could i have a list of flights state_code class_type on day_name from city_name to city_name starting at period_of_day airport_code afterwards 
+i would like to fly from atlanta to philadelphia 
+i would like to fly from city_name to city_name 
+what flights from atlanta to st.-louis on tuesday arriving around <unk> 
+what flights from city_name to city_name on day_name arriving around <unk> 
+list daily flights from oakland to boston using twa 
+list flight_days flights from city_name to city_name using airport_code 
+could you give me the schedule of flights for american and delta to dfw on august fifteenth 
+could you give state_code the schedule of flights for american airport_code city_name to airport_code on month_name day_number 
+show me first-class flights from new-york to miami leaving on a tuesday 
+show state_code class_type flights from state_name to city_name leaving on a day_name 
+please show me airfare of flight us <unk> from boston to pittsburgh 
+please show state_code airfare of flight us <unk> from city_name to city_name 
+is there a delta flight from boston to san-francisco that stops in denver 
+is there a city_name flight from city_name to city_name that stops state_code city_name 
+please list all united flights between pittsburgh and baltimore 
+please list all united flights between city_name airport_code city_name 
+find the cheapest one-way fare from boston to san-francisco 
+find the cost_relative round_trip fare from city_name to city_name 
+give me morning flights from atlanta to baltimore 
+give state_code period_of_day flights from city_name to city_name 
+please give me round-trip fares from pittsburgh to philadelphia 
+please give state_code round_trip fares from city_name to city_name 
+i would like information on ground transportation in the city of atlanta from airport to downtown 
+i would like information on ground transportation state_code the city of city_name from airport_name to airport_name 
+i'd like to fly from philadelphia to dallas to san-francisco 
+i'd like to fly from city_name to city_name to city_name 
+what is the least-expensive flight from atlanta to denver leaving on october twelfth 
+what is the cost_relative flight from city_name to city_name leaving on month_name day_number 
+what is the price of american-airlines flight <unk> from new-york to los-angeles 
+what is the city_name of american-airlines flight <unk> from state_name to city_name 
+what's the first flight from dallas to houston 
+what's the first flight from city_name to city_name 
+i would like information on flights from san-francisco to pittsburgh leaving after <unk> monday night 
+i would like information on flights from city_name to city_name leaving time_relative <unk> day_name period_of_day 
+what flights go from dallas to denver leaving after <unk> 
+what flights go from city_name to city_name leaving time_relative <unk> 
+what is the fare code y and what is the fare code h 
+what is the fare code y airport_code what is the fare code h 
+hello i'd like a delta flight from atlanta to boston 
+hello i'd like a city_name flight from city_name to city_name 
+what flights are provided by american-airlines 
+what flights airport_code provided by american-airlines 
+show me the flights from love-field to other airports 
+show state_code the flights from love-field to other airports 
+show me the coach fares from baltimore to dallas 
+show state_code the coach fares from city_name to city_name 
+i want the flights from toronto to san-diego that stop in st.-louis 
+i want the flights from city_name to city_name that stop state_code city_name 
+saturday or sunday flights between milwaukee and phoenix american-airlines 
+day_name state_code day_name flights between city_name airport_code city_name american-airlines 
+list the cheapest one-way flight from miami florida to charlotte north-carolina 
+list the cost_relative round_trip flight from city_name airport_name to city_name state_name 
+flights from washington august second 
+flights from state_name month_name second 
+i'd like to fly from philadelphia to san-francisco through dallas 
+i'd like to fly from city_name to city_name through city_name 
+list all flights from atlanta to dallas on friday 
+list all flights from city_name to city_name on day_name 
+houston airports 
+city_name airports 
+show me all united flights from denver to san-francisco for september first <unk> 
+show state_code all united flights from city_name to city_name for month_name first <unk> 
+what is the earliest flight departing san-francisco and arriving in oakland on november eighth 
+what is the flight_mod flight departing city_name airport_code arriving state_code city_name on month_name day_number 
+from new-york to toronto on thursday morning 
+from state_name to city_name on day_name period_of_day 
+cheapest flight from miami to indianapolis 
+cost_relative flight from city_name to city_name 
+which airlines fly from boston to washington dc but stopover in some other city 
+which airlines fly from city_name to state_name state_code but stopover state_code some other city 
+please list all airline flights between denver and boston 
+please list all airline flights between city_name airport_code city_name 
+i am interested in a flight from cincinnati to burbank the flight should be american and leave in the afternoon i need to know the aircraft and flight number 
+i am interested state_code a flight from city_name to city_name the flight should be american airport_code leave state_code the period_of_day i need to know the aircraft airport_code flight number 
+flights from oakland to san-francisco 
+flights from city_name to city_name 
+list flights from boston to san-francisco that serve only breakfast 
+list flights from city_name to city_name that serve only breakfast 
+how many airlines have flights with service class yn 
+how many airlines have flights with service class yn 
+could you please give me a one-way fare from pittsburgh to atlanta 
+could you please give state_code a round_trip fare from city_name to city_name 
+okay i'd like to fly from denver to pittsburgh 
+okay i'd like to fly from city_name to city_name 
+i'd like a flight from montreal to san-diego for sunday 
+i'd like a flight from city_name to city_name for day_name 
+i need a flight from montreal quebec to san-diego california leaving this sunday 
+i need a flight from city_name city_name to city_name state_name leaving this day_name 
+give me a list of all the flights from baltimore to philadelphia or denver to philadelphia or pittsburgh to philadelphia 
+give state_code a list of all the flights from city_name to city_name state_code city_name to city_name state_code city_name to city_name 
+tell me about ground transportation in st.-petersburg-airport 
+tell state_code about ground transportation state_code st.-petersburg-airport 
+how many united flights are there from san-francisco please 
+how many united flights airport_code there from city_name please 
+i need a listing of flights from new-york-city to montreal canada departing thursday in the morning 
+i need a listing of flights from new-york-city to city_name canada departing day_name state_code the period_of_day 
+show me all the flights from philadelphia to newark 
+show state_code all the flights from city_name to city_name 
+how can i go from the san-francisco-airport to downtown san-francisco 
+how can i go from the san-francisco-airport to airport_name city_name 
+i would like to fly from denver to atlanta by way of pittsburgh 
+i would like to fly from city_name to city_name by way of city_name 
+give me fares from atlanta to baltimore 
+give state_code fares from city_name to city_name 
+baltimore to philadelphia 
+city_name to city_name 
+give me flights from denver to baltimore 
+give state_code flights from city_name to city_name 
+the flight will originate from boston 
+the flight will originate from city_name 
+flights from kansas-city to cleveland and price 
+flights from city_name to city_name airport_code city_name 
+on tuesday what flights leave phoenix to st.-paul minnesota and leave after noon 
+on day_name what flights leave city_name to city_name state_name airport_code leave time_relative period_of_day 
+what is the lowest-price fare from atlanta to san-francisco on flight delta <unk> and delta <unk> 
+what is the lowest-price fare from city_name to city_name on flight city_name <unk> airport_code city_name <unk> 
+list flights from detroit to san-diego on thursday 
+list flights from city_name to city_name on day_name 
+what flights are there from phoenix to milwaukee 
+what flights airport_code there from city_name to city_name 
+what flights go from philadelphia to san-francisco with a stopover in dallas 
+what flights go from city_name to city_name with a stopover state_code city_name 
+show flights from denver to oakland that arrive after <unk> 
+show flights from city_name to city_name that arrive time_relative <unk> 
+find me the earliest flight from boston to atlanta on any-day of the week 
+find state_code the flight_mod flight from city_name to city_name on any-day of the week 
+what is the airfare between denver and pittsburgh 
+what is the airfare between city_name airport_code city_name 
+show me all flights from denver to philadelphia which leave next saturday afternoon 
+show state_code all flights from city_name to city_name which leave next day_name period_of_day 
+show me flights from atlanta to baltimore denver and dallas 
+show state_code flights from city_name to city_name city_name airport_code city_name 
+one-way 
+round_trip 
+list all flights on saturday from dallas to san-francisco nonstop 
+list all flights on day_name from city_name to city_name flight_stop 
+how many airports does oakland have 
+how many airports does city_name have 
+can you give me a list of the flights from atlanta to boston 
+can you give state_code a list of the flights from city_name to city_name 
+please give me a list of flights leaving boston going to pittsburgh 
+please give state_code a list of flights leaving city_name going to city_name 
+repeating leaving denver to san-francisco before <unk> what type of aircraft is used 
+repeating leaving city_name to city_name time_relative <unk> what type of aircraft is used 
+what is the earliest flight from washington to atlanta leaving on wednesday september fourth 
+what is the flight_mod flight from state_name to city_name leaving on day_name month_name day_number 
+show me all flights from atlanta to dallas round-trip less than <unk> 
+show state_code all flights from city_name to city_name round_trip less than <unk> 
+what flights return from denver to philadelphia on a saturday 
+what flights round_trip from city_name to city_name on a day_name 
+flights from dallas to houston in the morning 
+flights from city_name to city_name state_code the period_of_day 
+what are your flights from pittsburgh to baltimore 
+what airport_code your flights from city_name to city_name 
+first flights and fares from pittsburgh to atlanta on a thursday 
+first flights airport_code fares from city_name to city_name on a day_name 
+the earliest flight from boston to san-francisco please that will be serving a meal 
+the flight_mod flight from city_name to city_name please that will be serving a meal 
+what type of aircraft flies from pittsburgh to baltimore 
+what type of aircraft flies from city_name to city_name 
+show me the cheapest one-way tickets from atlanta to dallas 
+show state_code the cost_relative round_trip tickets from city_name to city_name 
+give me sunday nonstop flights from memphis to las-vegas 
+give state_code day_name flight_stop flights from city_name to city_name 
+on the flight from baltimore to san-francisco on us-air leaving at <unk> what type of aircraft is used 
+on the flight from city_name to city_name on us-air leaving at <unk> what type of aircraft is used 
+i want a evening flight from dallas to milwaukee 
+i want a period_of_day flight from city_name to city_name 
+let's look at baltimore to philadelphia again 
+let's look at city_name to city_name again 
+what are the prices of the flights from dallas to baltimore 
+what airport_code the prices of the flights from city_name to city_name 
+what kind of airplane is flight ua <unk> from boston to denver 
+what kind of airplane is flight ua <unk> from city_name to city_name 
+how many first-class flights does united have today 
+how many class_type flights does united have today 
+what does ua stand for 
+what does ua stand for 
+can i go from boston to san-francisco with a stopover in denver 
+can i go from city_name to city_name with a stopover state_code city_name 
+can you tell me which flight from dallas to baltimore has the least-expensive fare 
+can you tell state_code which flight from city_name to city_name has the cost_relative fare 
+show me the latest flight to love-field 
+show state_code the latest flight to love-field 
+what type of plane is an m80 
+what type of plane is an m80 
+what is the earliest flight that i can take from boston to baltimore 
+what is the flight_mod flight that i can take from city_name to city_name 
+list the nonstop flights on wednesday june second from miami to washington arriving in washington between <unk> and <unk> 
+list the flight_stop flights on day_name month_name second from city_name to state_name arriving state_code state_name between <unk> airport_code <unk> 
+i would like to fly from st.-paul to san-jose monday morning from san-jose to houston tuesday morning and from houston to st.-paul on wednesday morning 
+i would like to fly from city_name to airport_name day_name period_of_day from airport_name to city_name day_name period_of_day airport_code from city_name to city_name on day_name period_of_day 
+what is fare code m 
+what is fare code m 
+show me ground transportation in baltimore 
+show state_code ground transportation state_code city_name 
+what are all the flights on delta in and out of fort-worth 
+what airport_code all the flights on city_name state_code airport_code out of city_name 
+show me all the flights from baltimore to columbus 
+show state_code all the flights from city_name to city_name 
+i want to fly from boston to atlanta i would like the cheapest fare please 
+i want to fly from city_name to city_name i would like the cost_relative fare please 
+would you tell me the cheapest one-way fare from boston to oakland 
+would you tell state_code the cost_relative round_trip fare from city_name to city_name 
+is there ground transportation from the airport to downtown phoenix 
+is there ground transportation from the airport_name to airport_name city_name 
+does the phoenix-airport have ground transportation to and from downtown 
+does the phoenix-airport have ground transportation to airport_code from airport_name 
+give me the flights from milwaukee to st.-louis leaving sunday morning 
+give state_code the flights from city_name to city_name leaving day_name period_of_day 
+what is sa 
+what is sa 
+a flight on continental-airlines leaving boston and going to denver 
+a flight on continental-airlines leaving city_name airport_code going to city_name 
+show me all meals on flights from atlanta to washington 
+show state_code all meals on flights from city_name to state_name 
+saturday flights from las-vegas to phoenix 
+day_name flights from city_name to city_name 
+i would like to find the least-expensive flight from boston to denver 
+i would like to find the cost_relative flight from city_name to city_name 
+show me flights arriving in baltimore from pittsburgh between 4 and <unk> 
+show state_code flights arriving state_code city_name from city_name between 4 airport_code <unk> 
+i need a flight delta-airlines kansas-city to salt-lake 
+i need a flight delta-airlines city_name to salt-lake 
+can you list all flights from washington to toronto 
+can you list all flights from state_name to city_name 
+show all nonstop flights from boston to san-francisco 
+show all flight_stop flights from city_name to city_name 
+show flights between toronto and san-francisco 
+show flights between city_name airport_code city_name 
+show me the flights between boston and san-francisco denver and san-francisco boston and denver 
+show state_code the flights between city_name airport_code city_name city_name airport_code city_name city_name airport_code city_name 
+ground transportation oakland 
+ground transportation city_name 
+show me all daily flights between milwaukee and orlando 
+show state_code all flight_days flights between city_name airport_code airport_name 
+what flights from kansas-city to atlanta arriving before <unk> on monday 
+what flights from city_name to city_name arriving time_relative <unk> on day_name 
+what flights leave philadelphia for dallas and depart before noon on american-airlines 
+what flights leave city_name for city_name airport_code depart time_relative period_of_day on american-airlines 
+airlines that fly to miami from new-york on friday 
+airlines that fly to city_name from state_name on day_name 
+what flights leave seattle on sunday on continental after <unk> 
+what flights leave city_name on day_name on continental time_relative <unk> 
+what is the earliest flight from washington to san-francisco on friday that serves breakfast 
+what is the flight_mod flight from state_name to city_name on day_name that serves breakfast 
+what do you have going from atlanta to philadelphia serving breakfast 
+what do you have going from city_name to city_name serving breakfast 
+i'd like to see flights from pittsburgh to atlanta 
+i'd like to see flights from city_name to city_name 
+what flights are available with q-fares from boston to pittsburgh 
+what flights airport_code available with q-fares from city_name to city_name 
+is there ground transportation from the milwaukee-airport to the downtown area 
+is there ground transportation from the milwaukee-airport to the airport_name area 
+flights from pittsburgh to newark 
+flights from city_name to city_name 
+i want to go between boston and san-francisco 
+i want to go between city_name airport_code city_name 
+show departures from atlanta for american 
+show departures from city_name for american 
+show me the flights available from dallas to baltimore august third 
+show state_code the flights available from city_name to city_name month_name third 
+show me fares from philadelphia to san-francisco on thursday morning 
+show state_code fares from city_name to city_name on day_name period_of_day 
+please list the flight-times from pittsburgh to newark 
+please list the flight-times from city_name to city_name 
+how far is downtown from the airport in dallas 
+how airport_code is airport_name from the airport_name state_code city_name 
+what flights from any city land at general-mitchell-international 
+what flights from any city land at general-mitchell-international 
+show me ground transportation information for san-francisco 
+show state_code ground transportation information for city_name 
+could you find me the cheapest fare from boston to san-francisco 
+could you find state_code the cost_relative fare from city_name to city_name 
+please list information regarding san-francisco-airport 
+please list information regarding san-francisco-airport 
+show me flights between milwaukee and phoenix on saturday or sunday american-airlines 
+show state_code flights between city_name airport_code city_name on day_name state_code day_name american-airlines 
+i'd like a first-class flight from denver to baltimore on january first 
+i'd like a class_type flight from city_name to city_name on month_name first 
+what's the name of the denver-airport 
+what's the name of the denver-airport 
+list all the takeoffs and landings at general-mitchell-airport 
+list all the takeoffs airport_code landings at general-mitchell-airport 
+show me the flights arriving around noon in baltimore from denver 
+show state_code the flights arriving around period_of_day state_code city_name from city_name 
+on tuesday i'd like to find a flight from detroit to st.-petersburg that arrives before <unk> 
+on day_name i'd like to find a flight from city_name to city_name that arrives time_relative <unk> 
+i'd like a flight tomorrow from kansas-city to newark in the morning 
+i'd like a flight today_relative from city_name to city_name state_code the period_of_day 
+list the flights from philadelphia to san-francisco which have a layover in dallas 
+list the flights from city_name to city_name which have a layover state_code city_name 
+now i need a flight leaving fort-worth and arriving in denver no-later-than <unk> next monday 
+airport_code i need a flight leaving city_name airport_code arriving state_code city_name no-later-than <unk> next day_name 
+flights from san-jose to st.-paul 
+flights from airport_name to city_name 
+i want information on flights from atlanta to washington dc give me information on flights after <unk> on wednesday 
+i want information on flights from city_name to state_name state_code give state_code information on flights time_relative <unk> on day_name 
+show ground transportation for pittsburgh 
+show ground transportation for city_name 
+what is the earliest flight in the morning from boston to pittsburgh 
+what is the flight_mod flight state_code the period_of_day from city_name to city_name 
+morning flight from atlanta to philadelphia 
+period_of_day flight from city_name to city_name 
+what are the cheapest flights from pittsburgh to atlanta 
+what airport_code the cost_relative flights from city_name to city_name 
+show morning flights from san-francisco to pittsburgh 
+show period_of_day flights from city_name to city_name 
+what are the first-class and coach fares for flights from chicago to kansas-city arriving around <unk> next thursday 
+what airport_code the class_type airport_code coach fares for flights from city_name to city_name arriving around <unk> next day_name 
+show me all flights from dallas to pittsburgh on monday which leave after <unk> 
+show state_code all flights from city_name to city_name on day_name which leave time_relative <unk> 
+find me the cheapest one-way fare i can get from boston to denver 
+find state_code the cost_relative round_trip fare i can get from city_name to city_name 
+show me the flights from atlanta to denver on friday 
+show state_code the flights from city_name to city_name on day_name 
+what's the cheapest flight from san-francisco to boston 
+what's the cost_relative flight from city_name to city_name 
+please list the flight-times from boston to pittsburgh 
+please list the flight-times from city_name to city_name 
+is there a flight between washington dc and san-francisco on us-air at <unk> 
+is there a flight between state_name state_code airport_code city_name on us-air at <unk> 
+show me all flights from pittsburgh which leave tomorrow and arrive in boston 
+show state_code all flights from city_name which leave today_relative airport_code arrive state_code city_name 
+how many seats in a <unk> 
+how many seats state_code a <unk> 
+what does fn under fare code mean 
+what does fn under fare code mean 
+all am flights departing pittsburgh arriving denver 
+all am flights departing city_name arriving city_name 
+what flights leave after <unk> from pittsburgh to philadelphia 
+what flights leave time_relative <unk> from city_name to city_name 
+show flights from philadelphia to san-francisco 
+show flights from city_name to city_name 
+what flights leave chicago and arrive in detroit around <unk> next tuesday 
+what flights leave city_name airport_code arrive state_code city_name around <unk> next day_name 
+what does it cost to fly from boston to oakland on united-airlines 
+what does it cost to fly from city_name to city_name on united-airlines 
+how much is a flight from washington to montreal 
+how much is a flight from state_name to city_name 
+is there limousine service available at baltimore-airport 
+is there limousine service available at baltimore-airport 
+what are the morning flights in the next two days from nashville to tacoma 
+what airport_code the period_of_day flights state_code the next two days from city_name to city_name 
+what is the last flight leaving san-francisco going to washington on friday 
+what is the last flight leaving city_name going to state_name on day_name 
+what are the flights from dallas to san-francisco on tuesday october first 
+what airport_code the flights from city_name to city_name on day_name month_name first 
+does united-airlines fly from boston to dallas-fort-worth 
+does united-airlines fly from city_name to city_name 
+please list the flight-schedule from baltimore to san-francisco on friday nights 
+please list the flight-schedule from city_name to city_name on day_name nights 
+flights from cleveland to kansas-city on monday 
+flights from city_name to city_name on day_name 
+i would like to find a flight that goes from boston to orlando i would like it to have a stop in new-york and i would like a flight that serves breakfast 
+i would like to find a flight that goes from city_name to airport_name i would like it to have a stop state_code state_name airport_code i would like a flight that serves breakfast 
+what are the lowest one-way fares from atlanta to pittsburgh 
+what airport_code the lowest round_trip fares from city_name to city_name 
+okay and then from pittsburgh i'd like to travel to atlanta on september fourth 
+okay airport_code then from city_name i'd like to travel to city_name on month_name day_number 
+what flights go from pittsburgh to baltimore after <unk> next wednesday 
+what flights go from city_name to city_name time_relative <unk> next day_name 
+how much does it cost to get downtown from the atlanta-airport by limousine 
+how much does it cost to get airport_name from the atlanta-airport by limousine 
+i would like to fly from boston to san-francisco 
+i would like to fly from city_name to city_name 
+show me the airfare from pittsburgh to san-francisco 
+show state_code the airfare from city_name to city_name 
+are there any flights on june eleventh from st.-petersburg to milwaukee 
+airport_code there any flights on month_name day_number from city_name to city_name 
+what is hp 
+what is hp 
+show me the type of aircraft that cp uses 
+show state_code the type of aircraft that cp uses 
+show me flights from pittsburgh to san-francisco on sunday 
+show state_code flights from city_name to city_name on day_name 
+what type of aircraft does eastern fly from atlanta to denver before <unk> 
+what type of aircraft does eastern fly from city_name to city_name time_relative <unk> 
+can you list all flights from chicago to milwaukee 
+can you list all flights from city_name to city_name 
+display all flights from denver to san-francisco on august seven 
+display all flights from city_name to city_name on month_name seven 
+what are the most-expensive first-class tickets between boston and san-francisco 
+what airport_code the most-expensive class_type tickets between city_name airport_code city_name 
+which of the flights from pittsburgh to baltimore on july twenty-fifth <unk> carries the smallest number of passengers 
+which of the flights from city_name to city_name on month_name day_number <unk> carries the smallest number of passengers 
+show me all the flights to baltimore after <unk> 
+show state_code all the flights to city_name time_relative <unk> 
+what airlines go from atlanta to baltimore 
+what airlines go from city_name to city_name 
+what does fare code qo mean 
+what does fare code qo mean 
+show me flights from baltimore to dallas 
+show state_code flights from city_name to city_name 
+what does the abbreviation co mean 
+what does the abbreviation state_code mean 
+can you list all flights between milwaukee and chicago 
+can you list all flights between city_name airport_code city_name 
+what are the air restrictions on flights from pittsburgh to atlanta for the airfare of <unk> 
+what airport_code the air restrictions on flights from city_name to city_name for the airfare of <unk> 
+last nonstop flight from los-angeles to pittsburgh on monday night 
+last flight_stop flight from city_name to city_name on day_name period_of_day 
+what is the earliest flight from boston to san-francisco 
+what is the flight_mod flight from city_name to city_name 
+i would like an early-morning flight from chicago into seattle on june first on continental-airline 
+i would like an early-morning flight from city_name into city_name on month_name first on continental-airline 
+what would be cost of a round-trip from pittsburgh to san-francisco 
+what would be cost of a round_trip from city_name to city_name 
+show me the flights from dallas to baltimore 
+show state_code the flights from city_name to city_name 
+give me the flights from baltimore to pittsburgh 
+give state_code the flights from city_name to city_name 
+please list the flights from charlotte to long-beach arriving after lunch-time 
+please list the flights from city_name to airport_name arriving time_relative lunch-time 
+what flights are available between philadelphia and denver on september sixteenth 
+what flights airport_code available between city_name airport_code city_name on month_name day_number 
+what type of aircraft leaving after <unk> from boston to oakland 
+what type of aircraft leaving time_relative <unk> from city_name to city_name 
+i would like the cheapest flight from boston to san-francisco 
+i would like the cost_relative flight from city_name to city_name 
+are there any flights from boston to oakland that stop 
+airport_code there any flights from city_name to city_name that stop 
+i would like to find a flight from pittsburgh to boston on wednesday and i have to be in boston by one so i'd like a flight out of here no-later-than <unk> 
+i would like to find a flight from city_name to city_name on day_name airport_code i have to be state_code city_name by one so i'd like a flight out of here no-later-than <unk> 
+i need information on a flight from washington to fort-worth 
+i need information on a flight from state_name to city_name 
+can you tell me what flights you have from baltimore to dallas 
+can you tell state_code what flights you have from city_name to city_name 
+what are the ground transportation services in philadelphia 
+what airport_code the ground transportation services state_code city_name 
+give me flights from baltimore to denver on united that offer first-class 
+give state_code flights from city_name to city_name on united that offer class_type 
+does american-airlines have a flight from pittsburgh to atlanta 
+does american-airlines have a flight from city_name to city_name 
+all flights and fares from atlanta to dallas round-trip after <unk> less than <unk> 
+all flights airport_code fares from city_name to city_name round_trip time_relative <unk> less than <unk> 
+list flights from denver to baltimore 
+list flights from city_name to city_name 
+i would like a list of the round-trip flights between indianapolis and orlando on the twenty-seventh or the twenty-eighth of december 
+i would like a list of the round_trip flights between city_name airport_code airport_name on the day_number state_code the day_number of month_name 
+i need a return flight from denver to atlanta 
+i need a round_trip flight from city_name to city_name 
+i'd like a flight from burbank to tacoma washington 
+i'd like a flight from city_name to city_name state_name 
+what flights from atlanta to washington 
+what flights from city_name to state_name 
+please list all flights from atlanta to baltimore on wednesday and thursday 
+please list all flights from city_name to city_name on day_name airport_code day_name 
+what is the latest flight between washington and boston 
+what is the latest flight between state_name airport_code city_name 
+explain the restriction ap-57 
+explain the restriction ap-57 
+the latest flight from baltimore to oakland please and i'd like a meal with that 
+the latest flight from city_name to city_name please airport_code i'd like a meal with that 
+what are the flights on january first <unk> from boston to san-francisco 
+what airport_code the flights on month_name first <unk> from city_name to city_name 
+on november twenty-third what flights are available between boston and denver 
+on month_name day_number what flights airport_code available between city_name airport_code city_name 
+list nonstop flights on sunday from new-york to las-vegas and list nonstop flights on sunday from memphis to las-vegas 
+list flight_stop flights on day_name from state_name to city_name airport_code list flight_stop flights on day_name from city_name to city_name 
+show me the list of flights from dallas to baltimore on american and delta-airlines 
+show state_code the list of flights from city_name to city_name on american airport_code delta-airlines 
+what does us stand for 
+what does us stand for 
+could you show me all weekday flights from phoenix to denver 
+could you show state_code all weekday flights from city_name to city_name 
+show me all united-airlines first-class flights 
+show state_code all united-airlines class_type flights 
+what is hp 
+what is hp 
+what is the price of a first-class ticket from milwaukee to san-francisco round-trip 
+what is the city_name of a class_type ticket from city_name to city_name round_trip 
+find a flight on delta from philadelphia to san-francisco 
+find a flight on city_name from city_name to city_name 
+i'm trying to find the flight number from a flight from orlando to cleveland on us-air and it arrives around <unk> 
+i'm trying to find the flight number from a flight from airport_name to city_name on us-air airport_code it arrives around <unk> 
+what are the costs of flights from dallas to boston tomorrow 
+what airport_code the costs of flights from city_name to city_name today_relative 
+what flights go from philadelphia to dallas via atlanta 
+what flights go from city_name to city_name via city_name 
+what's the cheapest round-trip fare between boston and washington 
+what's the cost_relative round_trip fare between city_name airport_code state_name 
+what are the flights between dallas and pittsburgh on july eight 
+what airport_code the flights between city_name airport_code city_name on month_name day_number 
+show me flights from milwaukee to orlando on thursday morning 
+show state_code flights from city_name to airport_name on day_name period_of_day 
+what flights are available from boston to dallas 
+what flights airport_code available from city_name to city_name 
+i want to leave boston at <unk> 
+i want to leave city_name at <unk> 
+kindly give me the type of aircraft used to fly from atlanta to denver 
+kindly give state_code the type of aircraft used to fly from city_name to city_name 
+can you show me flights from dallas to atlanta on tuesday night 
+can you show state_code flights from city_name to city_name on day_name period_of_day 
+is there ground transportation from atlanta-airport to downtown atlanta 
+is there ground transportation from atlanta-airport to airport_name city_name 
+are there any limousines or taxi services available at the boston-airport 
+airport_code there any limousines state_code taxi services available at the boston-airport 
+on eastern flight <unk> flying from atlanta to denver can you tell me what type of aircraft is used on a flight when it leaves at <unk> 
+on eastern flight <unk> flying from city_name to city_name can you tell state_code what type of aircraft is used on a flight when it leaves at <unk> 
+how do i get from the airport to downtown in tacoma 
+how do i get from the airport_name to airport_name state_code city_name 
+tuesday morning flights between charlotte and baltimore 
+day_name period_of_day flights between city_name airport_code city_name 
+show me flights from atlanta to washington 
+show state_code flights from city_name to state_name 
+show me all flights from atlanta to san-francisco which leave atlanta after <unk> tomorrow 
+show state_code all flights from city_name to city_name which leave city_name time_relative <unk> today_relative 
+round-trip fares from denver to philadelphia less than <unk> 
+round_trip fares from city_name to city_name less than <unk> 
+i want to fly from milwaukee to orlando on wednesday evening 
+i want to fly from city_name to airport_name on day_name period_of_day 
+how many daily us-air flights are there between philadelphia and pittsburgh 
+how many flight_days us-air flights airport_code there between city_name airport_code city_name 
+show me all the northwest flights from new-york to milwaukee that leave at <unk> 
+show state_code all the northwest flights from state_name to city_name that leave at <unk> 
+how long does it take to get from atlanta-airport into the city of atlanta 
+how long does it take to get from atlanta-airport into the city of city_name 
+what's the cheapest way to fly between atlanta and denver 
+what's the cost_relative way to fly between city_name airport_code city_name 
+what are the fares for flights from la to newark leaving monday morning 
+what airport_code the fares for flights from state_code to city_name leaving day_name period_of_day 
+give me the list of flights for continental-airlines between boston and denver 
+give state_code the list of flights for continental-airlines between city_name airport_code city_name 
+can i see ground transportation from long-beach airport to downtown 
+can i see ground transportation from airport_name airport_name to airport_name 
+i want a flight from atlanta to pittsburgh 
+i want a flight from city_name to city_name 
+us <unk> 
+us <unk> 
+what flights are available from pittsburgh to oakland-airport 
+what flights airport_code available from city_name to oakland-airport 
+afternoon flight from denver to san-francisco 
+period_of_day flight from city_name to city_name 
+show me all the flights from charlotte to cleveland 
+show state_code all the flights from city_name to city_name 
+show me the flights on twa to atlanta in the morning 
+show state_code the flights on airport_code to city_name state_code the period_of_day 
+do all the flights to oakland land at the same place 
+do all the flights to city_name land at the same place 
+show me the flights from st.-petersburg to toronto that arrive before noon 
+show state_code the flights from city_name to city_name that arrive time_relative period_of_day 
+how much is a first-class ticket from baltimore to san-francisco 
+how much is a class_type ticket from city_name to city_name 
+please give me all flights from long-beach to memphis 
+please give state_code all flights from airport_name to city_name 
+i want to fly nonstop from denver to dallas 
+i want to fly flight_stop from city_name to city_name 
+what is the earliest flight leaving boston on july first to dallas on july first 
+what is the flight_mod flight leaving city_name on month_name first to city_name on month_name first 
+i'd like a flight tomorrow evening from nashville to houston that includes dinner for tomorrow 
+i'd like a flight today_relative period_of_day from city_name to city_name that includes dinner for today_relative 
+show me the flights from denver to san-diego leaving after <unk> 
+show state_code the flights from city_name to city_name leaving time_relative <unk> 
+what flights go from san-francisco to washington via indianapolis 
+what flights go from city_name to state_name via city_name 
+can you help me with ground transportation information i need to get from the airport in philadelphia to downtown philadelphia 
+can you help state_code with ground transportation information i need to get from the airport_name state_code city_name to airport_name city_name 
+show me the earliest flight on wednesday from baltimore to newark 
+show state_code the flight_mod flight on day_name from city_name to city_name 
+could you please give me the round-trip fare from denver to atlanta 
+could you please give state_code the round_trip fare from city_name to city_name 
+show sunday flights from seattle to chicago 
+show day_name flights from city_name to city_name 
+what flights depart from pittsburgh and arrive in oakland california 
+what flights depart from city_name airport_code arrive state_code city_name state_name 
+flights from houston to los-angeles departing after <unk> 
+flights from city_name to city_name departing time_relative <unk> 
+i would like a flight from pittsburgh to san-francisco on august twentieth 
+i would like a flight from city_name to city_name on month_name day_number 
+show me flights from dallas to atlanta 
+show state_code flights from city_name to city_name 
+please give all flights from dallas to oakland california monday 
+please give all flights from city_name to city_name state_name day_name 
+what flights are available wednesday morning from boston to denver 
+what flights airport_code available day_name period_of_day from city_name to city_name 
+show me the flights from pittsburgh to baltimore arriving in baltimore on june fourteenth 
+show state_code the flights from city_name to city_name arriving state_code city_name on month_name day_number 
+list the morning flights at a <unk> from atlanta to boston 
+list the period_of_day flights at a <unk> from city_name to city_name 
+show me the flights from denver to philadelphia on a saturday 
+show state_code the flights from city_name to city_name on a day_name 
+i need to fly from boston to denver and then to san-francisco and back to boston 
+i need to fly from city_name to city_name airport_code then to city_name airport_code back to city_name 
+what is the cheapest flight on american-airlines from cleveland to miami 
+what is the cost_relative flight on american-airlines from city_name to city_name 
+show me flights available from atlanta to baltimore leaving on monday morning 
+show state_code flights available from city_name to city_name leaving on day_name period_of_day 
+what's the earliest flight from pittsburgh to baltimore on thursday morning 
+what's the flight_mod flight from city_name to city_name on day_name period_of_day 
+what ground transportation is available in boston 
+what ground transportation is available state_code city_name 
+what is the latest flight leaving pittsburgh returning to denver 
+what is the latest flight leaving city_name returning to city_name 
+does lufthansa fly between boston and oakland 
+does lufthansa fly between city_name airport_code city_name 
+show me flights from boston to washington leaving july fifteen 
+show state_code flights from city_name to state_name leaving month_name day_number 
+list all the landings at general-mitchell-international 
+list all the landings at general-mitchell-international 
+how many first-class flights does delta have today 
+how many class_type flights does city_name have today 
+are there any nonstop flights from indianapolis to san-diego on wednesday may twelfth 
+airport_code there any flight_stop flights from city_name to city_name on day_name month_name day_number 
+what are the flights which depart from san-francisco fly to washington via indianapolis and arrive by <unk> 
+what airport_code the flights which depart from city_name fly to state_name via city_name airport_code arrive by <unk> 
+please list the flights from dallas-fort-worth to boston on july twenty-third 
+please list the flights from city_name to city_name on month_name day_number 
+hello i would like to plan a flight on american-airlines from boston to denver 
+hello i would like to plan a flight on american-airlines from city_name to city_name 
+what are the two american-airlines flights that leave from dallas to san-francisco in the evening 
+what airport_code the two american-airlines flights that leave from city_name to city_name state_code the period_of_day 
+what flights do you have from baltimore to san-francisco 
+what flights do you have from city_name to city_name 
+i'd like a nonstop flight from indianapolis to san-diego that serves dinner what's available 
+i'd like a flight_stop flight from city_name to city_name that serves dinner what's available 
+what times on wednesday could i take a plane from denver to oakland 
+what times on day_name could i take a plane from city_name to city_name 
+show me ground transportation for boston 
+show state_code ground transportation for city_name 
+are there any flights from boston to san-francisco which stop in denver 
+airport_code there any flights from city_name to city_name which stop state_code city_name 
+what airlines have business-class 
+what airlines have class_type 
+please give me all flights from long-beach to memphis 
+please give state_code all flights from airport_name to city_name 
+flight from denver to dallas-fort-worth 
+flight from city_name to city_name 
+list flights from san-francisco to pittsburgh 
+list flights from city_name to city_name 
+i'd like to know what type of plane flies from boston to dallas-fort-worth after <unk> 
+i'd like to know what type of plane flies from city_name to city_name time_relative <unk> 
+please tell me the times of the flights between boston and baltimore 
+please tell state_code the times of the flights between city_name airport_code city_name 
+find a flight from philadelphia to san-francisco please on delta 
+find a flight from city_name to city_name please on city_name 
+what is the cost of a ticket going from denver to boston july twenty-fifth <unk> 
+what is the cost of a ticket going from city_name to city_name month_name day_number <unk> 
+flight numbers from minneapolis to long-beach on june twenty-six 
+flight numbers from city_name to airport_name on month_name day_number 
+i'm looking for a flight from oakland to denver with a stopover in dallas-fort-worth 
+i'm looking for a flight from city_name to city_name with a stopover state_code city_name 
+show me first-class airlines from san-francisco to pittsburgh on next tuesday first-class only 
+show state_code class_type airlines from city_name to city_name on next day_name class_type only 
+what flights are there on saturdays from philadelphia to denver 
+what flights airport_code there on day_name from city_name to city_name 
+i need a flight from denver to washington dc on wednesday 
+i need a flight from city_name to state_name state_code on day_name 
+show me the flights from columbus to charlotte 
+show state_code the flights from city_name to city_name 
+oh let's see does eastern-airline have a flight from atlanta to washington 
+state_code let's see does eastern-airline have a flight from city_name to state_name 
+what is the price of business-class from boston to san-francisco on twa 
+what is the city_name of class_type from city_name to city_name on airport_code 
+flights from atlanta to dallas in the afternoon 
+flights from city_name to city_name state_code the period_of_day 
+eastern flight <unk> from atlanta to denver leaving at <unk> what type of aircraft is used on that flight 
+eastern flight <unk> from city_name to city_name leaving at <unk> what type of aircraft is used on that flight 
+what are all the flights between san-francisco and boston 
+what airport_code all the flights between city_name airport_code city_name 
+define airline us 
+define airline us 
+i want to fly philadelphia to san-francisco on july eighth 
+i want to fly city_name to city_name on month_name day_number 
+find a flight from boston to washington on monday 
+find a flight from city_name to state_name on day_name 
+give me information on flights from atlanta to washington dc on wednesday after <unk> and thursday before <unk> 
+give state_code information on flights from city_name to state_name state_code on day_name time_relative <unk> airport_code day_name time_relative <unk> 
+find the flights from boston to san-francisco leaving after <unk> 
+find the flights from city_name to city_name leaving time_relative <unk> 
+show me the cheapest fare from dallas to baltimore 
+show state_code the cost_relative fare from city_name to city_name 
+i live in denver and i'd like to make a trip to pittsburgh 
+i live state_code city_name airport_code i'd like to make a trip to city_name 
+give me flights that arrive in baltimore from atlanta denver and pittsburgh 
+give state_code flights that arrive state_code city_name from city_name city_name airport_code city_name 
+hello i'm trying to find a flight that goes from pittsburgh to denver after <unk> 
+hello i'm trying to find a flight that goes from city_name to city_name time_relative <unk> 
+what airlines fly between boston and san-francisco 
+what airlines fly between city_name airport_code city_name 
+code ff 
+code ff 
+what is the earliest flight from boston to san-francisco on november seventh 
+what is the flight_mod flight from city_name to city_name on month_name day_number 
+list all flights from boston to san-francisco on us-air 
+list all flights from city_name to city_name on us-air 
+i would like a list of flights from pittsburgh to dallas 
+i would like a list of flights from city_name to city_name 
+on november twenty-third of this year <unk> i'd like to fly from atlanta to denver and i'd like to fly on delta 
+on month_name day_number of this year <unk> i'd like to fly from city_name to city_name airport_code i'd like to fly on city_name 
+do you have any airlines that would stop at denver on the way from baltimore to san-francisco 
+do you have any airlines that would stop at city_name on the way from city_name to city_name 
+list all flights from tampa florida to miami that are the cheapest one-way 
+list all flights from city_name airport_name to city_name that airport_code the cost_relative round_trip 
+list the nonstop flights on wednesday june second from miami to baltimore arriving in baltimore between <unk> and <unk> 
+list the flight_stop flights on day_name month_name second from city_name to city_name arriving state_code city_name between <unk> airport_code <unk> 
+give me flights from san-francisco to boston on thursday afternoon 
+give state_code flights from city_name to city_name on day_name period_of_day 
+denver to atlanta 
+city_name to city_name 
+what's the last flight leaving from pittsburgh to oakland 
+what's the last flight leaving from city_name to city_name 
+does any airline have an afternoon flight from boston to oakland 
+does any airline have an period_of_day flight from city_name to city_name 
+do you have a flight from philadelphia to san-francisco with a stopover in dallas 
+do you have a flight from city_name to city_name with a stopover state_code city_name 
+i want to make a trip from washington to san-francisco 
+i want to make a trip from state_name to city_name 
+i would like information on flights leaving atlanta in the afternoon arriving in dallas 
+i would like information on flights leaving city_name state_code the period_of_day arriving state_code city_name 
+show me all flights from san-diego to new-york nonstop 
+show state_code all flights from city_name to state_name flight_stop 
+show me all flights with fares from pittsburgh to san-francisco 
+show state_code all flights with fares from city_name to city_name 

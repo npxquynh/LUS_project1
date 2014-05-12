@@ -1,0 +1,46 @@
+Sentence SimpleSentence
+Sentence CompoundSentence
+Sentence ImperativeSentence
+SimpleSentence Subject Predicate
+Subject SimpleSubject | CompoundSubject
+SimpleSubject NP | PronounNominative
+CompoundSubject SimpleSubject Conjunction SimpleSubject
+Predicate SimplePredicate | CompoundPredicate
+SimplePredicate Verb | VerbComplement
+SimplePredicate VerbPhrase | VerbPhrase Complement
+SimplePredicate Verb NP | Verb NP Complement
+Verb VerbInf | Verb3s | AuxiliaryVerb VerbInf | to VerbInf
+VerbPhrase Verb | Verb Verb
+CompoundPredicate SimplePredicate Conjunction SimplePredicate
+Object NP | NP Conjunction NP
+Complement PrepositionPhrase | PrepositionPhrase Complement
+PrepositionPhrase PrepositionTime
+PrepositionPhrase Preposition NP
+PrepositionPhrase from fromloc.city_name | from fromloc.airport_code
+PrepositionPhrase to toloc.city_name | to toloc.airport_code
+PrepositionPhrase in toloc.city_name | in toloc.airport_coe
+PrepositionPhrase at Time
+NP Article Nom
+Nom Adj Nom
+Nom Adj Noun
+Nom Noun Noun
+Nom Noun | PluralNoun
+CompoundSentence SimpleSentence Conjunction SimpleSentence
+Article a | an | the | <epsilon>
+PronounNominative i | you | he | she | we | they
+PronounObjective me | you | him | her | us | them
+Conjunction and | or | but
+VerbInf want | need | fly | arrive | find
+Verb3s wants | needs | flies
+AuxiliaryVerb would
+Preposition from | to | at | in | with
+Noun flight | fare | airline
+PluralNoun flights | fares | airline
+Time depart_time.time | arrive_time.time
+Adj class_type
+Noun depart_time.period_of_day | arrive_time.period_of_day
+Nount class_type
+PrepositionTime depart_date.today_relative
+ImperativeSentence ImperativeVerb NP | ImperativeVerb NP Complement
+ImperativeVerb VerbInf
+ImperativeVerb show me | list all

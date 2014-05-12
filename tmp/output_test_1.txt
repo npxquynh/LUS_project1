@@ -1,0 +1,10 @@
+null null null null null null null null city_name null toloc.city_name null null null null null toloc.city_name 
+null month_name depart_date.day_number null null null null null city_name null toloc.airport_name null null depart_time.time 
+null month_name depart_date.day_number null null null null null null city_name null toloc.city_name 
+null null null null null fromloc.state_name round_trip null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null null null city_name null toloc.city_name null month_name depart_date.day_number null null 
+
+
+null depart_date.day_name month_name depart_date.day_number null null null null null null city_name null toloc.city_name null depart_time.time 
+null depart_time.time null depart_date.day_name month_name depart_date.day_number null null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name null depart_date.day_name month_name depart_date.day_number 

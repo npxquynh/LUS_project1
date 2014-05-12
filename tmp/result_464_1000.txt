@@ -1,0 +1,1000 @@
+i want to fly from stoploc.city_name
+i want to fly from stoploc.city_name at aircraft_code
+i want to fly from stoploc.city_name at aircraft_code toloc.airport_code arrive toloc.state_code stoploc.city_name at aircraft_code toloc.state_code toloc.airport_code period_of_day
+show toloc.state_code toloc.airport_code airlines with class_type flights
+list all flights from stoploc.city_name to stoploc.city_name
+what flights toloc.airport_code available from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+
+cost_relative airfare from stoploc.city_name to stoploc.airport_name
+round_trip fares from stoploc.city_name to stoploc.city_name under aircraft_code
+i need a flight depart_date.today_relative from stoploc.city_name to stoploc.city_name
+what kind of aircraft is used on a flight from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+all flights from stoploc.city_name to toloc.state_name
+what kind of ground transportation is available toloc.state_code stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name by way of stoploc.city_name
+what's toloc.airport_code stoploc.airport_name at stoploc.airport_name
+what is toloc.airport_code cost_relative flight from stoploc.city_name to toloc.airport_code
+all flights to stoploc.city_name time_relative aircraft_code
+show toloc.state_code toloc.airport_code class_type fares from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code ground transportation toloc.state_code stoploc.city_name
+all flights from stoploc.city_name to stoploc.city_name leaving time_relative aircraft_code toloc.airport_code time_relative aircraft_code
+i need information on flights for return_date.day_name leaving stoploc.city_name for stoploc.city_name stoploc.city_name to stoploc.city_name toloc.airport_code stoploc.city_name to stoploc.city_name
+please give toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name of depart_date.date_relative week
+i would like to fly from stoploc.city_name to stoploc.city_name on united-airlines
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+please list all class_type flights on united from stoploc.city_name to stoploc.city_name
+what kinds of planes toloc.airport_code used by american-airlines
+i'd like to have some information on a ticket from stoploc.city_name to stoploc.city_name toloc.airport_code stoploc.city_name
+i'd like to book a flight from stoploc.city_name to stoploc.city_name
+which airline serves stoploc.city_name stoploc.city_name toloc.airport_code stoploc.city_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name on return_date.day_name of depart_date.date_relative week which leave stoploc.city_name time_relative aircraft_code
+stoploc.city_name ground transportation
+i also need service from stoploc.city_name to stoploc.city_name arriving by period_of_day
+show toloc.state_code toloc.airport_code cheapes`t round_trip fare from stoploc.city_name to stoploc.city_name
+show toloc.state_code all flights from toloc.state_name to stoploc.city_name on northwest-airlines departing at aircraft_code
+flights from toloc.state_name to stoploc.city_name
+please find a flight on stoploc.city_name from stoploc.city_name to stoploc.city_name toloc.airport_code give toloc.state_code toloc.airport_code flight numbers
+i need a flight from stoploc.city_name to stoploc.city_name
+fares toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name return_date.day_name period_of_day
+i'd like to arrange a flight from stoploc.city_name to stoploc.city_name
+show flights from stoploc.city_name to stoploc.city_name between aircraft_code toloc.airport_code aircraft_code on return_date.day_name
+how toloc.airport_code is it from orlando-airport to stoploc.airport_name
+i would like a list of round_trip flights between stoploc.city_name toloc.airport_code stoploc.airport_name stoploc.airport_name for toloc.airport_code depart_date.day_number toloc.airport_code toloc.airport_code depart_date.day_number of return_date.month_name
+which airline has toloc.airport_code most arrivals toloc.state_code stoploc.city_name
+what airlines fly from toloc.state_name to stoploc.city_name to stoploc.city_name
+stoploc.city_name to stoploc.city_name
+which airlines serve stoploc.city_name
+show toloc.state_code information on ground transportation for stoploc.city_name
+what is fare code h
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name both direct toloc.airport_code connecting that arrive time_relative period_of_day
+i need a flight from stoploc.city_name to stoploc.city_name leaving today period_of_day
+what toloc.airport_code toloc.airport_code times that you have planes leaving from stoploc.city_name going to stoploc.city_name on return_date.month_name depart_date.day_number
+flights from stoploc.city_name to stoploc.city_name
+what flights go from stoploc.city_name to stoploc.city_name time_relative aircraft_code depart_date.date_relative return_date.day_name
+how much does toloc.airport_code limousine service cost within stoploc.city_name
+does us-air have any flights out of stoploc.city_name to stoploc.city_name
+what is booking class c
+i'd like to know toloc.airport_code shortest trip between stoploc.city_name toloc.airport_code stoploc.city_name
+i would like to see information for flights from stoploc.city_name leaving time_relative aircraft_code to stoploc.city_name on return_date.day_name
+what is toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name
+i need to know information for flights leaving stoploc.city_name on return_date.day_name period_of_day toloc.airport_code returning to stoploc.city_name
+what flight goes from stoploc.city_name to stoploc.city_name class_type on united-airlines arriving on return_date.month_name depart_date.day_number
+could you please tell toloc.state_code toloc.airport_code airlines that fly from stoploc.city_name to stoploc.city_name
+what flights do you have from stoploc.city_name to stoploc.city_name toloc.state_name
+what is toloc.airport_code ground transportation from philadelphia-airport to toloc.airport_code stoploc.airport_name proper
+which airlines have class_type flights today
+find toloc.airport_code latest flight from stoploc.city_name to stoploc.city_name that serves a meal
+i would like to make a reservation for a flight to stoploc.city_name from stoploc.city_name on this coming return_date.day_name
+give toloc.state_code a list of airports toloc.state_code stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+what does fare code q mean
+please give toloc.state_code toloc.airport_code flights from stoploc.city_name to toloc.state_name toloc.state_code
+i need information from stoploc.city_name to stoploc.city_name
+from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code flight_mod flight from stoploc.city_name to toloc.airport_code that serves a snack
+what types of aircraft does stoploc.city_name fly
+what is toloc.airport_code cost of a round_trip flight from stoploc.city_name to stoploc.city_name beginning on return_date.month_name depart_date.day_number toloc.airport_code returning on return_date.month_name depart_date.day_number
+give toloc.state_code toloc.airport_code flights leaving stoploc.city_name return_date.month_name depart_date.day_number coming back to stoploc.city_name
+list all toloc.airport_code flights that fly into general-mitchell-international
+what flights fly from stoploc.city_name to stoploc.city_name on return_date.day_name return_date.day_name return_date.day_name return_date.day_name toloc.airport_code return_date.day_name
+toloc.state_code flight meal stoploc.city_name to stoploc.city_name return_date.day_name
+show toloc.state_code toloc.airport_code flights on toloc.airport_code from stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+i want to find toloc.airport_code depart_date.day_number flight from stoploc.city_name to stoploc.city_name that serves a meal
+of all airlines which airline has toloc.airport_code most arrivals toloc.state_code stoploc.city_name
+display all flights from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+i want to travel from stoploc.city_name to stoploc.city_name early toloc.state_code toloc.airport_code period_of_day depart_date.day_number flight
+i toloc.airport_code need a flight from stoploc.airport_name to stoploc.city_name leaving on return_date.day_name toloc.airport_code depart_date.day_number
+what toloc.airport_code toloc.airport_code flights available time_relative aircraft_code between stoploc.city_name toloc.airport_code stoploc.city_name
+what flights depart stoploc.city_name on return_date.day_name toloc.airport_code arrive toloc.state_code stoploc.city_name by aircraft_code
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+list toloc.airport_code delta-airlines flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code fares from stoploc.city_name to stoploc.city_name
+what flight_stop flights between stoploc.city_name toloc.airport_code toloc.state_name arrive time_relative aircraft_code
+what is toloc.airport_code distance from los-angeles-international-airport to stoploc.city_name
+ground transportation toloc.state_code stoploc.airport_name
+please tell toloc.state_code how many flight_stop flights there toloc.airport_code from stoploc.city_name to stoploc.city_name
+on toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name on stoploc.city_name is a meal being served
+where does canadian-airlines-international fly
+what flights from stoploc.city_name to stoploc.city_name arrive time_relative 8 toloc.state_code toloc.airport_code period_of_day
+find toloc.state_code toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name
+list flight_stop flights from stoploc.city_name to stoploc.city_name which arrive time_relative midnight
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name that stop toloc.state_code stoploc.city_name
+show toloc.state_code flights to stoploc.city_name from stoploc.city_name stopping toloc.state_code stoploc.city_name
+what stoploc.airport_name is toloc.airport_code stoploc.airport_name toloc.airport_code toloc.state_code
+how much does it cost to rent a car toloc.state_code stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code a list of ground transportation at stoploc.city_name
+i'd like a flight from stoploc.city_name to stoploc.city_name stopping toloc.state_code stoploc.city_name toloc.airport_code serving dinner what's available
+also show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+show flights from stoploc.city_name to stoploc.city_name
+give toloc.state_code toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.airport_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name
+find toloc.state_code a flight on united from stoploc.city_name to stoploc.city_name with a stopover toloc.state_code stoploc.city_name
+show toloc.state_code toloc.airport_code last flight from love-field
+what flights go from stoploc.city_name to stoploc.city_name time_relative aircraft_code
+what toloc.airport_code all toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code flight_mod flight departing stoploc.city_name toloc.airport_code arriving toloc.state_code stoploc.city_name on return_date.month_name depart_date.day_number
+what is toloc.airport_code flight_mod flight flying from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+please list available flights for depart_date.date_relative return_date.day_name from stoploc.city_name to stoploc.city_name
+what flights leave stoploc.city_name toloc.airport_code arrive toloc.state_code stoploc.city_name time_relative aircraft_code on return_date.day_name
+what is toloc.airport_code transportation time from toloc.airport_code stoploc.airport_name to stoploc.city_name
+which airline has toloc.airport_code smallest plane leaving stoploc.city_name toloc.airport_code arriving toloc.state_code stoploc.city_name on return_date.month_name depart_date.day_number
+what toloc.airport_code toloc.airport_code flight_stop flights on america-west toloc.state_code southwest air from stoploc.city_name to stoploc.city_name on return_date.day_name return_date.month_name depart_date.day_number
+what toloc.airport_code toloc.airport_code classes of service for american-airlines
+i would like to find out what flights there toloc.airport_code on return_date.day_name return_date.month_name depart_date.day_number from stoploc.city_name to stoploc.city_name toloc.airport_code then from stoploc.city_name to stoploc.city_name thank you
+all flights from stoploc.city_name to toloc.state_name toloc.state_code on return_date.month_name depart_date.day_number
+what toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+on toloc.airport_code aircraft_code flight from stoploc.city_name to stoploc.city_name what type of aircraft is used
+which flight is a round_trip fare at aircraft_code from stoploc.city_name to stoploc.city_name
+what flights leave stoploc.city_name for stoploc.city_name time_relative aircraft_code on return_date.day_name
+okay i need to get a flight from stoploc.city_name to stoploc.city_name
+please list flights between stoploc.city_name toloc.airport_code stoploc.city_name
+find toloc.state_code toloc.airport_code flights that toloc.airport_code flight_stop between stoploc.city_name toloc.airport_code stoploc.city_name that leave between aircraft_code toloc.airport_code 2 toloc.state_code toloc.airport_code period_of_day
+i would like some information on flights leaving stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code latest flight_stop flight from stoploc.city_name to toloc.state_name toloc.state_code
+what toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+i would like a flight_stop flight from toloc.state_name to stoploc.city_name on return_date.month_name depart_date.day_number
+no i want to go from stoploc.city_name to stoploc.city_name
+show toloc.state_code all toloc.airport_code period_of_day fares between stoploc.city_name toloc.airport_code stoploc.city_name
+what kinds of ground transportation is available toloc.state_code stoploc.city_name
+can you show toloc.state_code class_type round_trip fares for flights from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+what is fare code qw
+i'd like a flight on return_date.month_name depart_date.day_number from stoploc.airport_name to stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+what toloc.airport_code toloc.airport_code coach fares from stoploc.city_name to toloc.state_code return_date.day_name period_of_day
+is there ground transportation available toloc.state_code stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+i would like to know toloc.airport_code flights available from stoploc.city_name to stoploc.city_name arriving toloc.state_code stoploc.city_name by aircraft_code return_date.day_name period_of_day
+i would like to fly toloc.airport_code cost_relative rate available from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+list toloc.airport_code flight from stoploc.city_name to stoploc.city_name on american-airlines
+flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+what is toloc.airport_code depart_date.day_number flight from stoploc.city_name to stoploc.city_name on return_date.day_name return_date.month_name depart_date.day_number that leaves time_relative aircraft_code
+what is toloc.airport_code class_type fare on united flight aircraft_code from stoploc.city_name to stoploc.city_name
+flight from stoploc.city_name to stoploc.city_name arriving time_relative aircraft_code on return_date.day_name
+list flights depart_date.today_relative from stoploc.city_name to stoploc.city_name
+show toloc.state_code all flights from stoploc.city_name to toloc.state_name toloc.state_code area
+sure i want to go from stoploc.city_name to stoploc.city_name
+show toloc.state_code all toloc.airport_code united-airlines flights leaving stoploc.city_name
+can you list all toloc.airport_code flights between stoploc.city_name toloc.airport_code stoploc.city_name
+list all flights from stoploc.city_name to stoploc.city_name
+round_trip flights from stoploc.city_name to stoploc.city_name coach class_type fare
+i want to fly from stoploc.city_name to stoploc.city_name toloc.airport_code i don't want any stopovers toloc.airport_code i'd like to fly only during toloc.airport_code period_of_day
+flights from stoploc.city_name to stoploc.city_name between aircraft_code toloc.airport_code aircraft_code
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+what flights toloc.airport_code there on stoploc.city_name from stoploc.city_name to stoploc.city_name
+what kind of ground transportation can you offer toloc.state_code toloc.state_code stoploc.city_name
+leaving toloc.state_name going to stoploc.city_name toloc.airport_code latest flight
+show toloc.state_code toloc.airport_code flights available from stoploc.city_name to stoploc.city_name leaving stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+round_trip fares toloc.state_name to stoploc.airport_name
+which flights toloc.airport_code serviced by american-airlines
+how do i get from pittsburgh-airport to stoploc.airport_name stoploc.city_name
+does midwest express serve stoploc.city_name
+what flights from stoploc.city_name to stoploc.city_name on return_date.day_name toloc.state_code toloc.airport_code period_of_day on american-airlines
+what is toloc.airport_code flight_mod flight going from stoploc.city_name to stoploc.city_name on return_date.day_name return_date.month_name depart_date.day_number
+what flights from stoploc.city_name to stoploc.city_name on return_date.day_name arriving time_relative aircraft_code
+i need a flight from stoploc.city_name to stoploc.city_name that leaves return_date.day_name toloc.airport_code arrives toloc.state_code stoploc.city_name time_relative aircraft_code
+i would like information on any flights from stoploc.city_name to stoploc.city_name leaving return_date.day_name period_of_day
+i need a cost_relative flight from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code cost of a class_type ticket from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code class_type thrift fare from stoploc.city_name to toloc.state_name
+list toloc.airport_code flight_stop flights early return_date.day_name period_of_day from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code flight_mod flight you have that leaves stoploc.city_name to stoploc.city_name
+toloc.airport_code there any flights from stoploc.city_name to stoploc.city_name leaving time_relative aircraft_code
+show toloc.state_code all toloc.airport_code flights to stoploc.city_name time_relative aircraft_code
+i need a round_trip flight from stoploc.city_name to stoploc.city_name
+united-airlines flights stopping toloc.state_code stoploc.city_name time_relative period_of_day
+show toloc.state_code toloc.airport_code car-rentals toloc.state_code stoploc.city_name
+what flights go from stoploc.city_name to stoploc.city_name time_relative aircraft_code toloc.state_code toloc.airport_code period_of_day
+shortest period_of_day flight from stoploc.city_name to stoploc.city_name
+how much time does it take to go between toloc.airport_code stoploc.airport_name toloc.airport_code stoploc.airport_name by ground transportation toloc.state_code stoploc.city_name
+flights from stoploc.city_name to stoploc.city_name
+i'd like to fly continental-airlines between stoploc.city_name toloc.airport_code stoploc.city_name
+i would like to book a flight on continental-airlines from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+all flights from stoploc.city_name to stoploc.city_name round_trip time_relative aircraft_code less than aircraft_code
+show toloc.state_code flights on return_date.day_name going from stoploc.city_name to stoploc.city_name flight_stop class_type leaving time_relative aircraft_code
+from stoploc.city_name to stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+show toloc.state_code toloc.airport_code flight with toloc.airport_code smallest seating capacity which leaves stoploc.city_name toloc.airport_code arrives toloc.state_code stoploc.city_name on return_date.month_name depart_date.day_number
+show all flights from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+toloc.airport_code there any flights time_relative aircraft_code on return_date.month_name depart_date.day_number from stoploc.airport_name to stoploc.city_name
+list flight_days flights from stoploc.city_name to stoploc.city_name
+on a flight from stoploc.city_name to stoploc.city_name that leaves time_relative aircraft_code is there such a flight
+on united-airlines give toloc.state_code toloc.airport_code flight-times from stoploc.city_name to stoploc.city_name
+ground transportation stoploc.city_name
+show toloc.state_code airline abbreviations
+how many flights does stoploc.city_name have with a class of service code f
+please list all toloc.airport_code arriving toloc.airport_code departing flights from general-mitchell-international
+i would like to see toloc.airport_code flights from stoploc.city_name to stoploc.city_name please
+does eastern-airlines fly early toloc.state_code toloc.airport_code period_of_day between stoploc.city_name toloc.airport_code toloc.airport_code
+what flights leave stoploc.city_name on american-airlines
+can you list all toloc.airport_code airlines that have flights from stoploc.city_name to stoploc.city_name
+flights from stoploc.city_name to stoploc.airport_name flight_days
+show toloc.state_code class_type flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+i need toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name that serves dinner
+from stoploc.city_name to stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+please list toloc.airport_code return_date.day_name period_of_day flights from stoploc.airport_name to stoploc.city_name on american-airlines
+is there ground transportation toloc.state_code stoploc.city_name from toloc.airport_code stoploc.airport_name
+show depart_date.day_number flight from stoploc.city_name to stoploc.city_name on return_date.day_name
+i'm sorry i wanted to fly toloc.airport_code is there a flight between stoploc.city_name toloc.airport_code stoploc.city_name with a stopover toloc.state_code stoploc.city_name on toloc.airport_code
+show toloc.state_code all flights from stoploc.city_name to stoploc.airport_name flight_stop
+what flights toloc.airport_code there from stoploc.city_name to stoploc.city_name
+what kind of ground transportation is there toloc.state_code toloc.state_name toloc.state_code
+what is toloc.airport_code cost_relative flight available from stoploc.city_name to stoploc.city_name
+what does toloc.airport_code fare code f mean
+what's toloc.airport_code most-expensive way i can fly to toloc.state_name
+what flights from stoploc.city_name to stoploc.city_name on return_date.day_name on american-airlines
+what is toloc.airport_code schedule of ground transportation from toloc.airport_code stoploc.airport_name toloc.state_code stoploc.city_name into stoploc.airport_name
+show toloc.state_code a list of flights from stoploc.city_name to stoploc.city_name for return_date.month_name depart_date.day_number
+show toloc.state_code toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name on return_date.day_name time_relative period_of_day
+how much does it cost to go from stoploc.airport_name to logan-airport
+what flights toloc.airport_code there from stoploc.city_name to stoploc.city_name
+i want a flight from stoploc.city_name to stoploc.city_name that at cost_relative has one-stop
+show flights from stoploc.city_name to stoploc.city_name arriving between aircraft_code toloc.airport_code aircraft_code
+what is toloc.airport_code fare from stoploc.city_name to stoploc.city_name on stoploc.city_name flight aircraft_code
+flights from stoploc.city_name toloc.state_name to stoploc.city_name toloc.state_name
+give toloc.state_code flights from stoploc.city_name to stoploc.city_name
+show toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code flights stoploc.city_name to toloc.state_name toloc.state_code on return_date.day_name
+please list toloc.airport_code return_date.day_name period_of_day flights from stoploc.city_name to stoploc.city_name
+what flight do you have from stoploc.city_name to stoploc.city_name on toloc.airport_code period_of_day of return_date.month_name depart_date.day_number
+what toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+what flights from stoploc.city_name to stoploc.city_name arrive time_relative aircraft_code toloc.state_code stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name for return_date.day_name period_of_day toloc.state_code return_date.day_name
+get toloc.state_code a class_type flight on american to stoploc.city_name on return_date.day_name depart_date.date_relative week
+ground transportation toloc.state_code westchester-county
+what flights toloc.airport_code there from stoploc.city_name to stoploc.city_name
+i'd like to fly from stoploc.city_name to stoploc.city_name at approximately aircraft_code
+list toloc.airport_code fares of us-air flights from stoploc.city_name to stoploc.city_name
+list flights from stoploc.city_name to stoploc.city_name on return_date.day_name return_date.month_name depart_date.day_number
+what flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+toloc.airport_code show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+can you give toloc.state_code information on all toloc.airport_code flights from stoploc.city_name no from stoploc.city_name to stoploc.city_name on return_date.day_name
+could you find toloc.state_code a flight from stoploc.city_name to stoploc.city_name that stops toloc.state_code stoploc.city_name
+flights from stoploc.city_name to stoploc.city_name
+give toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name return_date.day_name period_of_day
+please list all of toloc.airport_code flights leaving stoploc.city_name heading to stoploc.city_name time_relative aircraft_code return_date.day_name toloc.airport_code time_relative aircraft_code return_date.day_name
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name that leave time_relative aircraft_code
+show toloc.state_code toloc.airport_code flights that go from stoploc.city_name to stoploc.city_name
+which airline can fly toloc.state_code from stoploc.city_name to stoploc.city_name to stoploc.city_name
+toloc.airport_code there any flights from stoploc.city_name to stoploc.city_name with stops toloc.state_code stoploc.city_name
+list all toloc.airport_code flights that arrive at general-mitchell-international
+what is fare code h
+what flights from stoploc.city_name to new-york-city arrive depart_date.date_relative return_date.day_name time_relative aircraft_code
+flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code fares from stoploc.city_name to stoploc.city_name
+i need a flight from stoploc.city_name to stoploc.city_name via stoploc.city_name
+i'd like an period_of_day flight from stoploc.city_name to stoploc.city_name with a stopover toloc.state_code stoploc.city_name arriving i'd say about mealtime
+show toloc.state_code toloc.airport_code most-expensive round_trip flight from stoploc.city_name to westchester-county
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+from stoploc.city_name to toloc.state_name toloc.state_code on return_date.day_name return_date.month_name depart_date.day_number aircraft_code
+please list all toloc.airport_code flights from stoploc.city_name to stoploc.city_name which serve meals
+list aircraft types that fly between stoploc.city_name toloc.airport_code stoploc.city_name
+what does fare code qw mean
+i'm interested toloc.state_code a flight on american-airlines from stoploc.city_name to toloc.state_name
+give toloc.state_code flights from stoploc.city_name to stoploc.city_name
+how much is a round_trip fare from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code cost_relative flight from stoploc.airport_name to stoploc.city_name
+which airline provides class_type flights
+stoploc.city_name to stoploc.city_name
+which airlines fly between stoploc.city_name toloc.airport_code stoploc.city_name
+list toloc.airport_code flights arriving toloc.state_code stoploc.city_name from stoploc.city_name time_relative period_of_day on return_date.month_name depart_date.day_number
+give toloc.state_code toloc.airport_code flights for american-airline from stoploc.city_name to stoploc.city_name
+i need a flight this return_date.day_name from stoploc.city_name to stoploc.city_name toloc.airport_code i would prefer a period_of_day flight
+flights from stoploc.city_name to stoploc.city_name
+which flights go from stoploc.city_name to stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+show toloc.state_code toloc.airport_code fares from stoploc.city_name to stoploc.city_name
+give toloc.state_code american-airlines flights from stoploc.city_name to stoploc.city_name on return_date.day_name toloc.airport_code on return_date.day_name
+list all flights that leave from stoploc.city_name toloc.state_code stoploc.city_name toloc.state_code stoploc.city_name toloc.airport_code arrive toloc.state_code stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to stoploc.airport_name on return_date.day_name period_of_day
+return_date.month_name i have a listing of flights from stoploc.city_name to stoploc.city_name toloc.state_name departing toloc.state_code toloc.airport_code period_of_day
+what period_of_day flights do you have between stoploc.city_name toloc.airport_code stoploc.city_name
+i'd like a flight from toloc.state_name that stops toloc.state_code stoploc.city_name toloc.airport_code goes on to stoploc.city_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name depart_date.today_relative
+all round_trip flights between stoploc.city_name toloc.airport_code stoploc.city_name
+what flights go to stoploc.city_name from stoploc.city_name
+what flights toloc.airport_code there from stoploc.city_name to stoploc.city_name flight_days with class_type
+depart_date.day_number flights from stoploc.city_name to stoploc.city_name on a return_date.day_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+tell toloc.state_code about flights from stoploc.city_name to stoploc.city_name leaving time_relative aircraft_code
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.airport_name with round_trip fares less than aircraft_code
+i need a flight from stoploc.city_name to stoploc.city_name that leaves early toloc.state_code toloc.airport_code period_of_day
+what is toloc.airport_code depart_date.day_number flight from stoploc.city_name to stoploc.city_name that serves lunch
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+all flights from stoploc.city_name to stoploc.city_name
+stoploc.city_name to stoploc.city_name return_date.day_name
+give toloc.state_code toloc.airport_code flight_mod flight depart_date.today_relative on united-airlines from stoploc.city_name to stoploc.city_name
+show toloc.state_code flights on return_date.day_name from stoploc.city_name to stoploc.city_name time_relative aircraft_code
+show toloc.state_code all toloc.airport_code flights leaving stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+is there a plane from stoploc.city_name to toloc.state_name
+i need to go from stoploc.city_name to stoploc.city_name toloc.airport_code back toloc.state_code toloc.airport_code same toloc.airport_code find toloc.state_code toloc.airport_code flight_mod flight from stoploc.city_name
+what toloc.airport_code flights between stoploc.city_name toloc.airport_code stoploc.city_name on return_date.month_name depart_date.day_number
+what toloc.airport_code toloc.airport_code schedule of flights from stoploc.city_name to stoploc.city_name for return_date.month_name depart_date.day_number
+show toloc.state_code round_trip flights from stoploc.city_name to stoploc.airport_name return_date.day_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name depart_date.today_relative which serve a meal
+give toloc.state_code flights on american-airlines from stoploc.city_name to stoploc.city_name
+show all flights from stoploc.city_name to stoploc.city_name
+i wish to fly from stoploc.city_name to toloc.state_name please find an airline for toloc.state_code
+please list toloc.airport_code flights from stoploc.city_name to toloc.state_code stoploc.city_name on return_date.month_name depart_date.day_number
+which flights from stoploc.city_name to stoploc.city_name also stop toloc.state_code stoploc.city_name
+show toloc.state_code toloc.airport_code flights on return_date.day_name period_of_day from stoploc.city_name to stoploc.city_name
+i need 2 class_type tickets from stoploc.city_name to stoploc.city_name
+toloc.airport_code there any flights from stoploc.city_name to stoploc.city_name which stop toloc.state_code stoploc.city_name
+flights to stoploc.city_name
+what does toloc.airport_code stand for
+what is toloc.airport_code cost_relative way to fly from stoploc.city_name to stoploc.city_name
+list all flight_stop flights from stoploc.city_name to stoploc.city_name time_relative aircraft_code on return_date.day_name
+how many booking classes toloc.airport_code there
+flight numbers from stoploc.city_name to stoploc.city_name depart_date.today_relative
+give toloc.state_code toloc.airport_code continental flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+what toloc.airport_code toloc.airport_code united-airlines flights between stoploc.city_name toloc.airport_code stoploc.city_name on return_date.month_name depart_date.day_number
+show toloc.state_code toloc.airport_code flights depart_date.date_relative return_date.day_name between stoploc.city_name toloc.airport_code stoploc.city_name
+find a flight on american-airlines from stoploc.city_name to stoploc.city_name that makes a stopover toloc.state_code stoploc.city_name
+show toloc.state_code toloc.airport_code fares on all flights round_trip from stoploc.city_name to stoploc.city_name
+what's toloc.airport_code difference between fare code q toloc.airport_code fare code f
+flights from stoploc.city_name to stoploc.city_name
+ground transportation stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to toloc.state_name toloc.state_code on return_date.day_name
+find a flight between stoploc.city_name toloc.airport_code stoploc.city_name toloc.airport_code flight should be toloc.state_code toloc.airport_code period_of_day toloc.airport_code arrive close to aircraft_code toloc.airport_code flight should be flight_stop
+show toloc.state_code all flights from stoploc.city_name to toloc.state_name with prices
+flights between toloc.state_name toloc.airport_code stoploc.city_name
+please list toloc.airport_code return_date.day_name period_of_day flights from stoploc.city_name to stoploc.city_name
+list all american-airlines flights from stoploc.city_name to stoploc.city_name which arrive on return_date.day_name time_relative aircraft_code
+what round_trip tickets toloc.airport_code there from stoploc.city_name to stoploc.city_name on us-air that arrive time_relative aircraft_code
+i'd like to go from stoploc.city_name to stoploc.city_name at aircraft_code return_date.day_name period_of_day
+show toloc.state_code toloc.airport_code northwest flights from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code available ground transportation between toloc.airport_code stoploc.airport_name toloc.state_code stoploc.city_name toloc.airport_code stoploc.airport_name
+on return_date.month_name depart_date.day_number stoploc.city_name to stoploc.city_name stoploc.city_name flight aircraft_code
+show toloc.state_code all flights from stoploc.city_name
+which airlines have flights between stoploc.city_name toloc.airport_code stoploc.city_name
+which toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name toloc.state_code toloc.state_name toloc.state_code
+list toloc.airport_code number of flights leaving stoploc.city_name for stoploc.city_name time_relative aircraft_code toloc.state_code toloc.airport_code period_of_day
+toloc.airport_code there stoploc.city_name flights leaving stoploc.city_name
+can you list all round_trip flights from stoploc.airport_name to stoploc.city_name toloc.airport_code then to stoploc.city_name
+i would like to find a flight from stoploc.city_name to stoploc.city_name on stoploc.city_name toloc.airport_code arriving at about aircraft_code toloc.state_code toloc.airport_code period_of_day could you please tell toloc.state_code toloc.airport_code aircraft toloc.airport_code toloc.airport_code flight number thank you
+i would like a flight from toloc.state_name to stoploc.city_name leaving at aircraft_code on return_date.month_name depart_date.day_number
+how much is a flight from toloc.state_name to stoploc.city_name
+show toloc.state_code all flights from stoploc.airport_name to stoploc.city_name on a boeing aircraft_code
+what flights toloc.airport_code there on return_date.day_name from stoploc.city_name to stoploc.city_name
+where is toloc.airport_code
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name
+which united-airlines flight flies across this continent toloc.airport_code leaves from stoploc.city_name goes to stoploc.city_name toloc.airport_code makes a stopover toloc.state_code stoploc.city_name
+list flight_days flights of united-airline from stoploc.city_name to stoploc.city_name with class_type service
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+all flights stoploc.city_name to toloc.airport_code
+i want to travel from toloc.state_name toloc.state_code to stoploc.city_name on return_date.day_name period_of_day
+what is toloc.airport_code fare going from stoploc.city_name to stoploc.city_name round_trip on return_date.month_name depart_date.day_number
+is there a flight on american-airlines from stoploc.city_name to stoploc.city_name
+what flights toloc.airport_code available from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+do you have an period_of_day flight leaving toloc.state_code toloc.airport_code period_of_day going from stoploc.city_name to stoploc.city_name with a stopover toloc.state_code stoploc.city_name
+show toloc.airport_code flights from stoploc.city_name to stoploc.city_name again on return_date.day_name
+show toloc.state_code a list of flights on american-airlines from stoploc.city_name to toloc.state_code on return_date.month_name depart_date.day_number
+toloc.airport_code i'd like flights from stoploc.city_name to stoploc.city_name leaving between aircraft_code toloc.airport_code aircraft_code
+what class_type flights toloc.airport_code available from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+please show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+please show toloc.state_code all toloc.airport_code flights from stoploc.city_name to stoploc.city_name depart_date.today_relative
+what does flight code us mean
+i would like a flight from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code flight-schedule of toloc.airport_code f28 from stoploc.city_name to stoploc.city_name
+looking for a flight from toloc.state_code to toloc.state_name
+how many us-air flights leave from toloc.state_name
+show toloc.state_code times for flights from stoploc.city_name to stoploc.city_name
+what flights toloc.airport_code there on return_date.day_name period_of_day toloc.state_code return_date.day_name period_of_day from stoploc.city_name to toloc.airport_code
+how many flights go from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+could you show toloc.state_code all toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+find toloc.state_code a flight from stoploc.city_name to stoploc.city_name with layover toloc.state_code stoploc.city_name on united
+what flights toloc.airport_code available between stoploc.city_name toloc.airport_code toloc.state_name arriving toloc.state_code toloc.state_name at aircraft_code
+show toloc.state_code toloc.airport_code airlines between stoploc.city_name toloc.airport_code stoploc.city_name
+what flights do you have between stoploc.city_name toloc.airport_code stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to westchester-county
+i need information for a flight from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name round_trip
+show toloc.state_code all overnight flights from toloc.state_name toloc.state_code to stoploc.city_name toloc.airport_code list their fares
+round_trip flights between toloc.state_name toloc.airport_code stoploc.city_name
+show toloc.state_code toloc.airport_code round_trip flight from stoploc.city_name to westchester-county with toloc.airport_code highest fare
+what flights toloc.airport_code there from stoploc.city_name to stoploc.city_name on continental
+i'm trying to make a connection between stoploc.city_name toloc.airport_code stoploc.city_name does delta-airline fly between those two
+what is toloc.airport_code latest us-air flight leaving stoploc.city_name toloc.airport_code returning to stoploc.city_name
+what flights does us-air have from stoploc.city_name to stoploc.city_name on return_date.day_name
+can i fly from stoploc.city_name to stoploc.city_name toloc.state_name
+what is toloc.airport_code
+flights from stoploc.city_name to stoploc.city_name
+i would like to leave time_relative aircraft_code toloc.state_code toloc.airport_code period_of_day
+show toloc.state_code fares from stoploc.city_name to stoploc.city_name
+flights from stoploc.city_name to stoploc.city_name
+please show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day serving breakfast
+flights from stoploc.city_name return_date.month_name depart_date.day_number
+does american-airlines fly from stoploc.city_name to stoploc.city_name
+yes i'd like a flight from stoploc.airport_name to stoploc.city_name by way of stoploc.city_name
+i'd like to know if you have any flights from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code cost_relative round_trip flights from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code depart_date.day_number flight time_relative aircraft_code from toloc.state_name for stoploc.city_name
+how many stoploc.city_name flights leave from toloc.state_name
+toloc.airport_code list for toloc.state_code only toloc.airport_code united flights that flight from stoploc.city_name to stoploc.city_name
+from stoploc.city_name to stoploc.city_name
+i am interested toloc.state_code a flight on american-airlines from stoploc.city_name to toloc.state_name
+what airplane types fly from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code yn code
+i would like toloc.airport_code flight_mod period_of_day flight from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+how many seats toloc.state_code a aircraft_code
+return_date.month_name i have a listing of flights from stoploc.airport_name to stoploc.city_name toloc.state_name on return_date.day_name
+what flights leave from stoploc.city_name to stoploc.city_name on american-airlines
+show toloc.state_code all round-trips from toloc.state_name to stoploc.city_name leaving on return_date.day_name
+list all flight_stop flights on return_date.day_name from stoploc.city_name to stoploc.city_name
+list all flights from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code round_trip fares for flights from stoploc.city_name to stoploc.city_name arriving time_relative aircraft_code on continental
+i'd like to see flights from stoploc.city_name to stoploc.city_name
+please show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name on toloc.airport_code depart_date.day_number
+what is toloc.airport_code
+what type of ground transportation is available between toloc.airport_code stoploc.airport_name toloc.airport_code stoploc.airport_name stoploc.city_name
+is toloc.airport_code american flight aircraft_code from stoploc.city_name to stoploc.city_name a flight_stop flight
+give toloc.state_code toloc.airport_code flights from toloc.state_name toloc.state_code to stoploc.city_name for return_date.month_name depart_date.day_number
+show all connecting flights from stoploc.city_name to stoploc.city_name
+list flight_days flights from stoploc.city_name to stoploc.city_name using toloc.airport_code
+i would like toloc.airport_code cost_relative airfare flight on return_date.day_name to stoploc.city_name from stoploc.city_name
+i need a flight from stoploc.city_name to stoploc.city_name leaving toloc.state_code toloc.airport_code period_of_day on return_date.day_name
+can you give toloc.state_code toloc.airport_code period_of_day flight on return_date.day_name from toloc.state_name to stoploc.city_name again
+i would like to book a flight from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+what flights from stoploc.city_name to toloc.state_name
+show toloc.state_code all flights direct only from stoploc.city_name to stoploc.city_name toloc.state_code stoploc.city_name that arrive time_relative aircraft_code local time
+class_type round_trip airfare from stoploc.city_name to stoploc.city_name
+flights from stoploc.city_name to stoploc.city_name on american-airlines
+list all flights on continental leaving stoploc.city_name on return_date.day_name time_relative aircraft_code
+show toloc.state_code all flights from stoploc.city_name
+show toloc.state_code all nationair flights from stoploc.city_name
+what toloc.airport_code toloc.airport_code fares from stoploc.city_name to toloc.state_code return_date.day_name toloc.airport_code return_date.day_name
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+please show toloc.state_code round_trip tickets from stoploc.city_name to stoploc.city_name
+list all flights on united from stoploc.city_name to stoploc.city_name with fare code qx
+how many flights does toloc.airport_code have toloc.state_code class_type
+list all flights going from stoploc.city_name to stoploc.city_name time_relative aircraft_code on return_date.day_name toloc.airport_code time_relative aircraft_code on return_date.day_name
+show toloc.state_code toloc.airport_code flights to love-field
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+stoploc.city_name to stoploc.city_name arriving time_relative 1 toloc.state_code toloc.airport_code period_of_day
+i need a flight from stoploc.city_name to stoploc.city_name
+please give toloc.state_code flights leaving stoploc.city_name toloc.airport_code going to stoploc.city_name
+what do you have from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+flight leaving from stoploc.city_name to stoploc.city_name
+tell toloc.state_code about flights on american-airlines from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+list all flights from stoploc.city_name to stoploc.city_name with toloc.airport_code maximum-number-of-stops
+toloc.airport_code there any flights from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code flights stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+show toloc.state_code flights leaving from stoploc.city_name toloc.state_name to stoploc.city_name toloc.state_name on return_date.day_name time_relative aircraft_code
+i need flight information between stoploc.city_name toloc.airport_code stoploc.city_name
+what toloc.airport_code my choices of flights from stoploc.city_name to toloc.state_name
+what is toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name
+on continental-airlines any class service from stoploc.city_name to stoploc.city_name
+find toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name with a stopover toloc.state_code stoploc.city_name
+what toloc.airport_code toloc.airport_code lowest round_trip fares from stoploc.city_name to stoploc.city_name
+toloc.airport_code there any flights from stoploc.city_name to stoploc.city_name stopping toloc.state_code stoploc.city_name
+flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+how much is a round_trip fare from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights into love-field
+i'd like to fly from stoploc.city_name to stoploc.city_name through stoploc.city_name
+information on flights from stoploc.city_name to stoploc.city_name
+what flights does american-airlines fly from stoploc.city_name to stoploc.city_name
+i want to travel from stoploc.city_name to stoploc.city_name round_trip leaving return_date.day_name return_date.month_name depart_date.day_number arriving toloc.state_code stoploc.city_name at time_relative aircraft_code toloc.state_code toloc.airport_code period_of_day toloc.airport_code returning toloc.airport_code depart_date.date_relative toloc.airport_code arriving toloc.state_code stoploc.city_name at time_relative aircraft_code toloc.state_code toloc.airport_code period_of_day which airlines fly that route
+i would like toloc.airport_code time of all flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+show toloc.state_code ground transportation toloc.state_code stoploc.city_name please
+toloc.airport_code there any flight_stop flights leaving from stoploc.city_name arriving toloc.state_code stoploc.city_name on return_date.month_name depart_date.day_number
+how much does dl aircraft_code cost
+what is toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name on american-airlines
+please list ground transport toloc.state_code stoploc.city_name
+i need a flight from stoploc.city_name to stoploc.city_name on a return_date.day_name
+show toloc.state_code flights from all airports to love-field
+list toloc.airport_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+what flights toloc.airport_code available from stoploc.city_name to stoploc.city_name class_type on united-airlines arriving return_date.month_name depart_date.day_number time_relative period_of_day
+which airlines toloc.airport_code represented toloc.state_code toloc.airport_code database
+which flight between stoploc.city_name toloc.airport_code stoploc.city_name on return_date.month_name depart_date.day_number has toloc.airport_code smallest seating capacity
+list all trans-world-airline flights from stoploc.city_name to stoploc.city_name that arrive toloc.state_code stoploc.city_name between aircraft_code toloc.airport_code aircraft_code
+what flights toloc.airport_code there from new-york-city to stoploc.city_name
+is there ground transportation from san-diego-airport to toloc.airport_code stoploc.airport_name area
+shortest period_of_day flights from stoploc.city_name to stoploc.city_name
+what's toloc.airport_code last flight from stoploc.city_name to stoploc.city_name
+is there a flight from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+what is airline us
+what's toloc.airport_code lowest round_trip fare from stoploc.city_name to stoploc.city_name
+find toloc.state_code toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name on any-day of toloc.airport_code week
+display all flights from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+class_type fares toloc.state_name to stoploc.city_name round_trip
+i need to fly from stoploc.city_name to stoploc.city_name on to stoploc.city_name toloc.airport_code back
+i wish to book a flight from stoploc.city_name to stoploc.city_name coach discount fare
+show toloc.state_code flights to stoploc.city_name from stoploc.city_name toloc.airport_code stoploc.city_name toloc.airport_code stoploc.city_name
+tell toloc.state_code distance from orlando-airport to toloc.airport_code stoploc.airport_name
+toloc.state_code i need to get a flight from stoploc.city_name to stoploc.city_name departing time_relative aircraft_code
+what is toloc.airport_code cost_relative fare i can get from stoploc.city_name to stoploc.city_name
+i would like a flight from stoploc.city_name to stoploc.city_name arrive stoploc.city_name about aircraft_code
+us-air depart_date.date_relative return_date.day_name from stoploc.city_name to stoploc.city_name
+could you please find toloc.state_code toloc.airport_code cost_relative round_trip fare from stoploc.city_name to stoploc.city_name
+i'd like a flight from stoploc.city_name to stoploc.city_name for return_date.day_name
+round_trip from stoploc.city_name to toloc.state_name on tower-air on return_date.day_name
+show toloc.state_code ground transportation toloc.state_code stoploc.city_name
+please give toloc.state_code toloc.airport_code flight_mod flight depart_date.today_relative from stoploc.city_name to stoploc.city_name
+i need ground transportation toloc.state_code stoploc.city_name please show toloc.state_code what's available
+what's fare code yn
+toloc.airport_code cost_relative flights from stoploc.city_name to stoploc.city_name that arrive time_relative aircraft_code on a return_date.day_name
+is there an early-morning delta-airlines flight between stoploc.city_name toloc.airport_code toloc.state_name
+what flights from stoploc.airport_name to stoploc.city_name on return_date.day_name
+show toloc.state_code all flights both direct toloc.airport_code connecting from stoploc.city_name to either stoploc.city_name toloc.state_code stoploc.city_name that depart time_relative aircraft_code
+give toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+okay tell toloc.state_code what toloc.airport_code flight_mod flight is that leaves between stoploc.city_name toloc.airport_code stoploc.city_name
+i want a flight from stoploc.city_name to stoploc.city_name that leaves early return_date.day_name period_of_day
+what class_type flights toloc.airport_code available from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number aircraft_code
+show toloc.state_code toloc.airport_code airlines from love-field
+what's toloc.airport_code cost_relative round_trip ticket from stoploc.city_name to stoploc.city_name
+a class_type flight on american to stoploc.city_name on return_date.day_name toloc.state_code toloc.airport_code depart_date.date_relative week
+what airlines fly between stoploc.city_name toloc.airport_code stoploc.city_name toloc.airport_code stop toloc.state_code stoploc.city_name
+what're toloc.airport_code flights from new-york-city to stoploc.city_name that arrive on a return_date.day_name
+flights on return_date.day_name from stoploc.city_name to stoploc.city_name
+flights from stoploc.city_name return_date.month_name one
+how many stops on continental aircraft_code from stoploc.city_name to stoploc.city_name
+on flight us-air aircraft_code from stoploc.city_name to stoploc.city_name what time toloc.airport_code what stoploc.airport_name does toloc.airport_code plane stop toloc.state_code between
+i need a flight from stoploc.city_name to stoploc.city_name which will get toloc.state_code into stoploc.city_name by aircraft_code toloc.state_code as-soon-thereafter-as-possible
+i want a round_trip ticket from stoploc.city_name to stoploc.city_name
+find toloc.state_code toloc.airport_code latest flight leaving stoploc.city_name return_date.month_name depart_date.day_number toloc.airport_code arriving toloc.state_code stoploc.city_name
+what's toloc.airport_code lowest round_trip fare from stoploc.city_name to stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to toloc.state_name toloc.state_code
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code shortest flight from stoploc.city_name to stoploc.city_name which arrives toloc.state_code stoploc.city_name return_date.day_name time_relative period_of_day
+what toloc.airport_code toloc.airport_code flights from stoploc.airport_name to stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+return_date.day_name flights from new-york-city to stoploc.city_name
+i need a flight from stoploc.city_name to toloc.state_name leaving at aircraft_code
+what's toloc.airport_code smallest plane that flies from stoploc.city_name to stoploc.city_name on depart_date.day_number depart_date.day_number
+give toloc.state_code toloc.airport_code flights on return_date.month_name depart_date.day_number with toloc.airport_code fares from stoploc.city_name to stoploc.airport_name
+show toloc.state_code all toloc.airport_code us-air flights leaving stoploc.city_name between aircraft_code toloc.airport_code 4 toloc.state_code toloc.airport_code period_of_day
+i want a cost_relative from stoploc.city_name to stoploc.city_name
+show all flights from stoploc.city_name to toloc.airport_code
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name on a return_date.day_name
+show toloc.state_code toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name
+i need a united-airlines flight from stoploc.city_name to stoploc.city_name on return_date.day_name
+what toloc.airport_code toloc.airport_code cost_relative round_trip flights from stoploc.city_name to stoploc.city_name
+all flights from stoploc.city_name to toloc.state_name toloc.state_code time_relative aircraft_code on return_date.month_name depart_date.day_number class_type
+is there ground transportation toloc.state_code stoploc.city_name
+list united flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+what is toloc.airport_code cost_relative way to fly from stoploc.city_name to stoploc.city_name
+stoploc.city_name to stoploc.city_name with one-stop toloc.state_code stoploc.city_name please
+i would like to fly us-air from stoploc.airport_name to stoploc.city_name toloc.state_code toloc.airport_code late period_of_day what do you have available
+what does restriction ap-57 mean
+what toloc.airport_code toloc.airport_code latest flights that i can take from stoploc.city_name to stoploc.city_name
+list flights from stoploc.city_name to stoploc.city_name via stoploc.city_name
+how much does toloc.airport_code american-airlines flight aircraft_code from stoploc.city_name to stoploc.city_name cost
+all flights from stoploc.city_name to stoploc.city_name which show up on return_date.day_name period_of_day
+show toloc.state_code flights from toloc.state_name to stoploc.city_name on a return_date.day_name with a round_trip fare less than aircraft_code
+flight_stop flights from stoploc.city_name to stoploc.city_name
+give toloc.state_code toloc.airport_code flights toloc.airport_code fares on return_date.month_name depart_date.day_number from stoploc.city_name to stoploc.airport_name
+what flights toloc.airport_code available return_date.day_name period_of_day from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.airport_name also on return_date.day_name toloc.airport_code eighteenth of return_date.month_name
+what's toloc.airport_code ground transportation like at stoploc.city_name
+list flight_days flights from stoploc.city_name to stoploc.city_name using united-airlines
+toloc.state_code toloc.airport_code depart_date.date_relative two days i want to fly from stoploc.city_name to stoploc.airport_name toloc.state_code to stoploc.city_name
+how many flights does each airline have with class_type service
+what flights from stoploc.city_name to stoploc.city_name on return_date.day_name with supper served
+show flights from stoploc.city_name to stoploc.city_name on either return_date.day_name toloc.airport_code depart_date.day_number toloc.state_code return_date.day_name toloc.airport_code depart_date.day_number
+what toloc.airport_code toloc.airport_code flights available between aircraft_code toloc.airport_code aircraft_code between stoploc.city_name toloc.airport_code stoploc.city_name
+list all flights from stoploc.city_name to stoploc.city_name
+airline code toloc.state_code
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name on a boeing aircraft_code
+return_date.month_name i have a list of flights going from stoploc.city_name to stoploc.city_name on toloc.airport_code depart_date.day_number of return_date.month_name
+could you tell toloc.state_code toloc.airport_code cost_relative fare from stoploc.city_name to stoploc.city_name on depart_date.day_number of return_date.month_name
+which united-airlines flight flies from stoploc.city_name to stoploc.city_name toloc.airport_code makes a stopover toloc.state_code stoploc.city_name
+what toloc.airport_code toloc.airport_code latest flights from stoploc.city_name to stoploc.city_name on toloc.airport_code period_of_day of return_date.month_name depart_date.day_number
+can you tell toloc.state_code how to get from toloc.airport_code stoploc.airport_name toloc.state_code stoploc.city_name to stoploc.airport_name
+what is toloc.airport_code
+toloc.airport_code show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code cost of flight dl aircraft_code from stoploc.city_name to stoploc.city_name
+what stops does dl aircraft_code make from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code cost_relative round_trip flights from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+stoploc.city_name flights to stoploc.city_name please
+i would like to know toloc.airport_code latest flight on return_date.day_name you have leaving from stoploc.city_name to stoploc.city_name which offers a meal
+what toloc.airport_code toloc.airport_code costs of car-rental toloc.state_code stoploc.city_name
+what airlines fly from stoploc.city_name to stoploc.city_name
+can you tell toloc.state_code which flights go from stoploc.city_name to stoploc.city_name toloc.airport_code make a stop toloc.state_code stoploc.city_name
+what is toloc.airport_code cost_relative round_trip fare between stoploc.city_name toloc.airport_code stoploc.city_name
+show toloc.state_code ground transportation information for stoploc.city_name
+all flights toloc.airport_code fares from stoploc.city_name to stoploc.city_name round_trip time_relative aircraft_code less than aircraft_code
+what is toloc.airport_code fare from stoploc.city_name to stoploc.city_name on united-airlines
+show toloc.state_code toloc.airport_code latest flight from stoploc.city_name to stoploc.city_name
+show toloc.state_code all toloc.airport_code eastern-airlines flights leaving stoploc.city_name between aircraft_code toloc.airport_code 4 toloc.state_code toloc.airport_code period_of_day
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+flights from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code depart_date.day_number flight from stoploc.city_name to stoploc.city_name leaving on return_date.day_name return_date.month_name depart_date.day_number
+all united-airlines flights with stopovers toloc.state_code stoploc.city_name
+show flights from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+show toloc.state_code all toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name that arrive time_relative aircraft_code
+show toloc.state_code toloc.airport_code direct flights from stoploc.city_name to stoploc.city_name
+i'd like to find toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name
+show toloc.state_code round_trip fares from stoploc.city_name to stoploc.city_name
+i want to go from stoploc.city_name to stoploc.city_name round_trip toloc.airport_code make a stop at stoploc.city_name is this possible
+please tell toloc.state_code which airline has toloc.airport_code most departures from stoploc.city_name
+what toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code round_trip fares from stoploc.airport_name to stoploc.city_name
+explain toloc.airport_code restriction ap-80
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code us-air fares for depart_date.date_relative return_date.day_name from stoploc.city_name to stoploc.city_name
+list a round_trip fare from stoploc.city_name to stoploc.city_name flights
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name
+can you show toloc.state_code toloc.airport_code cost_relative round_trip flights between stoploc.city_name toloc.airport_code stoploc.city_name
+how many passengers fit on a d9s
+i would like a flight from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+i need a flight from stoploc.city_name to stoploc.city_name that leaves time_relative aircraft_code
+what flights from stoploc.city_name arrive toloc.state_code stoploc.city_name time_relative aircraft_code
+please show toloc.state_code ground transportation toloc.state_code stoploc.city_name
+find travel arrangements for a round_trip flight from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code coach fare between stoploc.city_name toloc.airport_code stoploc.city_name on stoploc.city_name
+list flights from stoploc.city_name to stoploc.city_name on toloc.airport_code period_of_day of return_date.month_name depart_date.day_number
+i would like your rates between stoploc.city_name toloc.airport_code stoploc.city_name on return_date.month_name depart_date.day_number
+i would like to fly from stoploc.city_name to stoploc.city_name early toloc.state_code toloc.airport_code period_of_day
+looking for a flight from stoploc.city_name to stoploc.city_name
+show toloc.state_code all toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+toloc.airport_code flight from stoploc.city_name to stoploc.city_name leaving time_relative midnight
+what does toloc.airport_code abbreviation dl mean
+could i have a list of flights toloc.state_code class_type on return_date.day_name from stoploc.city_name to stoploc.city_name starting at period_of_day toloc.airport_code afterwards
+i would like to fly from stoploc.city_name to stoploc.city_name
+what flights from stoploc.city_name to stoploc.city_name on return_date.day_name arriving time_relative aircraft_code
+list flight_days flights from stoploc.city_name to stoploc.city_name using toloc.airport_code
+could you give toloc.state_code toloc.airport_code schedule of flights for american toloc.airport_code stoploc.city_name to toloc.airport_code on return_date.month_name depart_date.day_number
+show toloc.state_code class_type flights from toloc.state_name to stoploc.city_name leaving on a return_date.day_name
+please show toloc.state_code airfare of flight us aircraft_code from stoploc.city_name to stoploc.city_name
+is there a stoploc.city_name flight from stoploc.city_name to stoploc.city_name that stops toloc.state_code stoploc.city_name
+please list all united flights between stoploc.city_name toloc.airport_code stoploc.city_name
+find toloc.airport_code cost_relative round_trip fare from stoploc.city_name to stoploc.city_name
+give toloc.state_code period_of_day flights from stoploc.city_name to stoploc.city_name
+please give toloc.state_code round_trip fares from stoploc.city_name to stoploc.city_name
+i would like information on ground transportation toloc.state_code toloc.airport_code stoploc.airport_name of stoploc.city_name from stoploc.airport_name to stoploc.airport_name
+i'd like to fly from stoploc.city_name to stoploc.city_name to stoploc.city_name
+what is toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name leaving on return_date.month_name depart_date.day_number
+what is toloc.airport_code stoploc.city_name of american-airlines flight aircraft_code from toloc.state_name to stoploc.city_name
+what's toloc.airport_code depart_date.day_number flight from stoploc.city_name to stoploc.city_name
+i would like information on flights from stoploc.city_name to stoploc.city_name leaving time_relative aircraft_code return_date.day_name period_of_day
+what flights go from stoploc.city_name to stoploc.city_name leaving time_relative aircraft_code
+what is toloc.airport_code fare code y toloc.airport_code what is toloc.airport_code fare code h
+hello i'd like a stoploc.city_name flight from stoploc.city_name to stoploc.city_name
+what flights toloc.airport_code provided by american-airlines
+show toloc.state_code toloc.airport_code flights from love-field to other airports
+show toloc.state_code toloc.airport_code coach fares from stoploc.city_name to stoploc.city_name
+i want toloc.airport_code flights from stoploc.city_name to stoploc.city_name that stop toloc.state_code stoploc.city_name
+return_date.day_name toloc.state_code return_date.day_name flights between stoploc.city_name toloc.airport_code stoploc.city_name american-airlines
+list toloc.airport_code cost_relative round_trip flight from stoploc.city_name stoploc.airport_name to stoploc.city_name toloc.state_name
+flights from toloc.state_name return_date.month_name depart_date.day_number
+i'd like to fly from stoploc.city_name to stoploc.city_name through stoploc.city_name
+list all flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+stoploc.city_name airports
+show toloc.state_code all united flights from stoploc.city_name to stoploc.city_name for return_date.month_name depart_date.day_number aircraft_code
+what is toloc.airport_code flight_mod flight departing stoploc.city_name toloc.airport_code arriving toloc.state_code stoploc.city_name on return_date.month_name depart_date.day_number
+from toloc.state_name to stoploc.city_name on return_date.day_name period_of_day
+cost_relative flight from stoploc.city_name to stoploc.city_name
+which airlines fly from stoploc.city_name to toloc.state_name toloc.state_code but stopover toloc.state_code some other stoploc.airport_name
+please list all airline flights between stoploc.city_name toloc.airport_code stoploc.city_name
+i am interested toloc.state_code a flight from stoploc.city_name to stoploc.city_name toloc.airport_code flight should be american toloc.airport_code leave toloc.state_code toloc.airport_code period_of_day i need to know toloc.airport_code aircraft toloc.airport_code flight number
+flights from stoploc.city_name to stoploc.city_name
+list flights from stoploc.city_name to stoploc.city_name that serve only breakfast
+how many airlines have flights with service class yn
+could you please give toloc.state_code a round_trip fare from stoploc.city_name to stoploc.city_name
+okay i'd like to fly from stoploc.city_name to stoploc.city_name
+i'd like a flight from stoploc.city_name to stoploc.city_name for return_date.day_name
+i need a flight from stoploc.city_name stoploc.city_name to stoploc.city_name toloc.state_name leaving this return_date.day_name
+give toloc.state_code a list of all toloc.airport_code flights from stoploc.city_name to stoploc.city_name toloc.state_code stoploc.city_name to stoploc.city_name toloc.state_code stoploc.city_name to stoploc.city_name
+tell toloc.state_code about ground transportation toloc.state_code st.-petersburg-airport
+how many united flights toloc.airport_code there from stoploc.city_name please
+i need a listing of flights from new-york-city to stoploc.city_name canada departing return_date.day_name toloc.state_code toloc.airport_code period_of_day
+show toloc.state_code all toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+how can i go from toloc.airport_code san-francisco-airport to stoploc.airport_name stoploc.city_name
+i would like to fly from stoploc.city_name to stoploc.city_name by way of stoploc.city_name
+give toloc.state_code fares from stoploc.city_name to stoploc.city_name
+stoploc.city_name to stoploc.city_name
+give toloc.state_code flights from stoploc.city_name to stoploc.city_name
+toloc.airport_code flight will originate from stoploc.city_name
+flights from stoploc.city_name to stoploc.city_name toloc.airport_code stoploc.city_name
+on return_date.day_name what flights leave stoploc.city_name to stoploc.city_name toloc.state_name toloc.airport_code leave time_relative period_of_day
+what is toloc.airport_code lowest-price fare from stoploc.city_name to stoploc.city_name on flight stoploc.city_name aircraft_code toloc.airport_code stoploc.city_name aircraft_code
+list flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+what flights toloc.airport_code there from stoploc.city_name to stoploc.city_name
+what flights go from stoploc.city_name to stoploc.city_name with a stopover toloc.state_code stoploc.city_name
+show flights from stoploc.city_name to stoploc.city_name that arrive time_relative aircraft_code
+find toloc.state_code toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name on any-day of toloc.airport_code week
+what is toloc.airport_code airfare between stoploc.city_name toloc.airport_code stoploc.city_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name which leave depart_date.date_relative return_date.day_name period_of_day
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name stoploc.city_name toloc.airport_code stoploc.city_name
+round_trip
+list all flights on return_date.day_name from stoploc.city_name to stoploc.city_name flight_stop
+how many airports does stoploc.city_name have
+can you give toloc.state_code a list of toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+please give toloc.state_code a list of flights leaving stoploc.city_name going to stoploc.city_name
+repeating leaving stoploc.city_name to stoploc.city_name time_relative aircraft_code what type of aircraft is used
+what is toloc.airport_code flight_mod flight from toloc.state_name to stoploc.city_name leaving on return_date.day_name return_date.month_name depart_date.day_number
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name round_trip less than aircraft_code
+what flights round_trip from stoploc.city_name to stoploc.city_name on a return_date.day_name
+flights from stoploc.city_name to stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+what toloc.airport_code your flights from stoploc.city_name to stoploc.city_name
+depart_date.day_number flights toloc.airport_code fares from stoploc.city_name to stoploc.city_name on a return_date.day_name
+toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name please that will be serving a meal
+what type of aircraft flies from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code cost_relative round_trip tickets from stoploc.city_name to stoploc.city_name
+give toloc.state_code return_date.day_name flight_stop flights from stoploc.city_name to stoploc.city_name
+on toloc.airport_code flight from stoploc.city_name to stoploc.city_name on us-air leaving at aircraft_code what type of aircraft is used
+i want a period_of_day flight from stoploc.city_name to stoploc.city_name
+let's look at stoploc.city_name to stoploc.city_name again
+what toloc.airport_code toloc.airport_code prices of toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+what kind of airplane is flight ua aircraft_code from stoploc.city_name to stoploc.city_name
+how many class_type flights does united have today
+what does ua stand for
+can i go from stoploc.city_name to stoploc.city_name with a stopover toloc.state_code stoploc.city_name
+can you tell toloc.state_code which flight from stoploc.city_name to stoploc.city_name has toloc.airport_code cost_relative fare
+show toloc.state_code toloc.airport_code latest flight to love-field
+what type of plane is an m80
+what is toloc.airport_code flight_mod flight that i can take from stoploc.city_name to stoploc.city_name
+list toloc.airport_code flight_stop flights on return_date.day_name return_date.month_name depart_date.day_number from stoploc.city_name to toloc.state_name arriving toloc.state_code toloc.state_name between aircraft_code toloc.airport_code aircraft_code
+i would like to fly from stoploc.city_name to stoploc.airport_name return_date.day_name period_of_day from stoploc.airport_name to stoploc.city_name return_date.day_name period_of_day toloc.airport_code from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+what is fare code m
+show toloc.state_code ground transportation toloc.state_code stoploc.city_name
+what toloc.airport_code all toloc.airport_code flights on stoploc.city_name toloc.state_code toloc.airport_code out of stoploc.city_name
+show toloc.state_code all toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+i want to fly from stoploc.city_name to stoploc.city_name i would like toloc.airport_code cost_relative fare please
+would you tell toloc.state_code toloc.airport_code cost_relative round_trip fare from stoploc.city_name to stoploc.city_name
+is there ground transportation from toloc.airport_code stoploc.airport_name to stoploc.airport_name stoploc.city_name
+does toloc.airport_code phoenix-airport have ground transportation to toloc.airport_code from stoploc.airport_name
+give toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name leaving return_date.day_name period_of_day
+what is sa
+a flight on continental-airlines leaving stoploc.city_name toloc.airport_code going to stoploc.city_name
+show toloc.state_code all meals on flights from stoploc.city_name to toloc.state_name
+return_date.day_name flights from stoploc.city_name to stoploc.city_name
+i would like to find toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name
+show toloc.state_code flights arriving toloc.state_code stoploc.city_name from stoploc.city_name between 4 toloc.airport_code aircraft_code
+i need a flight delta-airlines stoploc.city_name to salt-lake
+can you list all flights from toloc.state_name to stoploc.city_name
+show all flight_stop flights from stoploc.city_name to stoploc.city_name
+show flights between stoploc.city_name toloc.airport_code stoploc.city_name
+show toloc.state_code toloc.airport_code flights between stoploc.city_name toloc.airport_code stoploc.city_name stoploc.city_name toloc.airport_code stoploc.city_name stoploc.city_name toloc.airport_code stoploc.city_name
+ground transportation stoploc.city_name
+show toloc.state_code all flight_days flights between stoploc.city_name toloc.airport_code stoploc.airport_name
+what flights from stoploc.city_name to stoploc.city_name arriving time_relative aircraft_code on return_date.day_name
+what flights leave stoploc.city_name for stoploc.city_name toloc.airport_code depart time_relative period_of_day on american-airlines
+airlines that fly to stoploc.city_name from toloc.state_name on return_date.day_name
+what flights leave stoploc.city_name on return_date.day_name on continental time_relative aircraft_code
+what is toloc.airport_code flight_mod flight from toloc.state_name to stoploc.city_name on return_date.day_name that serves breakfast
+what do you have going from stoploc.city_name to stoploc.city_name serving breakfast
+i'd like to see flights from stoploc.city_name to stoploc.city_name
+what flights toloc.airport_code available with q-fares from stoploc.city_name to stoploc.city_name
+is there ground transportation from toloc.airport_code milwaukee-airport to toloc.airport_code stoploc.airport_name area
+flights from stoploc.city_name to stoploc.city_name
+i want to go between stoploc.city_name toloc.airport_code stoploc.city_name
+show departures from stoploc.city_name for american
+show toloc.state_code toloc.airport_code flights available from stoploc.city_name to stoploc.city_name return_date.month_name depart_date.day_number
+show toloc.state_code fares from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+please list toloc.airport_code flight-times from stoploc.city_name to stoploc.city_name
+how toloc.airport_code is stoploc.airport_name from toloc.airport_code stoploc.airport_name toloc.state_code stoploc.city_name
+what flights from any stoploc.airport_name land at general-mitchell-international
+show toloc.state_code ground transportation information for stoploc.city_name
+could you find toloc.state_code toloc.airport_code cost_relative fare from stoploc.city_name to stoploc.city_name
+please list information regarding san-francisco-airport
+show toloc.state_code flights between stoploc.city_name toloc.airport_code stoploc.city_name on return_date.day_name toloc.state_code return_date.day_name american-airlines
+i'd like a class_type flight from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+what's toloc.airport_code name of toloc.airport_code denver-airport
+list all toloc.airport_code takeoffs toloc.airport_code landings at general-mitchell-airport
+show toloc.state_code toloc.airport_code flights arriving time_relative period_of_day toloc.state_code stoploc.city_name from stoploc.city_name
+on return_date.day_name i'd like to find a flight from stoploc.city_name to stoploc.city_name that arrives time_relative aircraft_code
+i'd like a flight depart_date.today_relative from stoploc.city_name to stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+list toloc.airport_code flights from stoploc.city_name to stoploc.city_name which have a layover toloc.state_code stoploc.city_name
+toloc.airport_code i need a flight leaving stoploc.city_name toloc.airport_code arriving toloc.state_code stoploc.city_name no-later-than aircraft_code depart_date.date_relative return_date.day_name
+flights from stoploc.airport_name to stoploc.city_name
+i want information on flights from stoploc.city_name to toloc.state_name toloc.state_code give toloc.state_code information on flights time_relative aircraft_code on return_date.day_name
+show ground transportation for stoploc.city_name
+what is toloc.airport_code flight_mod flight toloc.state_code toloc.airport_code period_of_day from stoploc.city_name to stoploc.city_name
+period_of_day flight from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code cost_relative flights from stoploc.city_name to stoploc.city_name
+show period_of_day flights from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code class_type toloc.airport_code coach fares for flights from stoploc.city_name to stoploc.city_name arriving time_relative aircraft_code depart_date.date_relative return_date.day_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name on return_date.day_name which leave time_relative aircraft_code
+find toloc.state_code toloc.airport_code cost_relative round_trip fare i can get from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+what's toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name
+please list toloc.airport_code flight-times from stoploc.city_name to stoploc.city_name
+is there a flight between toloc.state_name toloc.state_code toloc.airport_code stoploc.city_name on us-air at aircraft_code
+show toloc.state_code all flights from stoploc.city_name which leave depart_date.today_relative toloc.airport_code arrive toloc.state_code stoploc.city_name
+how many seats toloc.state_code a aircraft_code
+what does fn under fare code mean
+all am flights departing stoploc.city_name arriving stoploc.city_name
+what flights leave time_relative aircraft_code from stoploc.city_name to stoploc.city_name
+show flights from stoploc.city_name to stoploc.city_name
+what flights leave stoploc.city_name toloc.airport_code arrive toloc.state_code stoploc.city_name time_relative aircraft_code depart_date.date_relative return_date.day_name
+what does it cost to fly from stoploc.city_name to stoploc.city_name on united-airlines
+how much is a flight from toloc.state_name to stoploc.city_name
+is there limousine service available at baltimore-airport
+what toloc.airport_code toloc.airport_code period_of_day flights toloc.state_code toloc.airport_code depart_date.date_relative two days from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code last flight leaving stoploc.city_name going to toloc.state_name on return_date.day_name
+what toloc.airport_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name return_date.month_name depart_date.day_number
+does united-airlines fly from stoploc.city_name to stoploc.city_name
+please list toloc.airport_code flight-schedule from stoploc.city_name to stoploc.city_name on return_date.day_name nights
+flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+i would like to find a flight that goes from stoploc.city_name to stoploc.airport_name i would like it to have a stop toloc.state_code toloc.state_name toloc.airport_code i would like a flight that serves breakfast
+what toloc.airport_code toloc.airport_code lowest round_trip fares from stoploc.city_name to stoploc.city_name
+okay toloc.airport_code then from stoploc.city_name i'd like to travel to stoploc.city_name on return_date.month_name depart_date.day_number
+what flights go from stoploc.city_name to stoploc.city_name time_relative aircraft_code depart_date.date_relative return_date.day_name
+how much does it cost to get stoploc.airport_name from toloc.airport_code atlanta-airport by limousine
+i would like to fly from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code airfare from stoploc.city_name to stoploc.city_name
+toloc.airport_code there any flights on return_date.month_name depart_date.day_number from stoploc.city_name to stoploc.city_name
+what is hp
+show toloc.state_code toloc.airport_code type of aircraft that cp uses
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name
+what type of aircraft does eastern fly from stoploc.city_name to stoploc.city_name time_relative aircraft_code
+can you list all flights from stoploc.city_name to stoploc.city_name
+display all flights from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+what toloc.airport_code toloc.airport_code most-expensive class_type tickets between stoploc.city_name toloc.airport_code stoploc.city_name
+which of toloc.airport_code flights from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number aircraft_code carries toloc.airport_code smallest number of passengers
+show toloc.state_code all toloc.airport_code flights to stoploc.city_name time_relative aircraft_code
+what airlines go from stoploc.city_name to stoploc.city_name
+what does fare code qo mean
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+what does toloc.airport_code abbreviation toloc.state_code mean
+can you list all flights between stoploc.city_name toloc.airport_code stoploc.city_name
+what toloc.airport_code toloc.airport_code air restrictions on flights from stoploc.city_name to stoploc.city_name for toloc.airport_code airfare of aircraft_code
+last flight_stop flight from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+what is toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name
+i would like an early-morning flight from stoploc.city_name into stoploc.city_name on return_date.month_name depart_date.day_number on continental-airline
+what would be cost of a round_trip from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+give toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+please list toloc.airport_code flights from stoploc.city_name to stoploc.airport_name arriving time_relative lunch-time
+what flights toloc.airport_code available between stoploc.city_name toloc.airport_code stoploc.city_name on return_date.month_name depart_date.day_number
+what type of aircraft leaving time_relative aircraft_code from stoploc.city_name to stoploc.city_name
+i would like toloc.airport_code cost_relative flight from stoploc.city_name to stoploc.city_name
+toloc.airport_code there any flights from stoploc.city_name to stoploc.city_name that stop
+i would like to find a flight from stoploc.city_name to stoploc.city_name on return_date.day_name toloc.airport_code i have to be toloc.state_code stoploc.city_name by one so i'd like a flight out of here no-later-than aircraft_code
+i need information on a flight from toloc.state_name to stoploc.city_name
+can you tell toloc.state_code what flights you have from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code ground transportation services toloc.state_code stoploc.city_name
+give toloc.state_code flights from stoploc.city_name to stoploc.city_name on united that offer class_type
+does american-airlines have a flight from stoploc.city_name to stoploc.city_name
+all flights toloc.airport_code fares from stoploc.city_name to stoploc.city_name round_trip time_relative aircraft_code less than aircraft_code
+list flights from stoploc.city_name to stoploc.city_name
+i would like a list of toloc.airport_code round_trip flights between stoploc.city_name toloc.airport_code stoploc.airport_name on toloc.airport_code depart_date.day_number toloc.state_code toloc.airport_code depart_date.day_number of return_date.month_name
+i need a round_trip flight from stoploc.city_name to stoploc.city_name
+i'd like a flight from stoploc.city_name to stoploc.city_name toloc.state_name
+what flights from stoploc.city_name to toloc.state_name
+please list all flights from stoploc.city_name to stoploc.city_name on return_date.day_name toloc.airport_code return_date.day_name
+what is toloc.airport_code latest flight between toloc.state_name toloc.airport_code stoploc.city_name
+explain toloc.airport_code restriction ap-57
+toloc.airport_code latest flight from stoploc.city_name to stoploc.city_name please toloc.airport_code i'd like a meal with that
+what toloc.airport_code toloc.airport_code flights on return_date.month_name depart_date.day_number aircraft_code from stoploc.city_name to stoploc.city_name
+on return_date.month_name depart_date.day_number what flights toloc.airport_code available between stoploc.city_name toloc.airport_code stoploc.city_name
+list flight_stop flights on return_date.day_name from toloc.state_name to stoploc.city_name toloc.airport_code list flight_stop flights on return_date.day_name from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code list of flights from stoploc.city_name to stoploc.city_name on american toloc.airport_code delta-airlines
+what does us stand for
+could you show toloc.state_code all weekday flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code all united-airlines class_type flights
+what is hp
+what is toloc.airport_code stoploc.city_name of a class_type ticket from stoploc.city_name to stoploc.city_name round_trip
+find a flight on stoploc.city_name from stoploc.city_name to stoploc.city_name
+i'm trying to find toloc.airport_code flight number from a flight from stoploc.airport_name to stoploc.city_name on us-air toloc.airport_code it arrives time_relative aircraft_code
+what toloc.airport_code toloc.airport_code costs of flights from stoploc.city_name to stoploc.city_name depart_date.today_relative
+what flights go from stoploc.city_name to stoploc.city_name via stoploc.city_name
+what's toloc.airport_code cost_relative round_trip fare between stoploc.city_name toloc.airport_code toloc.state_name
+what toloc.airport_code toloc.airport_code flights between stoploc.city_name toloc.airport_code stoploc.city_name on return_date.month_name depart_date.day_number
+show toloc.state_code flights from stoploc.city_name to stoploc.airport_name on return_date.day_name period_of_day
+what flights toloc.airport_code available from stoploc.city_name to stoploc.city_name
+i want to leave stoploc.city_name at aircraft_code
+kindly give toloc.state_code toloc.airport_code type of aircraft used to fly from stoploc.city_name to stoploc.city_name
+can you show toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+is there ground transportation from atlanta-airport to stoploc.airport_name stoploc.city_name
+toloc.airport_code there any limousines toloc.state_code taxi services available at toloc.airport_code boston-airport
+on eastern flight aircraft_code flying from stoploc.city_name to stoploc.city_name can you tell toloc.state_code what type of aircraft is used on a flight when it leaves at aircraft_code
+how do i get from toloc.airport_code stoploc.airport_name to stoploc.airport_name toloc.state_code stoploc.city_name
+return_date.day_name period_of_day flights between stoploc.city_name toloc.airport_code stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to toloc.state_name
+show toloc.state_code all flights from stoploc.city_name to stoploc.city_name which leave stoploc.city_name time_relative aircraft_code depart_date.today_relative
+round_trip fares from stoploc.city_name to stoploc.city_name less than aircraft_code
+i want to fly from stoploc.city_name to stoploc.airport_name on return_date.day_name period_of_day
+how many flight_days us-air flights toloc.airport_code there between stoploc.city_name toloc.airport_code stoploc.city_name
+show toloc.state_code all toloc.airport_code northwest flights from toloc.state_name to stoploc.city_name that leave at aircraft_code
+how long does it take to get from atlanta-airport into toloc.airport_code stoploc.airport_name of stoploc.city_name
+what's toloc.airport_code cost_relative way to fly between stoploc.city_name toloc.airport_code stoploc.city_name
+what toloc.airport_code toloc.airport_code fares for flights from toloc.state_code to stoploc.city_name leaving return_date.day_name period_of_day
+give toloc.state_code toloc.airport_code list of flights for continental-airlines between stoploc.city_name toloc.airport_code stoploc.city_name
+can i see ground transportation from stoploc.airport_name stoploc.airport_name to stoploc.airport_name
+i want a flight from stoploc.city_name to stoploc.city_name
+us aircraft_code
+what flights toloc.airport_code available from stoploc.city_name to oakland-airport
+period_of_day flight from stoploc.city_name to stoploc.city_name
+show toloc.state_code all toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights on toloc.airport_code to stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+do all toloc.airport_code flights to stoploc.city_name land at toloc.airport_code same place
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name that arrive time_relative period_of_day
+how much is a class_type ticket from stoploc.city_name to stoploc.city_name
+please give toloc.state_code all flights from stoploc.airport_name to stoploc.city_name
+i want to fly flight_stop from stoploc.city_name to stoploc.city_name
+what is toloc.airport_code flight_mod flight leaving stoploc.city_name on return_date.month_name depart_date.day_number to stoploc.city_name on return_date.month_name depart_date.day_number
+i'd like a flight depart_date.today_relative period_of_day from stoploc.city_name to stoploc.city_name that includes dinner for depart_date.today_relative
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name leaving time_relative aircraft_code
+what flights go from stoploc.city_name to toloc.state_name via stoploc.city_name
+can you help toloc.state_code with ground transportation information i need to get from toloc.airport_code stoploc.airport_name toloc.state_code stoploc.city_name to stoploc.airport_name stoploc.city_name
+show toloc.state_code toloc.airport_code flight_mod flight on return_date.day_name from stoploc.city_name to stoploc.city_name
+could you please give toloc.state_code toloc.airport_code round_trip fare from stoploc.city_name to stoploc.city_name
+show return_date.day_name flights from stoploc.city_name to stoploc.city_name
+what flights depart from stoploc.city_name toloc.airport_code arrive toloc.state_code stoploc.city_name toloc.state_name
+flights from stoploc.city_name to stoploc.city_name departing time_relative aircraft_code
+i would like a flight from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+show toloc.state_code flights from stoploc.city_name to stoploc.city_name
+please give all flights from stoploc.city_name to stoploc.city_name toloc.state_name return_date.day_name
+what flights toloc.airport_code available return_date.day_name period_of_day from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name arriving toloc.state_code stoploc.city_name on return_date.month_name depart_date.day_number
+list toloc.airport_code period_of_day flights at a aircraft_code from stoploc.city_name to stoploc.city_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name on a return_date.day_name
+i need to fly from stoploc.city_name to stoploc.city_name toloc.airport_code then to stoploc.city_name toloc.airport_code back to stoploc.city_name
+what is toloc.airport_code cost_relative flight on american-airlines from stoploc.city_name to stoploc.city_name
+show toloc.state_code flights available from stoploc.city_name to stoploc.city_name leaving on return_date.day_name period_of_day
+what's toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+what ground transportation is available toloc.state_code stoploc.city_name
+what is toloc.airport_code latest flight leaving stoploc.city_name returning to stoploc.city_name
+does lufthansa fly between stoploc.city_name toloc.airport_code stoploc.city_name
+show toloc.state_code flights from stoploc.city_name to toloc.state_name leaving return_date.month_name depart_date.day_number
+list all toloc.airport_code landings at general-mitchell-international
+how many class_type flights does stoploc.city_name have today
+toloc.airport_code there any flight_stop flights from stoploc.city_name to stoploc.city_name on return_date.day_name return_date.month_name depart_date.day_number
+what toloc.airport_code toloc.airport_code flights which depart from stoploc.city_name fly to toloc.state_name via stoploc.city_name toloc.airport_code arrive by aircraft_code
+please list toloc.airport_code flights from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+hello i would like to plan a flight on american-airlines from stoploc.city_name to stoploc.city_name
+what toloc.airport_code toloc.airport_code two american-airlines flights that leave from stoploc.city_name to stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+what flights do you have from stoploc.city_name to stoploc.city_name
+i'd like a flight_stop flight from stoploc.city_name to stoploc.city_name that serves dinner what's available
+what times on return_date.day_name could i take a plane from stoploc.city_name to stoploc.city_name
+show toloc.state_code ground transportation for stoploc.city_name
+toloc.airport_code there any flights from stoploc.city_name to stoploc.city_name which stop toloc.state_code stoploc.city_name
+what airlines have class_type
+please give toloc.state_code all flights from stoploc.airport_name to stoploc.city_name
+flight from stoploc.city_name to stoploc.city_name
+list flights from stoploc.city_name to stoploc.city_name
+i'd like to know what type of plane flies from stoploc.city_name to stoploc.city_name time_relative aircraft_code
+please tell toloc.state_code toloc.airport_code times of toloc.airport_code flights between stoploc.city_name toloc.airport_code stoploc.city_name
+find a flight from stoploc.city_name to stoploc.city_name please on stoploc.city_name
+what is toloc.airport_code cost of a ticket going from stoploc.city_name to stoploc.city_name return_date.month_name depart_date.day_number aircraft_code
+flight numbers from stoploc.city_name to stoploc.airport_name on return_date.month_name depart_date.day_number
+i'm looking for a flight from stoploc.city_name to stoploc.city_name with a stopover toloc.state_code stoploc.city_name
+show toloc.state_code class_type airlines from stoploc.city_name to stoploc.city_name on depart_date.date_relative return_date.day_name class_type only
+what flights toloc.airport_code there on return_date.day_name from stoploc.city_name to stoploc.city_name
+i need a flight from stoploc.city_name to toloc.state_name toloc.state_code on return_date.day_name
+show toloc.state_code toloc.airport_code flights from stoploc.city_name to stoploc.city_name
+toloc.state_code let's see does eastern-airline have a flight from stoploc.city_name to toloc.state_name
+what is toloc.airport_code stoploc.city_name of class_type from stoploc.city_name to stoploc.city_name on toloc.airport_code
+flights from stoploc.city_name to stoploc.city_name toloc.state_code toloc.airport_code period_of_day
+eastern flight aircraft_code from stoploc.city_name to stoploc.city_name leaving at aircraft_code what type of aircraft is used on that flight
+what toloc.airport_code all toloc.airport_code flights between stoploc.city_name toloc.airport_code stoploc.city_name
+define airline us
+i want to fly stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+find a flight from stoploc.city_name to toloc.state_name on return_date.day_name
+give toloc.state_code information on flights from stoploc.city_name to toloc.state_name toloc.state_code on return_date.day_name time_relative aircraft_code toloc.airport_code return_date.day_name time_relative aircraft_code
+find toloc.airport_code flights from stoploc.city_name to stoploc.city_name leaving time_relative aircraft_code
+show toloc.state_code toloc.airport_code cost_relative fare from stoploc.city_name to stoploc.city_name
+i live toloc.state_code stoploc.city_name toloc.airport_code i'd like to make a trip to stoploc.city_name
+give toloc.state_code flights that arrive toloc.state_code stoploc.city_name from stoploc.city_name stoploc.city_name toloc.airport_code stoploc.city_name
+hello i'm trying to find a flight that goes from stoploc.city_name to stoploc.city_name time_relative aircraft_code
+what airlines fly between stoploc.city_name toloc.airport_code stoploc.city_name
+code ff
+what is toloc.airport_code flight_mod flight from stoploc.city_name to stoploc.city_name on return_date.month_name depart_date.day_number
+list all flights from stoploc.city_name to stoploc.city_name on us-air
+i would like a list of flights from stoploc.city_name to stoploc.city_name
+on return_date.month_name depart_date.day_number of this year aircraft_code i'd like to fly from stoploc.city_name to stoploc.city_name toloc.airport_code i'd like to fly on stoploc.city_name
+do you have any airlines that would stop at stoploc.city_name on toloc.airport_code way from stoploc.city_name to stoploc.city_name
+list all flights from stoploc.city_name stoploc.airport_name to stoploc.city_name that toloc.airport_code toloc.airport_code cost_relative round_trip
+list toloc.airport_code flight_stop flights on return_date.day_name return_date.month_name depart_date.day_number from stoploc.city_name to stoploc.city_name arriving toloc.state_code stoploc.city_name between aircraft_code toloc.airport_code aircraft_code
+give toloc.state_code flights from stoploc.city_name to stoploc.city_name on return_date.day_name period_of_day
+stoploc.city_name to stoploc.city_name
+what's toloc.airport_code last flight leaving from stoploc.city_name to stoploc.city_name
+does any airline have an period_of_day flight from stoploc.city_name to stoploc.city_name
+do you have a flight from stoploc.city_name to stoploc.city_name with a stopover toloc.state_code stoploc.city_name
+i want to make a trip from toloc.state_name to stoploc.city_name
+i would like information on flights leaving stoploc.city_name toloc.state_code toloc.airport_code period_of_day arriving toloc.state_code stoploc.city_name
+show toloc.state_code all flights from stoploc.city_name to toloc.state_name flight_stop

@@ -1,0 +1,143 @@
+# 1
+arrive_date.date_relative
+arrive_date.day_name            maybe, need to distinguish
+arrive_date.day_number          maybe, need to distinguish
+arrive_date.month_name          maybe, need to distinguish
+arrive_date.today_relative
+arrive_time.end_time
+arrive_time.period_mod
+arrive_time.period_of_day       need to distinguish
+arrive_time.start_time          NO
+arrive_time.time                need to distinguish
+arrive_time.time_relative       maybe
+
+# 2
+depart_date.date_relative
+depart_date.day_name            maybe, need to distinguish
+depart_date.day_number          maybe, need to distinguish
+depart_date.month_name          maybe, need to distinguish
+depart_date.today_relative
+depart_date.year
+depart_time.end_time
+depart_time.period_mod
+depart_time.period_of_day       need to distinguish
+depart_time.start_time          NO
+depart_time.time                need to distinguish
+depart_time.time_relative       maybe
+
+# 3
+fromloc.airport_code    ok
+fromloc.airport_name    ok
+fromloc.city_name       ok
+fromloc.state_code      ok
+fromloc.state_name      ok
+
+# 4
+toloc.airport_code      ok
+toloc.airport_name      ok
+toloc.city_name         ok
+toloc.country_name      ok
+toloc.state_code        ok
+toloc.state_name        ok
+
+# 5
+stoploc.airport_name
+stoploc.city_name
+stoploc.state_code
+
+# 6
+return_date.date_relative
+return_date.day_name
+return_date.day_number
+return_date.month_name
+return_date.today_relative
+return_time.period_mod
+return_time.period_of_day
+
+aircraft_code
+airline_code
+airline_name
+airport_code
+airport_name
+
+city_name
+class_type                 ok
+connect
+cost_relative               NO
+day_name                    maybe, need to distinguish
+day_number
+days_code
+
+economy
+fare_amount
+fare_basis_code
+flight_days
+flight_mod
+flight_number
+flight_stop
+flight_time
+
+meal
+meal_code
+meal_description
+mod
+month_name
+null
+or
+period_of_day
+restriction_code
+return
+
+round_trip              ok
+state_code
+state_name
+
+time
+time_relative
+today_relative          maybe, need to distinguish
+
+transport_type
+
+##################
+# Problem
+##################
+between 800am to 1115
+
+What we can do? --> remove those terminal like "to, from, at" from "Word"
+
+Problem with the word "to, on"
+- on the flight from ...
+- Word -> to Word: 400/1000
+- Word -> on Word: 438/1000
+- MonthNameConcept & DayNumberConcept: 464/1000
+- DayRelativeConcept: 465/1000
+- 315. i need to go from boston to atlanta and back in the same day find me the earliest flight from boston --> problem with "and"
+- Word -> and Word: 480 / 1000
+- Modify Phrase --> abc Phrase and add Phrase --> NP Phrase: 409/1000
+- Remove NP, 480/1000
+- Word -> <epsilon> and PP -> on Word DateName to recognize "on this coming thursday" 510/1000
+- PP by way of StopConcept --> 469/1000
+- Add Word -> by Word, Word -> way Word, Word -> of Word --> 513/1000
++ 'after' is mapped to 'time_relative': 513/1000
++ the problem lies in w2class, since 'after' is mapped at that point.
+So I tried to add every freq_words as abc -> abc, however the result is suprisingly low, around 3xx/1000 --> 500/1000
++ add before, before; after, after in manually_annotated_class --> 508/1000
++ get all words with len < 7 to be in freq_word --> 537/1000
++ PP -> to ToConcept and ToConcept --> 518
+- PP leave FromConcept --> 522/1000
++ PP -> from Word --> 620/1000
++ PP -> to Word --> 620/1000
++ PP -> on DayNameConcept DateNameon 627/1000
++ PP -> leaving DayNameConcept depart_date.period_of_day & Word -> leaving -> 627/1000
++ OtherConcept -> roundtrip 680/1000
++ FlightNumber -> flight flight_number & Word -> flight -> 680/1000
++ PP -> for DateName -> 656/1000
++ Word -> for --> 683 / 1000
++ FlightWord -> flight | flights 719 / 1000
++ PP -> between FromConcept and ToConcept -> 767/1000
++ FLightNumber -> in a flight_number & Word -> in | a --> 779/1000
++ PP -> on the DayNumberConcept -> 782 / 1000
++ DateName -> DayNameConcept --> 796 / 1000
+
+
+

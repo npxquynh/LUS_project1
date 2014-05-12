@@ -1,0 +1,59 @@
+Sentence Phrase
+Phrase <epsilon>
+Phrase Word Phrase
+Phrase PP Phrase
+Phrase FlightNumber Phrase
+Phrase OtherConcept Phrase
+Phrase DayRelativeConcept day Phrase
+PP FlightWord FromConcept
+PP from FromConcept
+PP from Word
+PP to ToConcept
+PP to Word
+PP to ToConcept and ToConcept
+PP by way of StopConcept
+PP at TimeConcept
+PP in PlaceConcept
+PP on DayNameConcept DateName
+PP on the DayNumberConcept
+PP on Word DateName
+PP for DateName
+PP between TimeConcept and TimeConcept
+PP before TimeConcept | after TimeConcept
+PP between FromConcept to ToConcept
+PP between FromConcept and ToConcept
+PP leaving DayNameConcept depart_date.period_of_day
+DateName MonthNameConcept DayNumberConcept
+DateName DayNameConcept
+PlaceConcept FromConcept | ToConcept | city_name
+OtherConcept depart_date.period_of_day | arrive_time.period_of_day
+OtherConcept class_type
+OtherConcept cost_relative | cost_relative round_trip
+OtherConcept flight_mod
+OtherConcept today_relative | depart_date.today_relative | arrive_date.today_relative
+OtherConcept city_name
+OtherConcept round_trip
+FromConcept from_loc.airport_name | fromloc.city_name | fromloc.state_code | fromloc.state_name
+ToConcept toloc.airport_code | toloc.airport_name | toloc.city_name | toloc.country_name | toloc.state_code | toloc.state_name
+StopConcept stoploc.airport_name | stoploc.city_name | stoploc.state_code
+TimeConcept depart_time.time
+TimeConcept arrive_time.time
+DayNameConcept day_name | depart_date.day_name | arrive_date.day_name
+MonthNameConcept month_name | depart_date.month_name | arrive_date.month_name
+DayNumberConcept day_number | depart_date.day_number | arrive_date.day_number
+FlightNumber flight flight_number
+FlightNumber in a flight_number
+FlightWord flight | flights
+Word to | on | and | by | way | of | for | leave | in | a | the | leaving | FlightWord
+Word <epsilon>
+Word all | coach | dance | dollar | yellow | month | four | prices | mile | sleep | stops | skin | go | follow | chair | milk | row | whose | hurry | depend | departing | father | young | send | canadian-airlines-international | tail | under | smile | sorry | women | midwest | sent | southwest | fly | woman | garden | song | very | rise | no-later-than | fat | wave | verb | every | invent | decide | fall | cook | join | ticket | difference | exact | minute | cool | tickets | school | level | did | die | list | gun | large | sand | settle | team | small | airfare | round | logan-airport | force | ten | direct | crop | sign | past | second | street | design | pittsburgh-airport | pass | choices | port | even | rope | what | stood | appear | clock | sun | meals | near | cell | above | new | ever | bird | told | body | full
+Word degree | leg | never | here | water | fun | snack | let | represented | path | westchester-county | strong | change | wait | box | boy | great | teeth | flight-times | denver-airport | root | study | guide | i'd | weekday | pick | climb | lunch-time | makes | king | via | love | divide | family | danger | win | prefer | ask | duck | sugar | unit | use | save | eye | spoke | would | prove | as-soon-thereafter-as-possible | abbreviations | behind | visit | charge | next | symbol | few | live | going | call | shortest | h | type | until | today | more | flat | door | pretty | sister | m80 | glass | warm | stick | broke | baby | hole | hold | circle | glad | must | me | word | room | hour | f | this | car | ride | work | cat | other | arrangements | nine | thin | learn | meet | arrive | my | route | heart
+Word slip | figure | give | floor | share | define | high | heard | numbers | want | sense | phrase | airplane | times | dress | occur | string | huge | united | end | winter | sit | rather | travel | six | off | grass | write | how | hot | forest | animal | answer | flow | airline | fare | map | plant | select | okay | beauty | information | may | watch | american-airlines | spot | wrong | plane | lay | ff | coming | such | law | grow | fn | man | short | noun | neck | third | light | arrange | overnight | q | chief | block | so | south | allow | enter | tall | sa | egg | order | wind | restriction | serving | help | office | don't | over | move | vary | soon | united-airline | trade | course | paper | won't | pitch | cold | still | 1 | group | thank | fit | trying | stopover | late
+Word offers | choose | listing | main | might | dad | then | them | good | enemy | food | spell | regarding | finish | nation | break | band | they | half | front | now | silver | bank | bread | landings | term | car-rental | airports | name | oxygen | always | drop | new-york-city | each | found | went | side | bone | mean | heavy | wheel | square | weight | house | energy | hard | idea | ball | expect | year | america-west | our | girl | thick | out | canada | try | cotton | flower | limousines | space | arriving | miss | since | looking | farm | melody | equate | hill | print | got | cause | red | common | drink | little | free | quite | quart | quick | reason | base | latest | put | teach | wanted | beginning | card | care | yard | brown | could | days | keep | motion | thing | length | place | qo
+Word think | eastern-airline | first | feed | major | car-rentals | suffix | feel | number | one | feet | wash | shout | done | approximately | carry | ring | open | size | city | differ | sheet | silent | service | paint | twenty | top | system | least | their | 2 | master | types | rates | white | final | friend | too | lufthansa | shell | northwest-airlines | that | season | tool | serve | took | part | push | boeing | copy | than | trans-world-airline | steel | jump | kind | grew | liquid | magnet | tree | rate | bed | claim | matter | cost | store | iron | were | ap-80 | listen | result | ran | modern | mind | mine | gentle | say | seed | rent | have | need | seem | turn | saw | any | sat | sell | lie | afraid | smallest | self | able | shore | oakland-airport | note | also | american-airline | take | which | green
+Word hello | san-diego-airport | blue | begin | sure | though | track | who | reach | chart | serviced | most | wire | mouth | plan | letter | love-field | pair | oil | class | dream | clear | camp | m | drive | face | talk | clean | left | salt | fact | american | shop | gold | show | kinds | nights | bring | bright | radio | shoe | earth | fear | fine | find | ground | slow | tire | with | explain | state | should | being | only | wood | black | about | rich | 8 | govern | flight-schedule | local | hope | meant | do | dl | his | hit | goes | get | beat | midnight | express | stop | maximum-number-of-stops | bear | coast | famous | reply | during | him | is | kindly | gray | bat | bar | organ | held | qx | cry | phoenix-airport | method | bad | stead | she | double | through | river | where
+Word wrote | view | set | art | fair | lowest-price | eighteenth | arrives | seat | see | are | sea | close | arm | best | wonder | eastern-airlines | said | capacity | served | sail | please | continent | favor | enough | classes | finger | f28 | across | wide | available | notice | men | parent | nature | joy | rock | metal | job | death | wear | key | qw | one-stop | come | both | c | toward | last | cow | many | region | quiet | most-expensive | connection | whole | among | flies | tone | afterwards | stream | can | simple | sky | colony | period | walk | laugh | sing | table | cp | boat | speak | code | better | raise | west | create | three | cent | mark | stopovers | much | basic | salt-lake | thrift | fig | engine | dry | life | transportation | what're | passengers | fire | what's | gas | search | else | lift
+Word child | catch | those | carries | sound | east | look | these | plain | mount | originate | single | value | air | will | while | wild | voice | leaves | mealtime | supply | swim | seven | pound | pose | soil | blood | thus | it | equal | q-fares | middle | sudden | ready | breakfast | if | doctor | pay | delta-airlines | yn | cross | same | trip | speech | northwest | grand | inch | party | boston-airport | baltimore-airport | week | layover | used | slave | I | cloud | takeoffs | rail | effect | rain | hand | moment | fruit | uses | two | vowel | supper | any-day | i'm | dark | safe | plural | kept | center | database | i | continental-airlines | well | except | ocean | person | edge | solve | orlando-airport | mother | y | skill | spend | usual | taxi | summer | chord | just | less | round-trips | money | limousine | san-francisco-airport | rest
+Word abbreviation | foot | shape | kill | spread | human | seats | touch | depart | yes | speed | yet | apple | blow | cut | delta-airline | mix | rose | ease | point | had | lake | knew | wall | add | interested | 4 | fares | has | hat | ap-57 | match | build | real | race | read | big | possible | anger | early | game | five | know | nor | press | world | bit | lady | color | meat | like | lost | hunt | airlines | arrivals | milwaukee-airport | either | night | chick | record | soft | page | coat | sharp | seating | right | old | often | crowd | people | spring | some | back | dead | general-mitchell-international | born | serves | sight | dear | gave | guess | transport | d9s | provided | scale | lead | bottom | broad | highest | shall | ice | moon | does | connecting | market | provides | continental-airline | booking | nose
+Word be | object | run | power | schedule | rub | corn | burn | costs | discount | step | display | departures | philadelphia-airport | post | includes | repeating | shine | stone | oh | column | island | truck | meal | dinner | stand | los-angeles-international-airport | act | eight | or | road | own | into | within | united-airlines | son | down | services | been | fish | returning | range | your | bought | fast | story | deal | her | area | flying | lone | long | fight | continental | start | board | low | lot | suit | music | valley | was | war | happy | lowest | stopping | head | buy | north | form | offer | aircraft | hp | general-mitchell-airport | but | heat | hear | atom | line | ear | true | eat | he | count | pull | throw | made | early-morning | happen | noon | wish | st.-petersburg-airport | us | tell | planet | tiny | ]total | case | planes
+Word ua | agree | distance | bell | gone | caught | gather | play | up | cover | am | deep | an | proper | as | nationair | home | ship | horse | heading | check | fill | chance | again | noise | no | there | eastern | when | event | field | book | make | branch | test | tie | you | clothe | smell | roll | tower-air | poor | us-air | draw | repeat | star | wing | excite | why | felt | poem | stay | let's | town | insect | fell | log | lunch | reservation | hair | score | desert | began | ago | land | using | wife | we | age | dog | rule | crease | restrictions | train | mass | came | time | far | fresh | starting | tube | once

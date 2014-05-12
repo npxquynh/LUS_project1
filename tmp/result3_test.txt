@@ -1,0 +1,893 @@
+i would like to find a flight from city_name to toloc.city_name that makes a stop in toloc.city_name 
+on month_name depart_date.day_number i need a ticket from city_name to toloc.airport_name departing before depart_time.time 
+on month_name depart_date.day_number i need a flight going from city_name to toloc.city_name 
+i would like a flight fromloc.state_name round_trip from city_name to toloc.city_name on month_name depart_date.day_number 
+i would like a flight from city_name to toloc.city_name for month_name depart_date.day_number on delta-airlines 
+
+
+on depart_date.day_name month_name depart_date.day_number i would like to fly from city_name to toloc.city_name after depart_time.time 
+after depart_time.time on depart_date.day_name month_name depart_date.day_number i would like to fly from city_name to toloc.city_name 
+are there any flights from city_name to toloc.city_name on depart_date.day_name month_name depart_date.day_number 
+find a flight from city_name to toloc.city_name dinner 
+
+show flight and prices city_name to toloc.city_name on next depart_date.day_name arriving in toloc.city_name by round_trip 
+flight on american from city_name to toloc.city_name arrive in toloc.city_name about round_trip 
+
+
+show flights from city_name to toloc.city_name for today 
+show flights depart_date.today_relative arrive_time.period_of_day from city_name to toloc.city_name 
+
+show flights from city_name to toloc.city_name on depart_date.day_name 
+show flights from city_name to toloc.city_name on depart_date.day_name 
+
+
+which flights travel from city_name to toloc.city_name 
+what flights travel from city_name to toloc.city_name 
+which flights travel from city_name to toloc.city_name on month_name depart_date.day_number 
+
+which flights on us-air go from city_name to toloc.city_name 
+which flights travel from city_name to toloc.city_name on month_name depart_date.day_number 
+which flights travel from city_name to toloc.city_name on month_name depart_date.day_number 
+which flights go from city_name to toloc.city_name on month_name depart_date.day_number 
+which flights travel from city_name to toloc.city_name 
+
+which flights travel from city_name to toloc.airport_name 
+
+what are the flights from city_name to toloc.airport_name 
+what days of the week do flights from city_name to toloc.city_name fly on 
+what are the flights from city_name to toloc.airport_name 
+i need a flight that goes from city_name to toloc.airport_name 
+are there any flights from city_name to toloc.airport_name connecting in toloc.state_name 
+are there any flights from city_name to toloc.airport_name connecting in toloc.city_name 
+does this flight serve dinner 
+i need a flight from city_name to toloc.city_name 
+
+
+i need a flight from city_name to toloc.city_name 
+i need a flight from city_name to toloc.city_name 
+
+i need a flight from city_name to toloc.city_name 
+i need a flight from city_name to toloc.city_name 
+what meals are served on american flight fromloc.state_name from city_name to toloc.city_name 
+what meals are served on american flight fromloc.state_name from city_name to toloc.city_name 
+i need a flight from city_name to toloc.city_name 
+i need a flight from city_name to toloc.city_name 
+i need a flight from city_name to toloc.city_name 
+which flights go from city_name to toloc.city_name and stop in toloc.city_name 
+
+
+
+
+
+
+
+which flights leave on depart_date.day_name from city_name and arrive in toloc.city_name in the arrive_time.period_of_day 
+which flights leave city_name on month_name depart_date.day_number and arrive in toloc.city_name in the arrive_time.period_of_day 
+which flights leave on depart_date.day_name month_name depart_date.day_number from city_name and arrive in toloc.city_name in the arrive_time.period_of_day 
+
+i'd like to go from city_name to toloc.city_name and i'd like to stop in toloc.city_name i'd also like to have lunch during my flight 
+
+
+i would like to leave this arrive_time.period_of_day on an american flight from city_name to toloc.city_name 
+
+
+
+
+on depart_date.day_name arrive_time.period_of_day i would like to fly from city_name to toloc.city_name 
+i would like an early-morning flight today from city_name to toloc.city_name 
+on depart_date.day_name arrive_time.period_of_day i would like a flight from city_name to toloc.city_name 
+on depart_date.day_name arrive_time.period_of_day i would like a flight from city_name to toloc.city_name 
+find a flight from city_name to toloc.city_name by way of stoploc.city_name 
+
+please find a flight from city_name to toloc.state_name 
+
+please find a flight from city_name to toloc.city_name on depart_date.day_name 
+please find a flight from city_name to toloc.city_name on round_trip 
+please find the flights from city_name to toloc.city_name with a layover in toloc.city_name depart_date.today_relative 
+
+please find flights available from city_name to toloc.city_name 
+please find a flight that goes from city_name to toloc.city_name to toloc.airport_name back to toloc.city_name 
+please find a flight from city_name to toloc.city_name 
+please find a flight from city_name to toloc.airport_name 
+please find a flight from city_name to toloc.city_name 
+i would like to fly from city_name to toloc.city_name through city_name in the arrive_time.period_of_day 
+i would like to know what airports are in toloc.city_name 
+
+which flights arrive in toloc.city_name from city_name on depart_date.day_name in the arrive_time.period_of_day 
+which flights arrive in toloc.city_name from city_name on depart_date.day_name month_name depart_date.day_number in the arrive_time.period_of_day 
+
+what flights are available from city_name to toloc.city_name on month_name depart_date.day_number in the round_trip 
+what flights leave city_name going to toloc.city_name on month_name depart_date.day_number in the arrive_time.period_of_day 
+which flights are available on month_name depart_date.day_number in the arrive_time.period_of_day from city_name to toloc.city_name 
+which flights are available from city_name to toloc.airport_name in the arrive_time.period_of_day on month_name depart_date.day_number 
+which flights are available from city_name to toloc.city_name leaving in the arrive_time.period_of_day on month_name depart_date.day_number 
+
+
+
+what is the latest flight from city_name to toloc.city_name that serves dinner 
+what is the flight_mod flight between fromloc.city_name and toloc.city_name that serves breakfast 
+to what round_trip from city_name does america-west fly class_type 
+what airline flies from city_name to toloc.city_name 
+what is the latest breakfast flight from city_name to toloc.city_name 
+show me all lufthansa flights from city_name to toloc.city_name with stopovers in toloc.city_name 
+show me all flights from city_name to toloc.city_name with stopovers in toloc.city_name 
+list city_name to toloc.city_name flights with stopovers in toloc.city_name 
+show me the connecting flights between fromloc.city_name and toloc.city_name and the types of aircraft used 
+show me all the arrive_time.period_of_day flights from city_name to toloc.city_name 
+show me all the flights from city_name to toloc.city_name 
+show me northwest flight fromloc.state_name from city_name to toloc.city_name 
+show me all the flights from city_name to toloc.city_name on depart_date.day_name 
+
+show me all the flights from city_name to toloc.city_name that leave at depart_time.time or round_trip on depart_date.day_name 
+show me all the flights from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+show me the direct flights from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+show me flight us round_trip on depart_date.day_name from city_name to toloc.city_name please 
+show me all the flights from city_name to toloc.city_name on depart_date.day_name that leave after depart_time.time 
+show me the flights from city_name to toloc.state_name 
+show me the flights fromloc.state_code from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+
+show me all the flights from city_name to new-york-city 
+which round_trip airlines go from city_name to new-york-city 
+
+what are the flights from city_name to toloc.city_name that leave after depart_time.time depart_date.today_relative 
+i'd like to fly from city_name to toloc.city_name on month_name depart_date.day_number 
+is there an american-airlines flight from city_name to toloc.city_name on month_name depart_date.day_number after depart_time.time 
+is there an american-airlines flight from city_name to toloc.city_name on month_name depart_date.day_number after depart_time.time 
+i need to get from city_name to toloc.city_name on month_name depart_date.day_number by round_trip 
+what's the ground transportation in toloc.city_name 
+what's the fare for a taxi to toloc.city_name 
+what are the fares for ground transportation in toloc.city_name 
+i need to fly from city_name to westchester-county on month_name depart_date.day_number after depart_time.time 
+what's the ground transportation in westchester-county 
+i need to take a united-airlines flight on month_name depart_date.day_number from westchester-county to toloc.city_name after depart_time.time 
+what united-airlines flights on month_name depart_date.day_number go from westchester-county to toloc.city_name 
+on month_name depart_date.day_number what flights go from westchester-county to toloc.city_name 
+does us-air fly from city_name to toloc.city_name on month_name depart_date.day_number 
+list the flights from city_name to toloc.city_name on month_name depart_date.day_number 
+list the flights from city_name to westchester-county on month_name depart_date.day_number 
+list the flights from westchester-county to toloc.city_name on month_name depart_date.day_number 
+list the flights from city_name to westchester-county on month_name depart_date.day_number 
+list the flights from westchester-county to toloc.city_name on month_name depart_date.day_number 
+list the flights from city_name to toloc.city_name on month_name depart_date.day_number 
+list the flights from city_name to toloc.city_name on month_name depart_date.day_number after depart_time.time 
+list the flights from city_name to westchester-county on month_name depart_date.day_number 
+list the flights from westchester-county to toloc.city_name on month_name depart_date.day_number leaving after depart_time.time 
+what airlines off from love-field between fromloc.state_name and toloc.state_name on month_name depart_date.day_number 
+
+list the flights from city_name to toloc.state_name before depart_time.time 
+list the flights from city_name to toloc.city_name 
+list the flights from city_name to toloc.city_name 
+list the flights from city_name to toloc.city_name arriving on month_name depart_date.day_number 
+
+list the flights from city_name to toloc.city_name arriving on month_name depart_date.day_number 
+list the flights on canadian-airlines-international 
+how many canadian-airlines-international flights use round_trip 
+how many canadian-airlines-international flights use aircraft round_trip 
+how many round_trip flights use aircraft round_trip 
+show me the flights on american-airlines which fly from city_name to toloc.city_name canada with a stopover in toloc.city_name 
+
+
+show me the flights from city_name to toloc.airport_name 
+show me the flights from city_name to toloc.city_name 
+show me the flights from city_name to toloc.city_name 
+show me the cost_relative round_trip coach fare from city_name to toloc.city_name 
+
+show me the city_name flights which serve a snack to coach passengers 
+what is meal code round_trip 
+
+show me the city_name flights from city_name to toloc.city_name 
+show me city_name flight fromloc.state_name 
+list the tower-air flights on depart_date.day_name 
+list all tower-air flights with meals 
+what flights depart from city_name 
+
+what flights leave from city_name in the arrive_time.period_of_day and arrive in toloc.city_name 
+which flights depart from city_name and arrive in toloc.city_name in the arrive_time.period_of_day 
+which flights depart from city_name in the round_trip and arrive in toloc.city_name 
+which flights depart from city_name and arrive in toloc.city_name 
+which flights depart from a city_name and arrive in toloc.city_name 
+
+which flights depart from fromloc.state_name and arrive in toloc.city_name after depart_time.time 
+
+
+
+
+how much is the limousine service in toloc.city_name 
+how much is a limousine service in toloc.airport_name 
+how much is a limousine service in toloc.state_name 
+how much is limousine service in toloc.city_name 
+
+
+
+what are the fares for all flights between fromloc.state_name and toloc.city_name 
+
+list all us-air flights arriving in toloc.city_name on depart_date.day_name at depart_time.time 
+what is the class_type round_trip airfare from fromloc.state_name city_name to toloc.city_name 
+list all flights from city_name to toloc.city_name 
+list all flights and their fares from city_name to toloc.city_name on a depart_date.day_name arrive_time.period_of_day 
+list all flights and their fares from city_name to toloc.city_name on a depart_date.day_name arrive_time.period_of_day 
+list all flights and their fares for all flights between fromloc.city_name and toloc.city_name 
+list all flights from city_name to toloc.city_name on depart_date.day_name 
+list all flights from city_name to toloc.city_name 
+list all flights from city_name to toloc.city_name 
+list all flights from city_name to toloc.city_name on depart_date.day_name 
+
+what airlines are departing from city_name 
+which airlines fly from city_name to toloc.city_name 
+how long does a flight from city_name to toloc.city_name take 
+
+which flights are leaving city_name and arriving in toloc.city_name close to toloc.state_name on depart_date.day_name 
+
+
+list early-morning flights from city_name to toloc.city_name 
+list round_trip flights from city_name to toloc.city_name 
+list arrive_time.period_of_day flights from city_name to toloc.city_name 
+
+
+
+
+list direct flights from new-york-city to toloc.city_name after depart_time.time 
+
+what is fare code m 
+list the distance in toloc.state_name from boston-airport to toloc.airport_name city_name 
+list the distance in toloc.state_name from fromloc.state_name round_trip to toloc.airport_name new-york-city 
+list the distance in toloc.state_name from fromloc.state_name to toloc.airport_name city_name 
+
+list limousine rates for the round_trip 
+
+
+
+
+
+list airlines flying from city_name to toloc.city_name 
+what is the seating capacity for aircraft round_trip 
+what is the seating capacity for city_name round_trip 
+list flights from city_name to toloc.city_name on city_name round_trip 
+list flights from city_name to toloc.city_name on city_name round_trip 
+
+
+
+
+
+list class_type airfare round_trip from city_name to toloc.city_name 
+what is fare code f 
+
+
+
+
+
+
+
+
+what airlines fly from city_name to toloc.city_name 
+what is the fare for a class_type round_trip ticket from city_name to toloc.city_name 
+what is the airfare for a round_trip class_type ticket from city_name to toloc.city_name 
+
+
+
+
+
+
+
+
+
+
+
+
+
+city_name to toloc.city_name flight 
+city_name to toloc.city_name class_type flight 
+i would like flights leaving from city_name to toloc.airport_name 
+what does hp stand for 
+i would like flights from city_name to toloc.city_name 
+i would like flights from city_name to toloc.city_name 
+i would like flights from city_name to toloc.city_name 
+i would like to see flights from city_name to toloc.city_name 
+i'd like flights from fromloc.state_name to toloc.city_name 
+i would like flights from city_name to toloc.state_name 
+i would like a flight leaving city_name for city_name 
+i would like flights from city_name to toloc.city_name 
+i would like a flight from city_name to toloc.city_name 
+i would like flights from city_name to toloc.city_name 
+what does fare code round_trip mean 
+i would like to have the airline that flies city_name city_name and city_name 
+i would like a flight from city_name to toloc.city_name 
+i would like a flight from city_name to toloc.city_name 
+i would like a flight from city_name to toloc.city_name 
+i would like flights from city_name to toloc.airport_name 
+i would like flights leaving city_name to toloc.city_name 
+i would like a flight from city_name to toloc.city_name 
+
+show me round_trip flights from city_name to toloc.airport_name on depart_date.day_name 
+show me flights from city_name to toloc.city_name class_type that leave before depart_time.time 
+show me the cost_relative round_trip between fromloc.city_name and toloc.city_name that arrives before depart_time.time 
+
+what is airline round_trip 
+show me the cost_relative class_type round_trip from fromloc.state_name to toloc.city_name 
+now show me all the round-trips from fromloc.state_name to toloc.city_name 
+show me the cost_relative round_trip flight from city_name to toloc.city_name 
+now show me the cost_relative round_trip flight from city_name to toloc.city_name 
+show me the cost_relative round_trip fares from city_name to toloc.city_name 
+show me the cost_relative round_trip fares from city_name to toloc.city_name 
+show me the cost_relative round_trip fare from city_name to toloc.city_name on month_name depart_date.day_number round_trip 
+show me the cost_relative round_trip fare from city_name to toloc.city_name on month_name depart_date.day_number round_trip 
+now show me ground transportation in toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+now show me round_trip flights from city_name to toloc.city_name 
+and now show me ground transportation that i could get in toloc.city_name late arrive_time.period_of_day 
+show me airlines that have flights between fromloc.city_name and toloc.city_name between fromloc.city_name and toloc.city_name and between fromloc.city_name and toloc.city_name 
+show me round_trip fares from city_name to toloc.city_name on city_name northwest us-air and united-airlines 
+show me flights between fromloc.city_name and toloc.city_name on city_name northwest us-air and united-airlines 
+show me flights from city_name to toloc.airport_name and toloc.airport_name 
+show me flights from city_name to toloc.airport_name 
+
+i need a flight from fromloc.state_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day on us-air 
+i'd like a round_trip flight from fromloc.state_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day on us-air 
+i'd like a flight from fromloc.state_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day on us-air 
+i need a flight from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+what does ua mean 
+
+
+
+
+
+how about from fromloc.state_code to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+
+what does q mean 
+
+
+
+i want to fly from city_name to toloc.city_name 
+can i get the shortest flight from city_name to toloc.airport_name 
+what is the shortest flight from city_name to toloc.airport_name 
+what does m mean 
+what does ap-57 mean 
+what is the shortest flight from city_name to toloc.city_name 
+what is the shortest flight from city_name to toloc.airport_name 
+what is the shortest flight from city_name to toloc.city_name 
+what does round_trip mean 
+
+what's the cost_relative flight from city_name to toloc.city_name today 
+i want to fly from city_name to toloc.city_name and from city_name to toloc.city_name 
+what's the cost_relative flight from city_name to toloc.city_name 
+i need to rent a car in toloc.city_name 
+what's the cost_relative flight depart_date.today_relative from city_name to toloc.city_name 
+
+what's the cost_relative flight from city_name to toloc.city_name 
+what flights leave from city_name and go to toloc.city_name 
+
+what airline is us 
+show me flights between fromloc.city_name and toloc.city_name 
+
+
+show me the flights between fromloc.city_name and toloc.city_name 
+what does round_trip sa mean 
+
+what airline is dl 
+
+show me the flights between fromloc.city_name and toloc.city_name 
+what ground transportation is available from fromloc.state_name to toloc.airport_name city_name 
+how many passengers can an round_trip aircraft hold 
+what is the seating capacity of a round_trip 
+what are the flights between fromloc.city_name and toloc.city_name 
+
+what is the seating capacity for the aircraft m80 
+are there any flights between fromloc.city_name and toloc.city_name using a round_trip aircraft 
+
+show me the flights between fromloc.city_name and toloc.state_name 
+what are the flights between fromloc.city_name and toloc.city_name 
+
+
+
+
+
+
+
+list a flight on delta-airlines from city_name to toloc.city_name 
+list a flight on american-airlines from city_name to toloc.city_name 
+list a flight from city_name to toloc.city_name 
+
+
+list flights between fromloc.city_name and toloc.city_name 
+list flights from city_name to toloc.city_name 
+
+
+
+list flights between fromloc.city_name and toloc.city_name 
+
+i'd like to fly from city_name to toloc.city_name 
+
+i need a flight from city_name to toloc.city_name 
+i would like to fly from city_name to toloc.city_name 
+i would like to fly from city_name to toloc.city_name 
+i would like to fly from city_name to toloc.city_name 
+i need a flight from city_name to toloc.city_name 
+
+
+
+
+
+
+
+
+
+i want a flight from city_name to toloc.city_name that arrives no-later-than round_trip 
+i want a flight from city_name to toloc.city_name that arrives no-later-than round_trip 
+i need a flight from city_name to toloc.city_name arriving in toloc.city_name at depart_time.time 
+i want a flight round_trip from city_name to toloc.city_name 
+i want to fly from city_name to toloc.city_name and i want the cost_relative fare round_trip 
+i want to fly from city_name to toloc.city_name round_trip with the cost_relative fare 
+i want to fly from city_name to toloc.city_name round_trip with the cost_relative fare 
+please list flights from city_name to toloc.city_name 
+please list flights from city_name to toloc.city_name 
+please list flights from city_name to toloc.city_name 
+please list flights from city_name to toloc.city_name 
+please show ground transportation to toloc.city_name 
+please list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+show flights from city_name to toloc.city_name 
+show flights from city_name to toloc.city_name 
+show flights from city_name to toloc.city_name 
+show flights from city_name to toloc.city_name 
+show flights from city_name to toloc.airport_name 
+show flights from city_name to toloc.city_name 
+show flights from city_name to toloc.airport_name 
+
+
+
+
+
+
+
+
+list flights from city_name to toloc.city_name 
+what flights go from city_name to toloc.city_name 
+what flights go from city_name to toloc.city_name 
+i need an early flight from city_name to toloc.city_name 
+what types of ground transportation are available in toloc.city_name 
+what flights go from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+is ground transportation available in toloc.city_name 
+i need to fly from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+flights from fromloc.state_name to toloc.city_name 
+flights from city_name to toloc.city_name 
+flights from city_name to toloc.city_name 
+i would like flight information from city_name to toloc.city_name 
+could i have flight information on flights from city_name to toloc.city_name please 
+could i have flight information on flights from city_name to toloc.city_name please 
+
+i need information on flights from fromloc.state_name to toloc.city_name that leave on a depart_date.day_name 
+i need the flights from fromloc.state_name to toloc.city_name on a depart_date.day_name 
+i need the fares on flights from fromloc.state_name to toloc.city_name on a depart_date.day_name 
+i want to go from city_name to toloc.state_name on a depart_date.day_name 
+
+get fares from fromloc.state_name to toloc.city_name 
+
+get fares from fromloc.state_name to toloc.city_name 
+
+
+
+
+
+get flights from city_name to toloc.airport_code 
+list flights from city_name to toloc.city_name 
+get flights from city_name to toloc.city_name 
+get flights from city_name to toloc.city_name 
+get last flight from city_name to toloc.city_name on depart_date.day_name or first flight from city_name to toloc.city_name on depart_date.day_name 
+get first flight from city_name to toloc.city_name on depart_date.day_name 
+get last flight from city_name to toloc.city_name on depart_date.day_name 
+
+
+get flights between fromloc.city_name and toloc.city_name 
+
+
+
+
+
+
+i need flight information for flights departing from city_name to toloc.city_name on depart_date.day_name after depart_time.time 
+i need flight information for flights departing from city_name to toloc.city_name on depart_date.day_name after depart_time.time 
+i need a flight from city_name to toloc.city_name on depart_date.day_name 
+
+i need flight and airline information for a flight from city_name to toloc.city_name on depart_date.day_name departing after depart_time.time 
+
+
+
+i need a flight from city_name to toloc.city_name on depart_date.day_name departing after depart_time.time 
+i need flight and fare information for depart_date.day_name departing round_trip round_trip from city_name going to toloc.city_name 
+i need flight and fare information departing from city_name to toloc.city_name on depart_date.day_name before depart_time.time 
+i need flight numbers and airlines for flights departing from city_name to toloc.city_name on depart_date.day_name departing before depart_time.time 
+i need flight numbers for those flights departing on depart_date.day_name before depart_time.time from city_name going to toloc.city_name 
+
+
+
+
+list flights from city_name to toloc.city_name 
+
+list airports 
+
+
+which airlines fly between fromloc.city_name and toloc.city_name 
+please list arrive_time.period_of_day flights between fromloc.city_name and toloc.city_name 
+
+what are the flights from city_name to toloc.city_name 
+
+
+i need information on flights from city_name to toloc.city_name 
+i need a flight from city_name to toloc.city_name 
+i need a ticket from city_name to toloc.city_name 
+
+i need flight information from city_name to toloc.city_name 
+
+
+i need flights departing from city_name and arriving city_name 
+i need information on flights from city_name to toloc.city_name 
+i need information on flights from city_name to toloc.city_name 
+i want a flight from city_name to toloc.city_name 
+i need information on flights between fromloc.city_name and toloc.city_name 
+
+which flights go from fromloc.state_name to toloc.city_name and back 
+what does fare code qo mean 
+show me flights from city_name to toloc.airport_name round_trip 
+what the abbreviation us stand for 
+
+show me flights from city_name to toloc.airport_name 
+what does fare code f mean 
+what does fare code h mean 
+what does fare code y mean 
+what are restrictions ap-57 
+please show me class_type flights from city_name to toloc.city_name round_trip leaving before depart_time.time 
+now show me all round_trip flights from city_name to toloc.city_name that arrive before depart_time.time in toloc.city_name 
+round_trip flights from city_name to toloc.city_name please 
+what airline is dl 
+show me all delta-airlines flights from city_name to toloc.airport_name 
+show me all flights from city_name to toloc.city_name please 
+which airline is round_trip 
+please list all flights from fromloc.state_name to toloc.city_name any any type of class 
+what does fare code round_trip mean 
+show me a round_trip flight from city_name to toloc.airport_code please 
+what does fare code round_trip mean 
+what does fare code round_trip mean 
+what does fare code round_trip mean 
+what does fare code round_trip mean 
+show me round_trip flights from city_name to toloc.airport_name after depart_time.time on depart_date.day_name 
+show me the flights from city_name to toloc.city_name 
+show me round_trip flights from city_name to toloc.city_name 
+show me round_trip flights from city_name to toloc.city_name 
+
+show me round-trips between fromloc.city_name and toloc.airport_name 
+show me round_trip flights from city_name to toloc.airport_name 
+show me the cost_relative round_trip flights from city_name to toloc.airport_name 
+show me the cost_relative round_trip flights from city_name to toloc.city_name 
+show me the cost_relative class_type flights from city_name to toloc.state_name 
+city_name to toloc.city_name class_type 
+city_name to toloc.city_name class_type 
+what airline is hp 
+ground transportation in toloc.city_name 
+ground transportation for city_name 
+city_name to toloc.city_name class_type 
+city_name to toloc.city_name class_type 
+city_name to toloc.city_name class_type 
+what airline is us 
+which airline is us 
+which airline is us 
+which airline is us 
+which airline is us 
+city_name to toloc.city_name round_trip before depart_time.time 
+what airline is hp 
+city_name to toloc.city_name 
+
+
+what airline is round_trip 
+show me all flights from city_name to toloc.city_name 
+show me all flights from city_name to toloc.city_name 
+what airline is hp 
+show me ground transportation in toloc.city_name 
+show me flights from city_name to toloc.city_name 
+show me ground transportation in toloc.city_name 
+show me flights from city_name to toloc.airport_name 
+show me class_type flights from fromloc.state_name to toloc.city_name round_trip 
+show me class_type flights from fromloc.state_name to toloc.city_name round_trip 
+
+
+show me round_trip flights from city_name to toloc.city_name before depart_time.time on any-day 
+what does fare code f mean 
+show me round_trip flights from city_name to toloc.city_name 
+what does the restriction round_trip mean 
+what does fare code h mean 
+what airline is as 
+what airline is as 
+what airline is as 
+what airline is as as in toloc.state_name 
+
+
+
+
+show me weekday flights from city_name to toloc.airport_name round_trip 
+show me weekday flights from city_name to toloc.airport_name round_trip 
+what airline is hp 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name in the arrive_time.period_of_day 
+list flights from city_name to toloc.airport_name 
+list flights from city_name to toloc.city_name 
+list flights from city_name to toloc.airport_name on depart_date.day_name 
+list flights from city_name to toloc.city_name on depart_date.day_name 
+list flights from city_name to toloc.city_name 
+list distance from airports to toloc.airport_name in toloc.state_name 
+list airports in toloc.state_name 
+list airports in toloc.state_name 
+list airports in toloc.state_code 
+list airports 
+list airports in toloc.state_code 
+list airports in toloc.state_code 
+list the airports in toloc.state_code 
+
+
+list flights from fromloc.state_name to toloc.state_code 
+
+list flights from fromloc.state_code to toloc.airport_name 
+
+
+list flights from city_name to toloc.city_name with fares on depart_date.day_name 
+list flights from city_name to toloc.city_name on depart_date.day_name 
+list flights from city_name to toloc.city_name on depart_date.day_name 
+list flights from city_name to toloc.city_name on depart_date.day_name 
+list flights from city_name on depart_date.day_name arrive_time.period_of_day 
+list type of aircraft for all flights from city_name 
+
+what class is fare code q 
+list flights from city_name to toloc.city_name on depart_date.day_name of fare round_trip code of q 
+list round_trip for class_type round_trip from city_name to toloc.city_name 
+list coach round_trip airfare from city_name to toloc.city_name 
+list flights from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+list flights from city_name to toloc.city_name on depart_date.day_name 
+list flights before depart_time.time from city_name to toloc.city_name 
+
+list flights from city_name to toloc.city_name after depart_time.time 
+list airlines that fly from city_name to toloc.city_name 
+list city_name flights from city_name to toloc.city_name 
+list seating round_trip of city_name flights from city_name to toloc.city_name 
+list city_name flights from city_name to toloc.city_name with aircraft type 
+what ground transportation is there in toloc.city_name 
+list ground transportation in toloc.city_name 
+list flights from city_name to toloc.city_name on depart_date.day_name 
+give me the flights from city_name to toloc.city_name on depart_date.day_name 
+
+
+
+give me the flights and fares for a trip to toloc.city_name from city_name on depart_date.day_name 
+
+
+give me the flights from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+give me the flights from city_name to toloc.city_name on depart_date.day_name on american-airlines 
+give me the flights from city_name to toloc.city_name on american-airlines 
+give me the flights from city_name to toloc.city_name 
+
+
+give me flights from city_name to toloc.city_name that have meals on continental 
+give me the flights from city_name to toloc.city_name that have meals on continental depart_date.day_name arrive_time.period_of_day 
+
+
+
+
+
+
+
+
+
+
+give me a flight from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+can i have a arrive_time.period_of_day flight from city_name to toloc.city_name please 
+cost_relative round_trip fare from fromloc.state_code city_name to toloc.airport_name on month_name depart_date.day_number 
+cost_relative round_trip fare from city_name to toloc.airport_name on month_name depart_date.day_number 
+flight number from city_name to toloc.city_name 
+flight number from city_name to toloc.city_name 
+
+flight numbers on american-airlines from city_name to toloc.city_name 
+flight numbers from city_name to toloc.city_name 
+flight numbers from city_name to toloc.city_name on continental 
+flight numbers from city_name to toloc.city_name on continental 
+is there a fare from city_name to toloc.city_name under round_trip 
+how much is coach flight from city_name to toloc.city_name 
+city_name to toloc.city_name on depart_date.day_name 
+
+city_name to toloc.city_name on depart_date.day_name 
+
+city_name to toloc.city_name after depart_time.time 
+
+
+
+cost_relative fare round_trip from city_name to toloc.airport_name on month_name depart_date.day_number 
+city_name to toloc.city_name on depart_date.day_name arriving before depart_time.time 
+
+new-york-city to toloc.city_name and toloc.city_name to toloc.city_name on depart_date.day_name 
+new-york-city to toloc.city_name and toloc.city_name to toloc.city_name on depart_date.day_name 
+
+
+city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+
+
+
+city_name to toloc.city_name arrive_time.period_of_day on depart_date.day_name 
+
+city_name to toloc.city_name on depart_date.day_name 
+city_name to toloc.city_name on depart_date.day_name 
+city_name to toloc.city_name on depart_date.day_name 
+a flight from city_name to toloc.city_name arriving between fromloc.state_name and toloc.state_name 
+how many northwest flights leave city_name 
+
+how many flights does northwest have leaving round_trip 
+what round_trip does northwest fly out of 
+list the round_trip from which northwest flies 
+what round_trip does northwest fly to 
+i would like a connecting flight from city_name to toloc.city_name leaving after depart_time.time 
+please list all the flights from city_name to toloc.city_name 
+tell me again the arrive_time.period_of_day flights on american-airlines from city_name to toloc.city_name 
+tell me the flights that leave city_name and go to toloc.city_name 
+what is a d9s 
+what type of plane is a d9s 
+what is a d9s 
+show me the airports serviced by tower-air 
+
+show me the class_type and coach flights from fromloc.state_name to toloc.city_name 
+
+are meals ever served on tower-air 
+are round_trip served on tower-air 
+
+show delta-airlines from city_name to salt-lake 
+show delta-airlines flights from city_name to salt-lake 
+show delta-airlines flights from city_name to toloc.city_name 
+
+what is the cost_relative fare from city_name to toloc.city_name 
+
+
+show me the cost of a class_type ticket from city_name to toloc.city_name and back 
+
+
+
+what is the round_trip flight from city_name to toloc.airport_name 
+what is the round_trip flight from city_name to toloc.airport_name 
+show me the flights between fromloc.city_name and toloc.airport_name 
+show me the flights between fromloc.city_name and toloc.airport_name 
+show me the flights from city_name to toloc.airport_name 
+list all flights leaving city_name between fromloc.state_name and toloc.state_name 
+what is the seating capacity on the aircraft round_trip 
+what is the seating capacity of a round_trip 
+what is the seating capacity of the aircraft round_trip 
+what is the seating capacity of the aircraft m80 
+what is the seating capacity of the type of aircraft m80 
+what is the seating capacity of an m80 
+what airlines serve city_name 
+list the airlines with flights to toloc.state_code from city_name 
+what airlines fly into city_name 
+
+what is the capacity of the round_trip 
+what is round_trip 
+what is seating capacity on the aircraft round_trip 
+what is the seating capacity of a round_trip 
+how many people will a round_trip hold 
+how many passengers can fly on a round_trip 
+
+
+
+what is the seating capacity of the round_trip 
+tell me about the m80 aircraft 
+tell me about the m80 aircraft 
+tell me about the type of aircraft round_trip an m80 
+what is the seating capacity of the round_trip 
+what is the seating capacity of the m80 
+what is the seating capacity on the aircraft m80 
+
+
+
+please list all flights from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+please list the flights from city_name to toloc.city_name on depart_date.day_name arrive_time.period_of_day 
+is there ground transportation from the round_trip into town when if i arrive at depart_time.time in the arrive_time.period_of_day 
+please list the flights from city_name to new-york-city on a depart_date.day_name arrive_time.period_of_day 
+
+what ground transportation is available from fromloc.state_name into new-york-city 
+
+
+
+show me the arrive_time.period_of_day flights from city_name to new-york-city 
+give me the flights from new-york-city to toloc.city_name leaving after depart_time.time on depart_date.day_name 
+tell me about the ground transportation from fromloc.state_name 
+
+how many flights does round_trip have to toloc.city_name 
+list the round_trip flights from city_name to toloc.state_name 
+list the round_trip flights from city_name 
+which airline is as 
+list the round_trip flights arriving in toloc.city_name 
+list the round_trip flights a departing from city_name 
+list all round_trip flights 
+list all flights departing from city_name 
+
+list the cost_relative fare from city_name to toloc.city_name 
+i want a flight from city_name to toloc.city_name early in the arrive_time.period_of_day 
+i would like a arrive_time.period_of_day flight from city_name to toloc.city_name 
+i'd like a arrive_time.period_of_day flight from city_name to toloc.city_name 
+i'd like an arrive_time.period_of_day flight from city_name to toloc.city_name 
+
+
+
+i would like a flight on depart_date.day_name arrive_time.period_of_day from city_name to toloc.city_name 
+i would like a flight from city_name to toloc.city_name on american 
+what type of aircraft is used for the american flight leaving at depart_time.time 
+
+what flights go from city_name to toloc.city_name 
+what are the flights from city_name to toloc.city_name 
+what are the flights from city_name to toloc.city_name 
+what are the flights from city_name to toloc.city_name 
+
+
+what are the flights from city_name to toloc.city_name 
+what are the flights from city_name to toloc.city_name 
+
+
+
+
+
+what are the flights from city_name to toloc.airport_name that stop in toloc.state_name 
+i need a arrive_time.period_of_day flight from city_name to toloc.city_name on next depart_date.day_name 
+
+
+
+i need a flight from salt-lake to toloc.state_name that arrives on depart_date.day_name before depart_time.time 
+i'd like a flight from city_name to toloc.state_name that arrives on depart_date.day_name before depart_time.time 
+
+i need a flight from city_name to toloc.city_name that goes through city_name 
+
+
+
+what are the flights between fromloc.city_name and toloc.city_name on depart_date.day_name 
+what are the american flights from city_name to toloc.city_name 
+the flights from city_name to toloc.state_name that stop in toloc.city_name 
+please list the flights from city_name to toloc.city_name 
+please list the flights from city_name to toloc.city_name 
+please list the flights from city_name to toloc.city_name 
+please list the flights from city_name to toloc.city_name on american-airlines 
+please give me the flights from city_name to toloc.city_name on month_name depart_date.day_number 
+please give me the flights from city_name to toloc.city_name on month_name depart_date.day_number 
+please list all the flights from city_name to toloc.city_name on month_name depart_date.day_number 
+please list all the flights from city_name to toloc.city_name on month_name depart_date.day_number 
+i'd like to travel from city_name to toloc.city_name 
+
+can you find me round_trip flight from city_name to toloc.state_name on depart_date.day_name before depart_time.time 
+
+
+
+i'd like a round_trip flight from city_name to toloc.city_name on depart_date.day_name month_name depart_date.day_number arriving at depart_time.time 
+yes i'd like to find a flight from city_name to toloc.city_name stopping in toloc.city_name 
+find flight from city_name to toloc.city_name on depart_date.day_name am 
+find flight from city_name to toloc.city_name on depart_date.day_name 
+find flight from city_name to toloc.city_name on depart_date.day_name 
+find flight from city_name to toloc.airport_name on depart_date.day_name 
+find flight from city_name to toloc.city_name on depart_date.day_name 
+find flight from city_name to toloc.city_name on depart_date.day_name 
+find flight from city_name to toloc.city_name on depart_date.day_name 
+
+please find a flight round_trip from city_name to toloc.city_name city_name with a stopover in toloc.city_name round_trip the city_name of round_trip for month_name depart_date.day_number round_trip 
+are there any flights on month_name depart_date.day_number from city_name to toloc.city_name 
+please find a flight from city_name to toloc.state_name that makes a stop in toloc.city_name on month_name depart_date.day_number round_trip with dinner 
+like to book a flight from city_name to toloc.city_name 
+show me all the flights from city_name to toloc.city_name 
+find me all the flights from city_name to toloc.city_name 
+now show me all the flights from city_name to toloc.city_name 
+is there one airline that flies from city_name to toloc.city_name city_name to toloc.city_name and from city_name to toloc.city_name 
+find me all the round_trip flights from city_name to toloc.city_name stopping in toloc.city_name 
+i'd like to book two flights to westchester-county 
+i want to book a flight from city_name to westchester-county 
+tell me all the airports near westchester-county 
+
+tell me all the airports in the new-york-city area 
+
+
+i'd like to fly from city_name to toloc.city_name on american-airlines 
+i would like to book a round_trip flight from city_name to toloc.city_name 
+find me a flight that flies from city_name to toloc.city_name 

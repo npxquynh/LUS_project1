@@ -1,0 +1,52 @@
+VerbPhrase Vinf Object
+
+i want to fly from boston at 838am and arrive in denver at 1110 in the morning
+
+@list @flight | @price_indicator @flight
+@list show me | list | i want to | i need | please give me
+@flight @flightfilter @fromloc @toloc | @flightfiller @fromloc @toloc @stoploc | @flightfilter @departure_time @fromloc @toloc | @flightfilter @fromloc @toloc @departure_time | @flightfilter @fromloc @departure_time @conjunction @toloc @arrival_time | @flightfilter @toloc @departure_time
+@flightfilter flight | a flight | the flight | the flights | flights | fly | flies | all flights | <epsilon>
+@fromloc from fromloc.city_name
+@toloc to toloc.city_name | @arrive_filter in toloc.cityname
+@arrive_filter arrive | arrives | arriving
+@stoploc by way of stoploc.city_name
+@departure_time at time | on depart_date.day_name | on depart_date.day_name depart_time.period_of_day | in the depart_time.period_of_day | of depart_date.date_relative @time_measurement | depart_date.today_relative | depart_date.date_relative | depart_time.time_relative
+@arrival_time at time | on arrive_date.day_name | on arrive_date.day_name arrive_time.period_of_day | in the arrive_time.period_of_day | arrive_date.today_relative | arrive_date.date_relative
+@time_measurement week | month | day | year
+@conjunction and | or
+@price_indicator cost_relative airfare
+
+Word 930am | 1100am
+can we add rule to grammar from the word in test set?
+
+testset: 930am
+
+wordtoconcept
+830am depart_time.city_name
+830am depart_time.time
+830am
+
+
+ArrivalSignal arrive | arriving
+ArrivalPhrase ArrivalConcept ArrivalPhrase2
+ArrivalPhrase2 Word ArrivalPhrase
+ArrivalPhrase2 Word Phrase
+Phrase DepartureSignal DeparturePhrase
+Phrase ArrivalSignal ArrivalPhrase
+DepartureSignal from
+DeparturePhrase DepartureConcept DeparturePhrase2
+DeparturePhrase2 Word DeparturePhrase2
+DeparturePhrase2 Word Phrase
+
+Phrase DepartureConcept Phrase
+Phrase ArrivalConcept Phrase
+DepartureConcept depart_date.date_relative | depart_date.day_name | depart_date.day_number | depart_date.month_name | depart_date.today_relative | depart_date.year | depart_time.end_time | depart_time.period_mod | depart_time.period_of_day | depart_time.start_time | depart_time.time | depart_time.time_relative | fromloc.airport_code | fromloc.airport_name | fromloc.city_name | fromloc.state_code | fromloc.state_name
+ArrivalConcept arrive_date.date_relative | arrive_date.day_name | arrive_date.day_number | arrive_date.month_name | arrive_date.today_relative | arrive_time.end_time | arrive_time.period_mod | arrive_time.period_of_day | arrive_time.start_time | arrive_time.time | arrive_time.time_relative | toloc.airport_code | toloc.airport_name | toloc.city_name | toloc.country_name | toloc.state_code | toloc.state_name
+
+
+Phrase NP Phrase
+NP Adj flight
+Adj flight_mod
+
+
+PP leave FromConcept

@@ -1,0 +1,14 @@
+period_of_day, morning noon afternoon evening night
+flight_stop, nonstop nonstops non-stop non-stops
+date_relative, next previous consecutive same
+flight_days, daily weekly bi-weekly
+flight_mod, first earliest
+time_relative, around before after
+class_type, first-class business business-class economy economy-class
+today_relative, tomorrow yesterday
+flight-time, departure-time departure-times arrival-time arrival-times
+cost_relative, least expensive least-expensive cheap cheapest
+round_trip, one-way return two-way round-trip both-way
+around, around
+before, before
+after, after

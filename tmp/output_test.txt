@@ -1,0 +1,893 @@
+null null null null null null null null city_name null toloc.city_name null null null null null toloc.city_name 
+null month_name depart_date.day_number null null null null null city_name null toloc.airport_name null null depart_time.time 
+null month_name depart_date.day_number null null null null null null city_name null toloc.city_name 
+null null null null null fromloc.state_name round_trip null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null null null city_name null toloc.city_name null month_name depart_date.day_number null null 
+
+
+null depart_date.day_name month_name depart_date.day_number null null null null null null city_name null toloc.city_name null depart_time.time 
+null depart_time.time null depart_date.day_name month_name depart_date.day_number null null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name null depart_date.day_name month_name depart_date.day_number 
+null null null null city_name null toloc.city_name null 
+
+null null null null city_name null toloc.city_name null null depart_date.day_name null null toloc.city_name null round_trip 
+null null null null city_name null toloc.city_name null null toloc.city_name null round_trip 
+
+
+null null null city_name null toloc.city_name null null 
+null null depart_date.today_relative arrive_time.period_of_day null city_name null toloc.city_name 
+
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+
+
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+
+null null null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null city_name null toloc.city_name 
+
+null null null null city_name null toloc.airport_name 
+
+null null null null null city_name null toloc.airport_name 
+null null null null null null null null city_name null toloc.city_name null null 
+null null null null null city_name null toloc.airport_name 
+null null null null null null null city_name null toloc.airport_name 
+null null null null null city_name null toloc.airport_name null null toloc.state_name 
+null null null null null city_name null toloc.airport_name null null toloc.city_name 
+null null null null null 
+null null null null null city_name null toloc.city_name 
+
+
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null null null fromloc.state_name null city_name null toloc.city_name 
+null null null null null null null fromloc.state_name null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name null null null toloc.city_name 
+
+
+
+
+
+
+
+null null null null depart_date.day_name null city_name null null null toloc.city_name null null arrive_time.period_of_day 
+null null null city_name null month_name depart_date.day_number null null null toloc.city_name null null arrive_time.period_of_day 
+null null null null depart_date.day_name month_name depart_date.day_number null city_name null null null toloc.city_name null null arrive_time.period_of_day 
+
+null null null null null city_name null toloc.city_name null null null null null null toloc.city_name null null null null null null null null null 
+
+
+null null null null null null arrive_time.period_of_day null null null null null city_name null toloc.city_name 
+
+
+
+
+null depart_date.day_name arrive_time.period_of_day null null null null null null city_name null toloc.city_name 
+null null null null null null null null city_name null toloc.city_name 
+null depart_date.day_name arrive_time.period_of_day null null null null null null city_name null toloc.city_name 
+null depart_date.day_name arrive_time.period_of_day null null null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name null null null stoploc.city_name 
+
+null null null null null city_name null toloc.state_name 
+
+null null null null null city_name null toloc.city_name null depart_date.day_name 
+null null null null null city_name null toloc.city_name null round_trip 
+null null null null null city_name null toloc.city_name null null null null toloc.city_name depart_date.today_relative 
+
+null null null null null city_name null toloc.city_name 
+null null null null null null null city_name null toloc.city_name null toloc.airport_name null null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.airport_name 
+null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name null city_name null null arrive_time.period_of_day 
+null null null null null null null null null toloc.city_name 
+
+null null null null toloc.city_name null city_name null depart_date.day_name null null arrive_time.period_of_day 
+null null null null toloc.city_name null city_name null depart_date.day_name month_name depart_date.day_number null null arrive_time.period_of_day 
+
+null null null null null city_name null toloc.city_name null month_name depart_date.day_number null null round_trip 
+null null null city_name null null toloc.city_name null month_name depart_date.day_number null null arrive_time.period_of_day 
+null null null null null month_name depart_date.day_number null null arrive_time.period_of_day null city_name null toloc.city_name 
+null null null null null city_name null toloc.airport_name null null arrive_time.period_of_day null month_name depart_date.day_number 
+null null null null null city_name null toloc.city_name null null null arrive_time.period_of_day null month_name depart_date.day_number 
+
+
+
+null null null null null null city_name null toloc.city_name null null null 
+null null null flight_mod null null fromloc.city_name null toloc.city_name null null null 
+null null round_trip null city_name null null null class_type 
+null null null null city_name null toloc.city_name 
+null null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name null null null toloc.city_name 
+null null null null null city_name null toloc.city_name null null null toloc.city_name 
+null city_name null toloc.city_name null null null null toloc.city_name 
+null null null null null null fromloc.city_name null toloc.city_name null null null null null null 
+null null null null arrive_time.period_of_day null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null fromloc.state_name null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name null depart_date.day_name 
+
+null null null null null null city_name null toloc.city_name null null null depart_time.time or round_trip null depart_date.day_name 
+null null null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null round_trip null depart_date.day_name null city_name null toloc.city_name null 
+null null null null null null city_name null toloc.city_name null depart_date.day_name null null null depart_time.time 
+null null null null null city_name null toloc.state_name 
+null null null null fromloc.state_code null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+
+null null null null null null city_name null null 
+null round_trip null null null city_name null null 
+
+null null null null null city_name null toloc.city_name null null null depart_time.time depart_date.today_relative 
+null null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null null null city_name null toloc.city_name null month_name depart_date.day_number null depart_time.time 
+null null null null null null city_name null toloc.city_name null month_name depart_date.day_number null depart_time.time 
+null null null null null city_name null toloc.city_name null month_name depart_date.day_number null round_trip 
+null null null null null toloc.city_name 
+null null null null null null null toloc.city_name 
+null null null null null null null null toloc.city_name 
+null null null null null city_name null null null month_name depart_date.day_number null depart_time.time 
+null null null null null null 
+null null null null null null null null month_name depart_date.day_number null null null toloc.city_name null depart_time.time 
+null null null null month_name depart_date.day_number null null null null toloc.city_name 
+null month_name depart_date.day_number null null null null null null toloc.city_name 
+null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null city_name null null null month_name depart_date.day_number 
+null null null null null null toloc.city_name null month_name depart_date.day_number 
+null null null null city_name null null null month_name depart_date.day_number 
+null null null null null null toloc.city_name null month_name depart_date.day_number 
+null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null city_name null toloc.city_name null month_name depart_date.day_number null depart_time.time 
+null null null null city_name null null null month_name depart_date.day_number 
+null null null null null null toloc.city_name null month_name depart_date.day_number null null depart_time.time 
+null null null null null null fromloc.state_name null toloc.state_name null month_name depart_date.day_number 
+
+null null null null city_name null toloc.state_name null depart_time.time 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name null null month_name depart_date.day_number 
+
+null null null null city_name null toloc.city_name null null month_name depart_date.day_number 
+null null null null null 
+null null null null null round_trip 
+null null null null null null round_trip 
+null null round_trip null null null round_trip 
+null null null null null null null null null city_name null toloc.city_name null null null null null toloc.city_name 
+
+
+null null null null null city_name null toloc.airport_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null cost_relative round_trip null null null city_name null toloc.city_name 
+
+null null null city_name null null null null null null null null 
+null null meal null round_trip 
+
+null null null city_name null null city_name null toloc.city_name 
+null null city_name null fromloc.state_name 
+null null null null null depart_date.day_name 
+null null null null null null 
+null null null null city_name 
+
+null null null null city_name null null arrive_time.period_of_day null null null toloc.city_name 
+null null null null city_name null null null toloc.city_name null null arrive_time.period_of_day 
+null null null null city_name null null round_trip null null null toloc.city_name 
+null null null null city_name null null null toloc.city_name 
+null null null null null city_name null null null toloc.city_name 
+
+null null null null fromloc.state_name null null null toloc.city_name null depart_time.time 
+
+
+
+
+null null null null null null null toloc.city_name 
+null null null null null null null toloc.airport_name 
+null null null null null null null toloc.state_name 
+null null null null null null toloc.city_name 
+
+
+
+null null null null null null null null fromloc.state_name null toloc.city_name 
+
+null null null null null null toloc.city_name null depart_date.day_name null depart_time.time 
+null null null class_type round_trip null null fromloc.state_name city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null null null null city_name null toloc.city_name null null depart_date.day_name arrive_time.period_of_day 
+null null null null null null null city_name null toloc.city_name null null depart_date.day_name arrive_time.period_of_day 
+null null null null null null null null null null fromloc.city_name null toloc.city_name 
+null null null null city_name null toloc.city_name null depart_date.day_name 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name null depart_date.day_name 
+
+null null null null null city_name 
+null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name null 
+
+null null null null city_name null null null toloc.city_name null null toloc.state_name null depart_date.day_name 
+
+
+null null null null city_name null toloc.city_name 
+null round_trip null null city_name null toloc.city_name 
+null arrive_time.period_of_day null null city_name null toloc.city_name 
+
+
+
+
+null null null null null null toloc.city_name null depart_time.time 
+
+null null null null null 
+null null null null toloc.state_name null null null toloc.airport_name city_name 
+null null null null toloc.state_name null fromloc.state_name round_trip null toloc.airport_name null 
+null null null null toloc.state_name null fromloc.state_name null toloc.airport_name city_name 
+
+null null null null null round_trip 
+
+
+
+
+
+null null null null city_name null toloc.city_name 
+null null null null null null null round_trip 
+null null null null null null city_name round_trip 
+null null null city_name null toloc.city_name null city_name round_trip 
+null null null city_name null toloc.city_name null city_name round_trip 
+
+
+
+
+
+null class_type null round_trip null city_name null toloc.city_name 
+null null null null null 
+
+
+
+
+
+
+
+
+null null null null city_name null toloc.city_name 
+null null null null null null class_type round_trip null null city_name null toloc.city_name 
+null null null null null null round_trip class_type null null city_name null toloc.city_name 
+
+
+
+
+
+
+
+
+
+
+
+
+
+city_name null toloc.city_name null 
+city_name null toloc.city_name class_type null 
+null null null null null null city_name null toloc.airport_name 
+null null null null null 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null null null city_name null toloc.city_name 
+null null null null fromloc.state_name null toloc.city_name 
+null null null null null city_name null toloc.state_name 
+null null null null null null city_name null city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null round_trip null 
+null null null null null null null null null city_name city_name null city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.airport_name 
+null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+
+null null round_trip null null city_name null toloc.airport_name null depart_date.day_name 
+null null null null city_name null toloc.city_name class_type null null null depart_time.time 
+null null null cost_relative round_trip null fromloc.city_name null toloc.city_name null null null depart_time.time 
+
+null null null round_trip 
+null null null cost_relative class_type round_trip null fromloc.state_name null toloc.city_name 
+null null null null null null null fromloc.state_name null toloc.city_name 
+null null null cost_relative round_trip null null city_name null toloc.city_name 
+null null null null cost_relative round_trip null null city_name null toloc.city_name 
+null null null cost_relative round_trip null null city_name null toloc.city_name 
+null null null cost_relative round_trip null null city_name null toloc.city_name 
+null null null cost_relative round_trip null null city_name null toloc.city_name null month_name depart_date.day_number round_trip 
+null null null cost_relative round_trip null null city_name null toloc.city_name null month_name depart_date.day_number round_trip 
+null null null null null null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null round_trip null null city_name null toloc.city_name 
+null null null null null null null null null null null toloc.city_name null arrive_time.period_of_day 
+null null null null null null null fromloc.city_name null toloc.city_name null fromloc.city_name null toloc.city_name null null fromloc.city_name null toloc.city_name 
+null null round_trip null null city_name null toloc.city_name null city_name null null null null 
+null null null null fromloc.city_name null toloc.city_name null city_name null null null null 
+null null null null city_name null toloc.airport_name null toloc.airport_name 
+null null null null city_name null toloc.airport_name 
+
+null null null null null fromloc.state_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day null null 
+null null null round_trip null null fromloc.state_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day null null 
+null null null null null fromloc.state_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day null null 
+null null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null 
+
+
+
+
+
+null null null fromloc.state_code null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+
+null null null null 
+
+
+
+null null null null null city_name null toloc.city_name 
+null null null null null null null city_name null toloc.airport_name 
+null null null null null null city_name null toloc.airport_name 
+null null null null 
+null null null null 
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.airport_name 
+null null null null null null city_name null toloc.city_name 
+null null round_trip null 
+
+null null cost_relative null null city_name null toloc.city_name null 
+null null null null null city_name null toloc.city_name null null city_name null toloc.city_name 
+null null cost_relative null null city_name null toloc.city_name 
+null null null null null null null toloc.city_name 
+null null cost_relative null depart_date.today_relative null city_name null toloc.city_name 
+
+null null cost_relative null null city_name null toloc.city_name 
+null null null null city_name null null null toloc.city_name 
+
+null null null null 
+null null null null fromloc.city_name null toloc.city_name 
+
+
+null null null null null fromloc.city_name null toloc.city_name 
+null null round_trip null null 
+
+null null null null 
+
+null null null null null fromloc.city_name null toloc.city_name 
+null null null null null null fromloc.state_name null toloc.airport_name city_name 
+null null null null null round_trip null null 
+null null null null null null null round_trip 
+null null null null null fromloc.city_name null toloc.city_name 
+
+null null null null null null null null null 
+null null null null null fromloc.city_name null toloc.city_name null null round_trip null 
+
+null null null null null fromloc.city_name null toloc.state_name 
+null null null null null fromloc.city_name null toloc.city_name 
+
+
+
+
+
+
+
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+
+
+null null null fromloc.city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+
+
+
+null null null fromloc.city_name null toloc.city_name 
+
+null null null null null city_name null toloc.city_name 
+
+null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+
+
+
+
+
+
+
+
+
+null null null null null city_name null toloc.city_name null null null round_trip 
+null null null null null city_name null toloc.city_name null null null round_trip 
+null null null null null city_name null toloc.city_name null null toloc.city_name null depart_time.time 
+null null null null round_trip null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name null null null null cost_relative null round_trip 
+null null null null null city_name null toloc.city_name round_trip null null cost_relative null 
+null null null null null city_name null toloc.city_name round_trip null null cost_relative null 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.airport_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.airport_name 
+
+
+
+
+
+
+
+
+null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null null null toloc.city_name 
+null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null null toloc.city_name 
+null null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null fromloc.state_name null toloc.city_name 
+null null city_name null toloc.city_name 
+null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null null null city_name null toloc.city_name null 
+null null null null null null null null city_name null toloc.city_name null 
+
+null null null null null null fromloc.state_name null toloc.city_name null null null null depart_date.day_name 
+null null null null null fromloc.state_name null toloc.city_name null null depart_date.day_name 
+null null null null null null null fromloc.state_name null toloc.city_name null null depart_date.day_name 
+null null null null null city_name null toloc.state_name null null depart_date.day_name 
+
+null null null fromloc.state_name null toloc.city_name 
+
+null null null fromloc.state_name null toloc.city_name 
+
+
+
+
+
+null null null city_name null toloc.airport_code 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null null city_name null toloc.city_name null depart_date.day_name or null null null city_name null toloc.city_name null depart_date.day_name 
+null null null null city_name null toloc.city_name null depart_date.day_name 
+null null null null city_name null toloc.city_name null depart_date.day_name 
+
+
+null null null fromloc.city_name null toloc.city_name 
+
+
+
+
+
+
+null null null null null null null null city_name null toloc.city_name null depart_date.day_name null depart_time.time 
+null null null null null null null null city_name null toloc.city_name null depart_date.day_name null depart_time.time 
+null null null null null city_name null toloc.city_name null depart_date.day_name 
+
+null null null null null null null null null null city_name null toloc.city_name null depart_date.day_name null null depart_time.time 
+
+
+
+null null null null null city_name null toloc.city_name null depart_date.day_name null null depart_time.time 
+null null null null null null null depart_date.day_name null round_trip round_trip null city_name null null toloc.city_name 
+null null null null null null null null city_name null toloc.city_name null depart_date.day_name null depart_time.time 
+null null null null null null null null null null city_name null toloc.city_name null depart_date.day_name null null depart_time.time 
+null null null null null null null null null depart_date.day_name null depart_time.time null city_name null null toloc.city_name 
+
+
+
+
+null null null city_name null toloc.city_name 
+
+null null 
+
+
+null null null null fromloc.city_name null toloc.city_name 
+null null arrive_time.period_of_day null null fromloc.city_name null toloc.city_name 
+
+null null null null null city_name null toloc.city_name 
+
+
+null null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+
+null null null null null city_name null toloc.city_name 
+
+
+null null null null null city_name null null city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null null fromloc.city_name null toloc.city_name 
+
+null null null null fromloc.state_name null toloc.city_name null null 
+null null null null null null 
+null null null null city_name null toloc.airport_name round_trip 
+null null null null null null 
+
+null null null null city_name null toloc.airport_name 
+null null null null null null 
+null null null null null null 
+null null null null null null 
+null null null null 
+null null null class_type null null city_name null toloc.city_name round_trip null null depart_time.time 
+null null null null round_trip null null city_name null toloc.city_name null null null depart_time.time null toloc.city_name 
+round_trip null null city_name null toloc.city_name null 
+null null null null 
+null null null null null null city_name null toloc.airport_name 
+null null null null null city_name null toloc.city_name null 
+null null null round_trip 
+null null null null null fromloc.state_name null toloc.city_name null null null null null 
+null null null null round_trip null 
+null null null round_trip null null city_name null toloc.airport_code null 
+null null null null round_trip null 
+null null null null round_trip null 
+null null null null round_trip null 
+null null null null round_trip null 
+null null round_trip null null city_name null toloc.airport_name null depart_time.time null depart_date.day_name 
+null null null null null city_name null toloc.city_name 
+null null round_trip null null city_name null toloc.city_name 
+null null round_trip null null city_name null toloc.city_name 
+
+null null null null fromloc.city_name null toloc.airport_name 
+null null round_trip null null city_name null toloc.airport_name 
+null null null cost_relative round_trip null null city_name null toloc.airport_name 
+null null null cost_relative round_trip null null city_name null toloc.city_name 
+null null null cost_relative class_type null null city_name null toloc.state_name 
+city_name null toloc.city_name class_type 
+city_name null toloc.city_name class_type 
+null null null null 
+null null null toloc.city_name 
+null null null city_name 
+city_name null toloc.city_name class_type 
+city_name null toloc.city_name class_type 
+city_name null toloc.city_name class_type 
+null null null null 
+null null null null 
+null null null null 
+null null null null 
+null null null null 
+city_name null toloc.city_name round_trip null depart_time.time 
+null null null null 
+city_name null toloc.city_name 
+
+
+null null null round_trip 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null 
+null null null null null toloc.city_name 
+null null null null city_name null toloc.city_name 
+null null null null null toloc.city_name 
+null null null null city_name null toloc.airport_name 
+null null class_type null null fromloc.state_name null toloc.city_name round_trip 
+null null class_type null null fromloc.state_name null toloc.city_name round_trip 
+
+
+null null round_trip null null city_name null toloc.city_name null depart_time.time null null 
+null null null null null null 
+null null round_trip null null city_name null toloc.city_name 
+null null null null round_trip null 
+null null null null null null 
+null null null null 
+null null null null 
+null null null null 
+null null null null null null toloc.state_name 
+
+
+
+
+null null null null null city_name null toloc.airport_name round_trip 
+null null null null null city_name null toloc.airport_name round_trip 
+null null null null 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name null null arrive_time.period_of_day 
+null null null city_name null toloc.airport_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.airport_name null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.city_name 
+null null null null null toloc.airport_name null toloc.state_name 
+null null null toloc.state_name 
+null null null toloc.state_name 
+null null null toloc.state_code 
+null null 
+null null null toloc.state_code 
+null null null toloc.state_code 
+null null null null toloc.state_code 
+
+
+null null null fromloc.state_name null toloc.state_code 
+
+null null null fromloc.state_code null toloc.airport_name 
+
+
+null null null city_name null toloc.city_name null null null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null null null null null city_name 
+
+null null null null null null 
+null null null city_name null toloc.city_name null depart_date.day_name null null round_trip null null null 
+null round_trip null class_type round_trip null city_name null toloc.city_name 
+null null round_trip null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null depart_time.time null city_name null toloc.city_name 
+
+null null null city_name null toloc.city_name null depart_time.time 
+null null null null null city_name null toloc.city_name 
+null city_name null null city_name null toloc.city_name 
+null null round_trip null city_name null null city_name null toloc.city_name 
+null city_name null null city_name null toloc.city_name null null null 
+null null null null null null toloc.city_name 
+null null null null toloc.city_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null null null city_name null toloc.city_name null depart_date.day_name 
+
+
+
+null null null null null null null null null null toloc.city_name null city_name null depart_date.day_name 
+
+
+null null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null null city_name null toloc.city_name null depart_date.day_name null null 
+null null null null null city_name null toloc.city_name null null 
+null null null null null city_name null toloc.city_name 
+
+
+null null null null city_name null toloc.city_name null null null null null 
+null null null null null city_name null toloc.city_name null null null null null depart_date.day_name arrive_time.period_of_day 
+
+
+
+
+
+
+
+
+
+
+null null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null arrive_time.period_of_day null null city_name null toloc.city_name null 
+cost_relative round_trip null null fromloc.state_code city_name null toloc.airport_name null month_name depart_date.day_number 
+cost_relative round_trip null null city_name null toloc.airport_name null month_name depart_date.day_number 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+
+null null null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name 
+null null null city_name null toloc.city_name null null 
+null null null city_name null toloc.city_name null null 
+null null null null null city_name null toloc.city_name null round_trip 
+null null null null null null city_name null toloc.city_name 
+city_name null toloc.city_name null depart_date.day_name 
+
+city_name null toloc.city_name null depart_date.day_name 
+
+city_name null toloc.city_name null depart_time.time 
+
+
+
+cost_relative null round_trip null city_name null toloc.airport_name null month_name depart_date.day_number 
+city_name null toloc.city_name null depart_date.day_name null null depart_time.time 
+
+null null toloc.city_name null toloc.city_name null toloc.city_name null depart_date.day_name 
+null null toloc.city_name null toloc.city_name null toloc.city_name null depart_date.day_name 
+
+
+city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+
+
+
+city_name null toloc.city_name arrive_time.period_of_day null depart_date.day_name 
+
+city_name null toloc.city_name null depart_date.day_name 
+city_name null toloc.city_name null depart_date.day_name 
+city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.city_name null null fromloc.state_name null toloc.state_name 
+null null null null null city_name 
+
+null null null null null null null round_trip 
+null round_trip null null null null null 
+null null round_trip null null null null 
+null round_trip null null null null 
+null null null null null null null city_name null toloc.city_name null null depart_time.time 
+null null null null null null city_name null toloc.city_name 
+null null null null arrive_time.period_of_day null null null null city_name null toloc.city_name 
+null null null null null null city_name null null null toloc.city_name 
+null null null null 
+null null null null null null null 
+null null null null 
+null null null null null null null 
+
+null null null class_type null null null null fromloc.state_name null toloc.city_name 
+
+null null null null null null 
+null round_trip null null null 
+
+null null null city_name null null 
+null null null null city_name null null 
+null null null null city_name null toloc.city_name 
+
+null null null cost_relative null null city_name null toloc.city_name 
+
+
+null null null null null null class_type null null city_name null toloc.city_name null null 
+
+
+
+null null null round_trip null null city_name null toloc.airport_name 
+null null null round_trip null null city_name null toloc.airport_name 
+null null null null null fromloc.city_name null toloc.airport_name 
+null null null null null fromloc.city_name null toloc.airport_name 
+null null null null null city_name null toloc.airport_name 
+null null null null city_name null fromloc.state_name null toloc.state_name 
+null null null null null null null null round_trip 
+null null null null null null null round_trip 
+null null null null null null null null round_trip 
+null null null null null null null null null 
+null null null null null null null null null null null 
+null null null null null null null null 
+null null null city_name 
+null null null null null null toloc.state_code null city_name 
+null null null null city_name 
+
+null null null null null null round_trip 
+null null round_trip 
+null null null null null null null round_trip 
+null null null null null null null round_trip 
+null null null null null round_trip null 
+null null null null null null null round_trip 
+
+
+
+null null null null null null null round_trip 
+null null null null null null 
+null null null null null null 
+null null null null null null null round_trip null null 
+null null null null null null null round_trip 
+null null null null null null null null 
+null null null null null null null null null 
+
+
+
+null null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null null city_name null toloc.city_name null depart_date.day_name arrive_time.period_of_day 
+null null null null null null round_trip null null null null null null null depart_time.time null null arrive_time.period_of_day 
+null null null null null city_name null null null null depart_date.day_name arrive_time.period_of_day 
+
+null null null null null null fromloc.state_name null null 
+
+
+
+null null null arrive_time.period_of_day null null city_name null null 
+null null null null null null null toloc.city_name null null depart_time.time null depart_date.day_name 
+null null null null null null null fromloc.state_name 
+
+null null null null round_trip null null toloc.city_name 
+null null round_trip null null city_name null toloc.state_name 
+null null round_trip null null city_name 
+null null null null 
+null null round_trip null null null toloc.city_name 
+null null round_trip null null null null city_name 
+null null round_trip null 
+null null null null null city_name 
+
+null null cost_relative null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name null null null arrive_time.period_of_day 
+null null null null arrive_time.period_of_day null null city_name null toloc.city_name 
+null null null arrive_time.period_of_day null null city_name null toloc.city_name 
+null null null arrive_time.period_of_day null null city_name null toloc.city_name 
+
+
+
+null null null null null null depart_date.day_name arrive_time.period_of_day null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name null null 
+null null null null null null null null null null null null depart_time.time 
+
+null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+
+
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+
+
+
+
+
+null null null null null city_name null toloc.airport_name null null null toloc.state_name 
+null null null arrive_time.period_of_day null null city_name null toloc.city_name null null depart_date.day_name 
+
+
+
+null null null null null null null toloc.state_name null null null depart_date.day_name null depart_time.time 
+null null null null null city_name null toloc.state_name null null null depart_date.day_name null depart_time.time 
+
+null null null null null city_name null toloc.city_name null null null city_name 
+
+
+
+null null null null null fromloc.city_name null toloc.city_name null depart_date.day_name 
+null null null null null null city_name null toloc.city_name 
+null null null city_name null toloc.state_name null null null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name 
+null null null null null city_name null toloc.city_name null null 
+null null null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null null null city_name null toloc.city_name null month_name depart_date.day_number 
+null null null null null city_name null toloc.city_name 
+
+null null null null round_trip null null city_name null toloc.state_name null depart_date.day_name null depart_time.time 
+
+
+
+null null null round_trip null null city_name null toloc.city_name null depart_date.day_name month_name depart_date.day_number null null depart_time.time 
+null null null null null null null null city_name null toloc.city_name null null toloc.city_name 
+null null null city_name null toloc.city_name null depart_date.day_name null 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.airport_name null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+null null null city_name null toloc.city_name null depart_date.day_name 
+
+null null null null round_trip null city_name null toloc.city_name city_name null null null null toloc.city_name round_trip null city_name null round_trip null month_name depart_date.day_number round_trip 
+null null null null null month_name depart_date.day_number null city_name null toloc.city_name 
+null null null null null city_name null toloc.state_name null null null null null toloc.city_name null month_name depart_date.day_number round_trip null null 
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null city_name null toloc.city_name 
+null null null null null null null city_name null toloc.city_name 
+null null null null null null null city_name null toloc.city_name city_name null toloc.city_name null null city_name null toloc.city_name 
+null null null null round_trip null null city_name null toloc.city_name null null toloc.city_name 
+null null null null null null null null 
+null null null null null null null city_name null null 
+null null null null null null null 
+
+null null null null null null null null null 
+
+
+null null null null null city_name null toloc.city_name null null 
+null null null null null null round_trip null null city_name null toloc.city_name 
+null null null null null null null city_name null toloc.city_name 

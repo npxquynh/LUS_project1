@@ -1,0 +1,48 @@
+Sentence Phrase
+Phrase <epsilon>
+Phrase Word Phrase
+Phrase PP Phrase
+Phrase FlightNumber Phrase
+Phrase OtherConcept Phrase
+Phrase DayRelativeConcept day Phrase
+PP FlightWord FromConcept
+PP from FromConcept
+PP from Word
+PP to ToConcept
+PP to Word
+PP to ToConcept and ToConcept
+PP by way of StopConcept
+PP at TimeConcept
+PP in PlaceConcept
+PP on DayNameConcept DateName
+PP on the DayNumberConcept
+PP on Word DateName
+PP for DateName
+PP between TimeConcept and TimeConcept
+PP before TimeConcept | after TimeConcept
+PP between FromConcept to ToConcept
+PP between FromConcept and ToConcept
+PP leaving DayNameConcept depart_date.period_of_day
+DateName MonthNameConcept DayNumberConcept
+DateName DayNameConcept
+PlaceConcept FromConcept | ToConcept | city_name
+OtherConcept depart_date.period_of_day | arrive_time.period_of_day
+OtherConcept class_type
+OtherConcept cost_relative | cost_relative round_trip
+OtherConcept flight_mod
+OtherConcept today_relative | depart_date.today_relative | arrive_date.today_relative
+OtherConcept city_name
+OtherConcept round_trip
+FromConcept from_loc.airport_name | fromloc.city_name | fromloc.state_code | fromloc.state_name
+ToConcept toloc.airport_code | toloc.airport_name | toloc.city_name | toloc.country_name | toloc.state_code | toloc.state_name
+StopConcept stoploc.airport_name | stoploc.city_name | stoploc.state_code
+TimeConcept depart_time.time
+TimeConcept arrive_time.time
+DayNameConcept day_name | depart_date.day_name | arrive_date.day_name
+MonthNameConcept month_name | depart_date.month_name | arrive_date.month_name
+DayNumberConcept day_number | depart_date.day_number | arrive_date.day_number
+FlightNumber flight flight_number
+FlightNumber in a flight_number
+FlightWord flight | flights
+Word to | on | and | by | way | of | for | leave | in | a | the | leaving | FlightWord
+Word <epsilon>
