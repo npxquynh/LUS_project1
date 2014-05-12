@@ -1,2 +1,5 @@
-./pic*
-./result*
+./pic*/*
+./result1/*
+./result2/*
+./result3/*
+./tmp/*

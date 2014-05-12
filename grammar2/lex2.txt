@@ -1,8 +1,0 @@
-eps 0
-Pro 1
-Verb    2
-Noun    3
-Sentence 4
-like    5
-trains  6
-I   7

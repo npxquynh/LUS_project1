@@ -1,6 +1,0 @@
-SS @list@ @flight@
-@list@ show me | list | <epsilon>
-@flight@ @flightfiller@ @fromloc @toloc | @flightfiller@ @fromloc @toloc @stoploc
-@flightfiller@ flight | a flight | the flight | the flights | flights
-@fromloc from fromloc.city_name
-@toloc to toloc.city_name
